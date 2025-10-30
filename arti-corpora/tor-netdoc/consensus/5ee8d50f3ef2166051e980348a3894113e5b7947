@@ -1,0 +1,8 @@
+opt network-status-version 3
+known-flags
+valid-until	5167-07-22 19:12:32
+pa =
+fresh-until 3025-04-22 14:52:32
+vote-status consensus
+valid-after +3023-01-22 19:12:32
+opt params  ::13

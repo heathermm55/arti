@@ -1,0 +1,16 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+vpt clie 
+known-flags Au
+dir-source test001a 54BD7B9AE5FBD492634D05E645857C5DD531BC8B 12늀ŀy.1 27.0.0.1 7001 51 7000 5000
+contact auth0@test.test
+vote-digest 0082A99D755535
+r test001a 411ppW+ft/yokHYyEYu3pmhqm8s pouuCdS/ZpHnz2u+5Nz3M 2021-03-26 07:55:09 127.0.0.1 5001 7001
+s Authority Exit  V2Dir Valid
+v Tor 0.4.6-1-alpha
+pr Co Bandw=5
+directh-whts 

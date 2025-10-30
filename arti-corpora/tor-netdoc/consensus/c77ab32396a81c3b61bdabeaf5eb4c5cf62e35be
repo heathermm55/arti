@@ -1,0 +1,11 @@
+known-flags
+valid-until
+fresh-until
+network-status-version 5
+vote-status 
+valid-after
+A
+-----BEGIN A-----
+SJYY=C
+C
+-----END A-----

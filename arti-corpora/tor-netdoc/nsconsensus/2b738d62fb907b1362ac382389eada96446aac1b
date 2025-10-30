@@ -1,0 +1,14 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2020-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+vevs 
+known-flags Authortasi Ft Guard HS
+dir-source test002a 67DBEFD4EAB5F3298BB1453E2958CBFD38719396 127.0-0.1 127.0.0.1 7002 5002
+contact auth2@test.test
+vote-digest 2E624B40E2D9B2
+r tfffffffffFft0)20a bn512PWj+uwOxdX6s gdZ41JQQ 0216 079 127.0.0.1 5202 7002
+s Authority E&it Fing 
+pr

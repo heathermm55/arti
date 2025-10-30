@@ -1,0 +1,11 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:39
+valid-until 2024-03-26 23:27:00
+vions 
+known-flags  d
+recommended-client-protocols =2 Link=4-5 MicrodescRelay=2
+recommended-relay-protocols Cons=2 Dec=2 Link=4 =7 Relay=2
+requRE-----

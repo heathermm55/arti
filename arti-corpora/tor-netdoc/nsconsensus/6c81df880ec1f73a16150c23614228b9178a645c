@@ -1,0 +1,21 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voersions 
+known-flags Authority Exit Ft BA05C713250A79B7F9CC140B14
+dir-source test000a E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 .1 127.0.0.1 7000 5000
+contact auth0@test.test
+vote-digest 0082A99D75DE8B9D7C1EF241296595A7FBDEB2
+r test002a bn57nX/oA8+yb12PWj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s Autitable V2Dir Valid
+v Tor 0.4.va
+pr ConCache=2 FlowcChe=2 FlowCtrl=1 =1-2 HSIntrend=1-2 irCache=2 FlLink=1-5 iLnkAuTh=1,3 Microdesc=1-2 Paddinmeasured=1
+p reject 1tatus consensusyGuards=2
+r test002a bn57nX/oA8+yb12PWj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s Autitable V2Dir Valid
+v Tor 0.4.va
+pr ConCache=2 FlowcChe=2 FlowCtrl=1 =1-2 HSIntrend=1-2 irCache=2 FlLink=1-5 iLnkAuTh=1,3 Microdesc=1-2 Paddinmeasured=1
+p reject 1tatus consensuSIntrend=1-2 irCache=2 FlLink=1E-----

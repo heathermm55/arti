@@ -1,0 +1,7 @@
+opt network-status-version 3
+known-flags
+f
+valid-until
+fresh-until
+vote-status consensus
+valid-after 2837-0154

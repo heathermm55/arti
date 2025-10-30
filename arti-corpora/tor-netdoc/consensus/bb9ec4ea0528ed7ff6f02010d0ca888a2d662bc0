@@ -1,0 +1,6 @@
+opt network-status-version 3
+opt known-flags
+valid-until
+fresh-until
+vote-status consensus
+valid-after 6328-01-02 28:8A

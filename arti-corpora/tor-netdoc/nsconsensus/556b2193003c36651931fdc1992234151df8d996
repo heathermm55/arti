@@ -1,0 +1,6 @@
+network-status-version 3
+vote-status consensus
+valid-after 3672-03-08 19:00:00
+fresh-until 44
+valid-until 3.5.105
+known-flags A

@@ -1,0 +1,20 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+vots 
+known-flags H
+3
+2
+2
+2
+2
+2
+z-Gp2
+dConsen2
+required-client2-pr
+otocols Cons=2 Desc=2 Lic=2 Rl=2 IIIILink=24-5 UFCEj8=
+shagestor 1.
+2

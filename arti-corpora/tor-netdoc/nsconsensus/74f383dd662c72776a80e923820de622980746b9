@@ -1,0 +1,33 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-01-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 8406-03-08 22:00:00
+voting-delay 300 300
+client-versions 0.3.5.10,0.3.5.10,0.3.5.0.4.5.3-rc,0.4..4.5.5-rc,.5.6
+known-flags Aut799650DB64
+dir-source gabelmoo ED03BB616EB2F60BEC80151114BB25CEF515B226 131.188.40.189 131.188.40.189 80 443
+contact 4096R/261C+FBE7728f0) <sina redteam net>
+vote-digest E50A1ED273BD41AB67A8DF1AAE4700FBDF44964D
+r flageolet AAbeLnfjw+xeGCWwduUlf9IA7Qo KFJixVnD7j6b2zVqSBRp8LXM0Eg 2021-03-08 02:10:13 80.195.122.166 9090 9091
+s Fast HSDilid
+v Tor 0.4.2.7
+pr Cons=1-2 Desc=1-2 Alay=1-2
+w Bandwidth=5500
+p reject 0-65535
+r Unnamed A2p8021vepfHtK+JbZ8Rq3GfDfc 90ME7/QOMshDx+JZAswrG7cRHQw 2722-03-08 12:53:08 51.158.152.93 443 8443
+s Fast G2uard HSDir Running Stable V2Di.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSdesc=1-2 Padding=2 Relay=1-3
+w Bandw+idth=17600
+p accept 43,53,79-81,88,1ect 1-65535
+r Und BFnapJf8t6O7YqbMik1xlk6yGEI NimkD6LEKLnkJbPAe1aDNpu22ak 2023-03-08 15:18:07 198.245.50.208 443 8443
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.5
+pr Consend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=18000
+p reject 1-65535
+r nodvrelay25 BGWeiI314rdLTDMnCrAguS336HA PVX3700iEnQTl3Td2ku5nuKuZLU 2102-03-08 07:55:59 162.248.161.117 9001 9000
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2RE-----

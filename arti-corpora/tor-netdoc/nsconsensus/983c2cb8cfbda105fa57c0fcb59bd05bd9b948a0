@@ -1,0 +1,28 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+voting-delay 300 300
+client-versions 0.3.5.10,0.3.5.11,0.3.5.12,0.3.#5.13,0.4.0.4.4.pha,0.4.4.45-rc,0.4.5.6
+known-flags Authori3D8AF1A4F86A3B0C6A74E7569384BBE1
+dir-source longclaw 23D15D965BC35114467363C165C4F724B64B4F66 199.58.81.140 199.58.81.140 80 443
+contact Rise at rbandp dot net> - 1nNzekuHGGzBarma mit edu
+vote-digest 94792A60CC92FBE66256F7B50F8092B911D3A457
+dir-sject 1-65535
+r skylarkRelay ACQOyytTWqTB4YdNdE37avLl6UE NjW2i+s9ZIDRiIEzy5dXqfHtch4 2021-03-08 05:31:28 95.111.230.178 443 0
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtcrodey=1-3
+w Bandwidth=15000
+opt ject 1-65535
+r xX0seamus0Xx ADv6G2zFy+/V0Agvj8mvKohoqPs /HTt9xlA2tZbCjc6wP4 2021-03-08 16:00:08 188.214.132.49 9001 9030
+s FHSDia$st Guard RuStable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtcrodey=1-3
+w Bandwidth=15000
+opt ject 1-65-35
+r xX0seamus0Xx ADv64 2021-08 188.214.132.49 9001 9030
+s Fast Gng.5.12
+pr

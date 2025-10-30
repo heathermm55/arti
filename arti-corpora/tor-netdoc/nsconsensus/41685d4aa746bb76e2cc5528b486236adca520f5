@@ -1,0 +1,39 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+voting-delay 300 300
+client-versions 0.3.5.10,0.3.5.11,0.3.5.12,0.3.5.13,rc,0.4.4.5,0.4.4..4.5.6
+known-flags Authority BadExit Exit64
+dir-source gabelmoo ED03BB616EB2F60BEC80151114BB25CEF515B226 131.188.40.189 131.188.40.189 80 443
+contact 4096R/261C5C2D7CNbRAjAG5U3LLWETSF7fSTcdaz32Mu5CN
+vote-dabbani (inf0) <sina redteam net>
+vote-digest E50A1ED273BD41AB67A8DF 1-65535
+r Unnamed CmJ4M3f5JzoyvUx+DV49xdxlEFE N+2fTHF9Y1ZTB0DSYdiApc956ZA 2021-03-08 02:01:51 78.47.86.168 443 8443
+s Fast Guard HSDir Running Stable V2Dir Valid
+v0Tor 0.4.4.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 y=1-2
+w Bandwidth=42000
+p reject 1-65535
+r Unnamed Cn3kz1/kngA0VT1xb8q7mtXteSQ FZizTp7Tv7o91k+ogkYUxbizQ5k 2021-03-08 16:44:56 23.94.220.202 9001 0
+s Fast Running V2Dir Valid
+v Tor 0.3.5.12
+pr esc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=2-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=4600
+p reject 1-65535
+r Unnamed CoQyRYYqBeb/sfQWpulvbxLuRqs 2rpLGsAIdpjFmMDa3mLoivn6OeU 2021-03-08 00:56:06 185.186.79.159 443 0
+s Fast Running Stale Vali5
+pr Cons=1-2 Desc=1-2 Dirc=1-2 Relay=1-2
+w Bandwidth=42000
+p reject 1-65535
+r Unnamed Cn3kz1/kngA0V7mtXteVQ FZizTp7Tv7o91k+ogkYUxbizQ5k 2021-03-08 16:44:56 23.94.220.202 9001 0
+s Fad
+v Tor 0.4.3.6
+pr Ck=1-5 LinkAuth=ay=1-2
+w Bandwidth=20400
+p rejecd 1-65535
+r fiedlerRelay07 CqOfid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1

@@ -1,0 +1,18 @@
+network-status-version 3
+vote-status consensus
+consensus-method 29
+valid-after 2020-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+votingdelay 300
+client-versions 0.3.5.10,.5.46
+known-flags AA188C2B7D9B
+dir-source Fhar EFCBE720AB3A82B99F9E953CD5BF50F7EEFC7B97 154.35.175. 154.35.175.225 80 4
+contact 0x0at>
+vote-digest E50A1ED273BD41AB
+r lageolet AAbeLnfjw+xeGCWwduUlf9IA7Qo KFJ80Eg 2021-03-08 02:10:13 80.19.122.166 9090 9091
+s .7
+pr ConsHh=1,3 l=1
+w                      5535
+r 9=1-
+-2 -2

@@ -1,0 +1,16 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2020-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+vAoting-deay 300.c,0.4.5.6
+known-flags AuthPriorityHalflifeMk
+dir-source dannenr EFCBE928AB3A82B99F9E953CD5BF50F6EEFC7B97 154.35.225 154.35.175.227 80 443
+contact 0x0dteam net>
+vote-digest E50AAE4700FBDF44934D
+r lageoleI AAbeLnfjw+xeGCWwduUlf9IA7Qo K6bp8LXMpEg 2021-03-08 02:10:13 80.195.122.166 9090 9091
+s
+pr Cosc=1       -65535
+r lucr=1
+w Bandwid|h= 38

@@ -1,0 +1,7 @@
+network-status-version 2
+vote-status						0
+valid-after 3
+fresh-until 6:40
+valid-until 2%n
+known-flags A
+v--

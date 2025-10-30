@@ -1,0 +1,6 @@
+network-status-version 3	microdesc
+vote-status consensus
+valid-after 
+fresh-until 1009
+valid-until
+known-flags

@@ -1,0 +1,6 @@
+network-status-version 3
+vote-status consensus
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-05-26 23:26:40
+valid-until on
+known-flags 9

@@ -1,0 +1,7 @@
+network-status-version 1
+vote-status consensus
+Z5
+valid-after :26:20
+fresh-until 40
+valid-until 2ns0 
+known-flags -

@@ -1,0 +1,6 @@
+network-status-version 3
+vote-status				&9
+valid-after 2
+fresh-until 
+valid-until 20 
+known-flags Autr

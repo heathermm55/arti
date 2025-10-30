@@ -1,0 +1,8 @@
+network-status-version 3
+vote-status
+consensus-method :20
+fresh-until N40
+valid-until 204
+client-versions 
+server-vs 
+known-flags sn--

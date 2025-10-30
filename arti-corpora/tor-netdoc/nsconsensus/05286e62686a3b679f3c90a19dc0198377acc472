@@ -1,0 +1,11 @@
+network-status-version 3
+vote-status consensus
+d 30
+valid-after 2021-03-07 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:05
+voting-delay 300 300.4.5.5-----END -rc,0.4.5.6
+known-flags Authorityd=2c=2 Relay=2
+params CircuitPmEntryGuards=1 NumNTorsPerTAP=100 UseOptimisti	ata=1 bwauthpid=1 cbttesfreq=10 hs_service_max_rdv_failures=1 hedRunInterval=2 NumDirectoryGuards=3 NumEntryGuards=1 NumNTorsPerTAP=3 NumEntryGuards=2 NumNTorsPerTAP=100 UsiOetpmist19ID=1 KISTSchedRunInterval=2 NumDinInterval=2 NumDirectoryGuards=3 NumEntryGuards=2 NumNTorsPerTAP=100 UsiOetpmist19ID=1 KISTSchedRunInterval=2 NumDirectoryGuards=3 NumEntryGuards=1 NumNTotionEnabled=1 DoSConnectionMaxConcurrentCount=50 DoSR33333333333s=1 ExtendByEd25519ID=1 KISTSchedRunInterval=2 NumDirectoryGuards=3 NumEntryGuards=1 NumNTorsPerTAP=100 UseOptimisti	ata=1 bwauthpid=1 cbttesfreq=10 hs_service_max_rdv_failures=1 hedRunInterval=2 NumDirectoryGuards=3 NumEntryGuards=1 NumNTorsPerTAP=3 NumEntryGuards=2 NumNTorsPerTAP=100 UsiOetpmist19ID=1 KISTSchedRunInterval=2 NumDirecurrentCount=50 DoSR333333333333333s=1 ExtendByEd25519ID=1 KISTSchedRunInterval=2 NumDirectoryGuards=3 NumEntryGuards=1 NumNTorsPerTAP=100 UseOptimisticData=1 bwauthpid=1 cbttesf0+GQrox662k=
+dir-source dann3 8000
+s Fast Guard Running Stable V2Dir

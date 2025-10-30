@@ -1,0 +1,7 @@
+network-status-version 3
+vote-status consensus
+co1
+valid-after 2020-3-23:26:0
+fresh-until
+valid-until -ve 
+known-flags A

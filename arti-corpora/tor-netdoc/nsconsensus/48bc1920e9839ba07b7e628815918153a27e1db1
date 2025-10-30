@@ -1,0 +1,24 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delclient-versions 
+server-versions 
+known-flags us0B14
+dir-source test000a E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 127.0.0.1 127.0.0.1 7000 5000
+contact auth0@test.test
+vote-digest 0082A99D75DE8B9D7C1EF241296595
+2
+2
+2
+2
+2
+H
+3
+2
+2
+2
+BA7FBDE79B2
+r test002a b-----

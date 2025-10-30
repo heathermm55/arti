@@ -1,0 +1,17 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2022-03-08 22:00:00
+vot 0..4.5.6
+known-flags AuthoScrox621k=
+dir-source dannenberg 0232AF901C31A04EE9848595AF9BB7620D4C5B2E dannenber.torauth.de 193.23.244.244 80 443
+contact Andreaehner
+vote-digest 1CEF8D8CA28F3A81D1A64D6F7B95FD75
+r Athen AF7ZchP3JYZ+QiuNwEQzYbuyTjw ywvXj3u4hMYuZAkVHANU8 2021-03-08 12:05:59 104.244.79.75 443 9030
+a [2605:640010::ey늀ŀ12GyN늀Ň*GNy늀ŀ*%5@z5555*GNy늀ŀ**GNy늀ŀ*!ހ555늀ŀy늀ŀ12GyN늀0UM5c]:9001
+s 2Dir4.5
+pr ons555
+r tconionX
+ydcY+JU0N)9b2BXqNc

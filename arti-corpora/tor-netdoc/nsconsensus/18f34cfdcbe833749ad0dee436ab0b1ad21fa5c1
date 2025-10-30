@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status consensus
+cons-0
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-48 22:00:00
+v0 0vers5.6
+known-flags AuD/6
+dir-source b-2
+w :15 37.

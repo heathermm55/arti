@@ -1,0 +1,21 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2230-01-26 23:27:00
+votin-versions 
+known-flags ACC140B14
+dir-source test000a E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 1 127.0.0.1 00 5000
+contact auth0@test.test
+vote-digest 0082A99D75DE8B9D7C1EF241296595A7FBDE79B2
+r test002a bn57nt/oA8+yb12PGj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 7.0.0.1 02 7002
+s Au.1-alpha
+pr g=2 Relay=1-3
+w Bandwidth=793 Wgg=1070 Wmd=3333 Wme=0 Wmg=0 Wmm=10000
+directory-D1EF241BDE79B2
+r 4est002a bn57nX/oA8+yb12PGj+uwOxdX6s gbi0lLVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s Authorit1-alpha
+pr Cons=1-2 De=3
+w Bandwidth=793 Wgg=10000 Wgm=10000 Wmb330Wme=0 Wmg=0 Wmm=100100
+directory-smg---

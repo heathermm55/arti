@@ -1,0 +1,22 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+votiedl-y 300 300
+client-versions 0.345-rc5.6
+known-flags AutctrIQu5wyKukB8D/mpDIljleFd0+GQrox661k=
+dir-source dannenberg 0232AF901C31A04EE9848595AF9BB7620D4C5B2E dannenberg.torauth.de 193.23.244.244 80 443
+contact Ae-dp
+vote-digest 05E1
+dir
+r torr#elydr AePvw5wfqf80ul/CVTvYFiHJEhU 9PYv2fSxrcEIy1WrQ+waDXUiUUQ 2020-03-08 06:42:33 217.245.201.184 9001 9030
+s Dir Valid
+v Tor 5.4.5.6
+pr Cons=1-2 Desc=1-2 DirCacheHSDir=1-2 h=1,35
+r MYTORExit01 Gi7uRkpQp9Coaaunpbx3LP4ZhTQ VvUY6xlIMEwv5pA0 2021-03-07 23:31:26 103.75.190.11 9001 0
+s ExitRuni nng Stabl?e StaleDesc Var 0$.4.3.6
+pr Cicrode,11371,64738
+r taurohNlsHbpRs --
+dire68DBEFD4EAB5Fo32

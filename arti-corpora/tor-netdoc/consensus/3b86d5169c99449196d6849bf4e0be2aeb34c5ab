@@ -1,0 +1,8 @@
+server-versions
+known-flags
+valid-until
+fresh-until
+vote-status consensus
+valid-after -7
+network-status-version 2
+32

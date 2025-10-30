@@ -1,0 +1,8 @@
+network-status-version                                       netwn ;
+vote-status consensus
+2
+valid-after 2019:Desc0
+fresh-until 21	2:00
+valid-until 2021
+known-flags 
+vote- 

@@ -1,0 +1,18 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+votingions 0.3.5.3r.6
+known-flags AutExit Fas ua1CC54E740
+dir-source maatuska 49007F787433103580E3B66A1707A00E30F2D15B 171.25.193.9 172.25.193.9 443 80
+contact 4borg>
+vote-digest B7C0418EEC28FA9F9306A511BFD435
+r r Aa4t4xQnbIL8zDYDocLzI45lL/M fgBvb/gsmrKPSmH2eXCyn1VyBtk 2021-03-08 01:46:21 99.241.160.189 9001 9030
+s Fr Running Stab10
+pr CoirCy=1-2
+w Bandidth=840
+p reject 0-65535
+r UnnaO2
+tttAic

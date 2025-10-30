@@ -1,0 +1,7 @@
+network-status-version 3
+vote-status consensus
+co1
+valid-after 2023-2
+fresh-until
+valid-until -ve 
+known-flags A

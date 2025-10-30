@@ -1,0 +1,20 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delay 4 4
+client-versions 
+server-versions 
+known-flags Aty Exit 2KLdZmAyQxfrX7ZgV6U4=
+dir-source test001a 54BD7B9AE5FBD492633D05E645857C5DD531BC8B 127.0.0.1 127.0.0.1 7000 5000
+contact auth0@test.test
+vote-digest 0082A99D75DE8B9D7C1EF241296595A7FBDE79B2
+r test002a bn57nX/oA8+yb12PWj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s Authority Exit Fast Guard HSDir Running St0.4.6.1-alpha
+pr Cons=1-2 Dcrodescured=1
+p reject 1-65535
+r test004r nNRsqTpMgtV8nmR/dCWkTQVSB0c xUfWdCYMk//JeXW/6tF+O8652lk 2021-03-26 07:55:11 127.0.0.1 5004 0
+s Exit Faunning Stable V.1-alpha
+pr

@@ -1,0 +1,7 @@
+network-status-version 3
+vote-status consensus
+c1
+valid-after +
+fresh-until 0
+valid-until 
+known-flags A6 3

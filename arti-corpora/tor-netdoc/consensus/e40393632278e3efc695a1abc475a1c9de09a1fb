@@ -1,0 +1,8 @@
+network-status-version 3
+known-flags
+valid-until	+5167-03-22 19:12:32
+papra
+voting-delay 0 -= 
+fresh-until 3025-04-22 14:52:31
+vote-status consensus
+valid-after +3023-01-22 19:52:13

@@ -1,0 +1,7 @@
+network-status-version 3
+vote-status consensus
+1
+valid-after 2021-01-20
+fresh-until
+valid-until inu 
+known-flags -

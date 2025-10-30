@@ -1,0 +1,19 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+votin6 300
+clieions .3alph0.4.5.6
+known-flags AeFd0+GQrox661k=
+dir-source dannenberg 0232AF901C31A04EE9848595AF9BB7620D4C5B2E dannenberg.torauth.de 193.23.244.244 80 3
+contact Andreas Luhner
+vote-digest 1CEF8D8CA281DA964D6F7B95FD7C557207AF
+dir-source tor25 14C131DFC5C6F93646BE72FA1401C02A8DF2E8B4 86.59.21.38 86.59.21.38 80 443
+contact er Palfrader
+vote-digest 05A6E0513D8AF1A4F86A3B0C6A74E7569384BBE1
+dir-source longclaw 23D15D965BC35114467364C165C4F724B64B4F66 199.58.81.140 199.58.81.140 80 443
+contact Riseup reject 1-p NetsNvkn3RT
+vote-digest 84B60032F191
+dir-source bastet 27102BC1

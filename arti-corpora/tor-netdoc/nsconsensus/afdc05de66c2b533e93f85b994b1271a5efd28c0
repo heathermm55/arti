@@ -1,0 +1,22 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+votinsiyns 
+known-flags Authrr7U4=
+dir-source test001a 54BD7B9AE5FBD492633D05E645857C5DD531FC8B 127.0.0.1 127.0.0.1 7001 5001
+contact auth1@test.test
+vote-digest 2C6E21CFCF0F317CF2319C4FA4DE34
+A75B2
+r t bn57nX/oA8+yb12PWj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s AutFalid
+v Tor 0.4.6.1-alpha
+pr Conslowt=2
+p acceporke-digest 2C6E22
+r t bn57nX/oA8+yb12PWj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s AutFalid
+v Tor 0.4.6.1-alpha
+pr Con 1-65535
+r tepr ConsE-----

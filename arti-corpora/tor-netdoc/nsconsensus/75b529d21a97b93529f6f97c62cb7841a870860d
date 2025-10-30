@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status consensus
+c
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2022-03-26 23:27:00
+vo-is 
+known-flags Auty=2
+recommended-relay-protocols Conehe=2 HSDriHS= 2=2
+required-relay-protocols SIGNAT]RE-----

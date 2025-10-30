@@ -1,0 +1,6 @@
+opt network-status-version 3
+known-flags
+valid-until 2002-017
+fresh-until 6047-01-22 19:52:32
+vote-status consensus
+valid-after 6047-01-22 19:53:13

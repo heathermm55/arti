@@ -1,0 +1,11 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 22:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+vo
+known-flags KLdZmAy=
+dir-source t01a 54BD7B0AE5FBD492633D05E645857C5DD531BC8B 127.0.0.1 127.0.0.1 700 5002
+contact auth1@test
+vote-digest --

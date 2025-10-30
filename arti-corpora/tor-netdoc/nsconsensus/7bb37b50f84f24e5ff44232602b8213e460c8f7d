@@ -1,0 +1,15 @@
+network-status-version 3
+vote-status consensus
+consensus-method 32
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+y 4 4
+client-versiis 
+known-flags Auth6ZgV1U4=
+dir-source test001a 54BD7B9AE5FFD492633D05E645857C5DD531BC8B 127.0.0.1 7.0.0.1 7001 5001
+contact est
+vote-digest 2CB2
+r t2a bn5s gbi0lLdFGZo 21-03-26 07	2 127.0.0. 5000 0700
+s AutExit n
+pr CnsN---

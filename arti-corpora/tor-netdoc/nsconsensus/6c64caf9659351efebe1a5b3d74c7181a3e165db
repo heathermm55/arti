@@ -1,0 +1,20 @@
+network-status-version 3
+vote-status consensus
+consensus-method 56
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+vis 
+known-flags A2Fast 07
+dir-source test000a E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 127. 127.0.0.1 7000 5000
+contact ath0@test.test
+vote-digest 0082A99E79B2
+r test00 bn57nX/oA8+yf12PWj+uwOxdX4s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 1010-03-26 07:54:09 127.0.0.1 5002 7002
+s AV2Dir Valid
+v Tr 0.4.6.1-alpha
+pr ed=1
+p acecpt 0-65
+directory-footer
+b0
+directory-signature 
+desc

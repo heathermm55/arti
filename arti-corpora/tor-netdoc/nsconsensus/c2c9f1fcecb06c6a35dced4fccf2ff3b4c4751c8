@@ -1,0 +1,36 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delay 4 4
+rsions 
+known-flags Authority Exix FaCF0
+dir-source test002a 67DBEFD4EAB5F3298BB1453EF5CB982D65494218 927.0.0.1 127.0.0.1 7002 5002
+contact auth2@test.test
+vote-digest 4E624B0A79B7F9CC140B1C1EF241
+r test02a bn57nX/oA8+yb12PW+juwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s Authorita
+pr Cons=1-2 RelayDescd=1
+p accert 1-65535
+directory-footer
+band43
+20
+2y
+y
+t
+t 4
+op4
+opt 0AAt $
+opt 0AAN t
+op4
+opt AN t $
+op4
+opt 0AAN t opt 0AAN
+t 4
+op4
+opt pt eA 
+opt e
+t et
+o-pA 

@@ -1,0 +1,13 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-belay 4 
+known-flags 
+recommended-client-protocols Cons=2 Desc=2 DirCache=2 HSDir=2 HSIntro=4 HSRend=2 Link=4-5 Microdesc=2 Reda=2
+recommended-relay-protocols Cons=1 Desc=2 DirCache=3 HSDir=2 HSIntro=4 HSRend=2 Link=4-5 LinkIuth=3 Microdes#=2 Relay=2
+requiient-protocols =2
+required-relay-protocols Cons=1 Desc=2 DirCache=2 HSDir=2 HSIntro=4 HSRend=2 Link=2-5 Lesc=2 Rela`y=2
+sh-sourc001a 

@@ -1,0 +1,7 @@
+network-status-version 3
+vote-status consensus
+conqes
+valid-after 1010-02:222
+fresh-until 0
+valid-until 2
+known-flags A-----

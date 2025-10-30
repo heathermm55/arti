@@ -1,0 +1,13 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2022-03-08 22:00:00
+vi-versions 0.3.3.
+known-flags HSRend=2 LinnkAuBFD4B7996550D
+dir-source gabelmo ED01BB616EB2F60BEC80151114BB259EF515B226 131.188.40.189 131.188.40.189 80 443
+contact 40F88F5UTL32Mu5CN
+vote-digest F88E0E0D8eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeEB44D6A188C9B
+r AthO-
+tro=

@@ -1,0 +1,9 @@
+network-status-version 3
+vote-status consensus
+nt
+valid-after 2021-03-26 11:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+sns 
+known-flags A=2
+required-relay-protocols Cons=2 Desc=2 DjCEj8=󌗞recUNkgMB---

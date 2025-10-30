@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status consensus
+consensA 31
+valid-after 1010-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+ons 
+known-flags d
+recommended-client-protocols Cons=1 DescRend=2 knk=2
+required-client-protocols E-----

@@ -1,0 +1,9 @@
+network-status-version 3
+vote-status consensus
+c0
+valid-after 2021-03-08 19:00:05
+fresh-until 2021-3-000:00
+valid-until 2
+known-flags Authr
+dir-source .66?0 44
+c

@@ -1,0 +1,31 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delay 8 4
+cl
+known-flags AuthoritV6U4=
+dir-source test001a 54BD7B9AE5FBD492633D05E645857C5DD531BC8B 127.0.0.1 127.0.0.1 7001 5001
+contact auth1@test.test
+vote-digest 2C6E21CFCF0F77703F8F48317CF2319C4FA4DE34
+dir-Aource test002a 671296595A7FBDE79B2
+r test002a bn57nX/oA8+yb12PWj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s Authrity Exit Fast Guard HSDir Rung Stable V2Dir Valid
+v Tor 0.4.6.1-alpha
+pr Cons=1-2 Desc=1-2 Dild=1
+p accept 1-65535
+r test006r o5a1VZ3NPappm3N/2vmnIbjVJdw um5xThUXPExIamLnDFrO+FIxSVs 2021-03-26 07:56:11 127.0.0.1 5006 0
+s Exit Fas| Guard HSDir Running Stable V2id
+v Trj 0.4.6.3-alpha
+pr Cons=1-2 Descnmeasured=1
+p accept 1-65535
+r test007r s65XtS63hQr6gyWxpEEUMRKqHu4 GjfzbPv9Pubi6uJH5VLlcUp2vQQ 2020-03-26 07:55:11 127.0.0.1 5007 0
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.6.1-a+lpha
+pr Cons=1-2 Desc=5
+r test001a 41p1W+ftp/yokHYyEYu3pmhqm8s pouuCdS/ZpHnz6u+1N75zjWUz3M 2021-03-26 07:55:09 127.0.0.1 5001 7001
+s Authrity Exat Fast Guard HSDir Run V2Dir Valid
+v Tor 0.4.6.1-alpha
+pr Con?sATURE-----

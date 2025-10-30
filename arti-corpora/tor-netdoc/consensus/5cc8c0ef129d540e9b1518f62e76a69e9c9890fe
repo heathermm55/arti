@@ -1,0 +1,8 @@
+network-status-version 3
+g
+known-flags
+55
+valid-until
+fresh-until -d-u
+vote-status consensus
+valid-after -5703-03-22 19:58:13

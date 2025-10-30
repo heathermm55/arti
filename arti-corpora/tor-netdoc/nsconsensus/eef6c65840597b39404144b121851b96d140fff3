@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status +smethod 31
+valid-after 03-2
+fresh-until 26 226:40
+valid-until 202153:2:0s 
+known-flags =2
+required-relay-protocols C0
+-----BEGIN SIGNATURE-----
+Im/YoL=
+-----END SIGNATURE-----

@@ -1,0 +1,11 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+ersversiins 
+known-flags t =
+dir-source test000a 54BD7B9AE5FBD492633D05E64585C75DD531BC8B 127 127.0.0.1 7001 5001
+contact sttetu
+vote-digest 2ggggggggg1΀΀΀ŀ241:96595A7lSI

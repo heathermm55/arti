@@ -1,0 +1,11 @@
+network-status-version 3
+vote-status consensus
+eho 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+ow 0.3..4.5.6
+server-versions 03.5.10,0..,,,,,,,,,,,4.4
+known-flags
+dir-source dn84850
+shared-r8

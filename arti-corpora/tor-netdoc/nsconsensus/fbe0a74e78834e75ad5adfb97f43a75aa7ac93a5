@@ -1,0 +1,8 @@
+params
+network-status-version 3
+vote-status consensus
+1
+valid-after 22:20
+fresh-until 202126:40
+valid-until 21
+known-flags Aut7C

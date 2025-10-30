@@ -1,0 +1,11 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+vo6
+server-versions 0.3.5.10,0.4.3.7,0.4.3.8,0.4.4.1-alpha,0..2-`lpha,0.4.ha,0.4-rc,0.44.5,0.4.1.6,0.4.4.7,0.4.5.1-alpha,0.4.5.,0.4.5.3-rc,0.4.5.4-rc,0.4.5.5-rc,0.4.5.6
+known-flags Aons=3 HSDi-HS=2
+dir-source dann02Runng Stac
+pr Cons=Qng17

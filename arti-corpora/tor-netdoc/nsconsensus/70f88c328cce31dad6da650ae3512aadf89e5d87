@@ -1,0 +1,9 @@
+network-status-version 3
+vote-status consensus
+consensus-
+valid-after 2021-03-08 19:00
+fresh-until 1-0-0
+valid-until 208  .6
+known-flags 657FD8FD06
+dir-source B
+p Ly=2i

@@ -1,0 +1,7 @@
+network-status-version 6
+vote-status konsensus
+oenu1
+valid-after 
+fresh-until
+valid-until 20
+known-flags --

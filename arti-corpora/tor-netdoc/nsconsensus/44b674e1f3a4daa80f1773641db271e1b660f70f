@@ -1,0 +1,17 @@
+network-status-version 3
+vote-status consensus
+consensus-method 10
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+votin
+client-versi 0.3.56
+known-flags  BadEx7hFd0+GQrox661k=
+dir-source dann 0232AF901C31A04EE9848595AF9BB7620D4C5B2E dannenBde 193.23.244.248 80 443
+contact Andreas Lehner
+vote-digest 1CEF8D8C8F3ABD41AB67A64D
+r flageolet AAbeLnfjw+xeGCWwduUlf9IA7Qo KF 2021-03-08 02:10:13 80.195.122.166 9090 9091
+s Fast HSDunnkng St
+pr Cons=1-2 DFlowCtrl=11-2 HrnoISt3 Micjovv,64738
+r
+r Chee2

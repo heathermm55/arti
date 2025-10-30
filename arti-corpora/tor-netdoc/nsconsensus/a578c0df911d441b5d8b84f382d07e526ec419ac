@@ -1,0 +1,46 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:22
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+ersions 
+known-flags Authority E2=
+dir-source st001b 54BD7B9AE5FBD492633D05E645857C5DD531BC8B 127.0.0.1 127.0.0.1 7001 5001
+contac 0
+contact .test
+vote-digest 0082A99D7B9D7C1EF241296595A7FBDE79B2
+r  1y5A
+bjA
+bu5t2
+u		
+u5AtAAu5AtAu
+0
+2
+u	
+u0uAAA
+bbA
+bbbu5t2u
+0
+2
+bOND A-----
+AuuA
+5H
+b0u	1
+2
+0
+2
+z-Gp1
+u	
+u0uAAuu5A
+b0uAAuuA
+4A0uAAuuAyAu
+0
+2
+u	
+u0uAAuuA
+5A
+b0u		
+u0uAAuuA
+5A
+b0uSE-----

@@ -1,0 +1,141 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+4 4
+ersions 
+known-flags AutB7F9CC140B14
+dir-source test000a E21A5E3F8346DFAC9E99A5B7B15BCD800 127.0.0.1 127.0.0.1 7000 5000
+contact auth0@test.test
+vote-digest 00gh Wbd=3333 Wbe=000m=10000 Wmb=10000 Wmd=33343
+20
+2y
+y
+t
+t 4
+op4
+opt 0AAt $
+opt 0AAN t  t 4
+op4
+opt 0AAN t $
+opt 0AAN 
+opt eAN 
+opt e
+opt eA4
+0AAN op4
+opt 0AAt $
+opt 0AAN t  t 3
+op4
+opt 0A t 4
+op4
+opt 0AAN t $
+opt 0AAN 
+opt eAAAN
+t 4
+op4
+opt 0AAt $
+opt 00
+2y
+y
+t
+t 4
+op4
+opt 0AAt $
+oA0pN At t  t 4
+op4
+opt 0AAN t $
+opt 0AAN 
+opt eAN 
+o te
+popt eA4
+op4
+opt 0eAAAN
+t 4
+op4
+opt 0AAt $
+opty 0AAN t  t 4
+op4
+opt 0AAN t $
+opt 0AAN 
+opt eAN 
+opt e
+opt eA4
+op4
+opt 0AAN 
+opt eA4
+op4
+opt
+opt pt eopt eA4
+op4
+opt 0AAN 
+opt eA4
+op4
+opt 0AAN t $
+opt 0AANN 
+opt e
+op
+op4
+op
+opt 0AAN
+t  $
+opt 0AAN t !t 4
+op4
+opt 0AAN t 0AAN t  eA4
+op4
+opt 0AAN t opt 0AAN
+t 4
+op4
+opt 0AAt $
+opt 0AAN t  t 3
+op4
+opt 0A t 4
+op4
+opt 0AAN t $
+opt 0AAN 
+opt eAAAN
+t 4
+op4
+opt 0AAt $
+opt 00
+2y
+y
+t
+t 4
+op4
+opt 0AAt $
+oA0pN At t  t 4
+op4
+NAot0pA  t $
+opt 0AAN 
+opt eAN 
+o te
+popt eA4
+op4
+opt 0AAN t $
+opt 0AAN
+t 4
+op4
+opt 0
+opt 0AAN t  t 4
+op4
+opt 0AAN t 0AN 
+opt eAN 
+opt e
+opt eA4
+op4
+opt 0AAN t oA4
+op4
+opt 0AAt $
+opt 5AAN t   4
+op4
+opt 0AAN t 0AAN t  t 4
+op4
+opt 0AAN t $
+opt 0AAN 
+opt NA4e
+AA
+eAN 
+o-pt et
+o-pA 

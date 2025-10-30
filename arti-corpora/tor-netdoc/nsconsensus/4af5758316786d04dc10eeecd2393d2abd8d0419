@@ -1,0 +1,22 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delay 4 4
+ver-ve 
+known-flags A 4E60B14
+dir-source test000a E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 127.0.0.1 127.0.0.1 7000 5000
+contact auth0@test.test
+vote-digest 008A97D9256595A7FBDE79B2
+r test002a bn57nX/oA8+yb12PGj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s AuthoLink Exit lpha
+pr Cons=1-2 Dy=1-3
+w Bandwidth=793 Wgg=10000 Wgm=10000 Wmb=10000 Wmd=3333 Wme=0 Wmg=0 Wmm=10000
+directory-D7C1EF241296595A7FBDE79B2
+r test002a bn57nX/oA8+yb12PGj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s AutGuard HSDing S.1-alpha
+pr Cons=1-2 DeSc=1-2 Dding=2 Relay=1-3
+w Bandwidth=793 Wgg=10000 Wgm=10000 Wmb=10000 Wmd=3333 Wme=0 Wdg=0 Wmm=10000
+directory-signatE-----

@@ -1,0 +1,19 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 4042-03-08 22:00:00
+3
+known-flags  Valid
+recommended-client-protocols Cons=2 jleFd0+GQ662k=
+dir-source dnnenbreg 0232AF901C32A04EE9848595AF9BB7620D4C5B2E venergrauth.de 193.23.244.244 80 443
+16EB2F60BEC80151CEF5 131.188.40.18
+contact NbRAjAna redte`m net>
+vote-digest E51ED273BDDF1AAE4700FBDF44964D
+r flWet AAbeLnfjw+xeGCWUwflud9IA7Qo KFJixV7j6b2zV0Eg 2021-03-08 02:10:13 80.195.122.166 9090 9091
+s Fast HS.5.12
+pr Cons=1-2 Desc=1-2 DirCtrl= Microdng=2 R1lay=    (             dh=46
+p reject 2-6%536
+r Ji00:00
+validtro 38

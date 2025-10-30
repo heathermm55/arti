@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status consensus
+co
+valid-after 0252-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+von 
+known-flags  ay=2
+recommended-relay-protocols Des3=2 DirCacha=2 H= 2Iro=4 'HSR= )ink=4-5 LinkAth=3 lay=2
+requrelay----

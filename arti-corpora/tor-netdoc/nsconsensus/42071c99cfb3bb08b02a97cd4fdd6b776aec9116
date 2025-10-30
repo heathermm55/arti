@@ -1,0 +1,17 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+voti300
+ions 05.10,c,0.4&5.6
+known-flags Aty BadExit 
+dir-source moria1 D586D18309DED4CD6D57C18FD9F0EBA96D330566 128.31.0.34 129.31.0.34 9131 9101
+contact am net>
+vote-digest FBDF44964D
+r flageol1et AAbeLnfjw+xeGCWwduUlf9IA7Qo 8LXEg 2021-03-08 02:10:13 80.195.122.166 9090 9091
+s F
+pr crodesc=1-255555늀'''ject 0-65535
+r Taco
+r iwantanewlapvNDhbD

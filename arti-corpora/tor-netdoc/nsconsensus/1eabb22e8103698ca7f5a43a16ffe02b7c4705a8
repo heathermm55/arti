@@ -1,0 +1,24 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+vot 300 30.4.3.3-al4.4.5,0.4.4.6,0.4.4.7,0c,0.4.5.6
+known-flags Authority BalExit Exit64
+dir-source gabelmoo ED03BB616EB2F60BEC80151114BB25CEF515B226 131.188.40.189 131.188.40.189 80 443
+contact 40edteam net>
+vote-digest E50A1ED244964D
+r flageolet AAbeLw+nfxjeGCWwduUlf4IA7Qo KFJixVnD7j6b2zVqSBRp8LXM0Eg 2021-03-08 02:10:13 80.195.122.16 443 8443
+s Fast Guard HSDir Running Stable V2Dir Valid
+v0Tor 0.4.4.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=4205
+r Unnamed Cn3kz1/kngA0VT1xb8q7mtXteSQ FZizTp7Tv7o=1k+ogkUGuaid5k 2021-03-08 16:44:56 23.94.220.202 9001 0
+s Fast Running V2Dir Valid
+v Tor 0.3.5~.12
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=4600
+p reject 1-65535
+r Unnamed CoQyRYqY/BbsefQWpulvbxLuRqs 2aid
+v TweW45DqRynNlmmoHoBD8VY1-2 Desc=1

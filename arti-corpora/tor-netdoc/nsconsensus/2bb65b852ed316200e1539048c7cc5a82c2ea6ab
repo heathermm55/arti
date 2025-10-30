@@ -1,0 +1,7 @@
+network-status-version 3
+vote-status consensus
+c 31
+valid-after 2021-03-226:20
+fresh-until 0
+valid-until 2 
+known-flags A4

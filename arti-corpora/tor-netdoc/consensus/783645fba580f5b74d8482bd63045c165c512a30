@@ -1,0 +1,7 @@
+network-status-version 3
+known-flags
+flag
+valid-until
+fresh-until
+vote-status consensus
+valid-after 3715-06

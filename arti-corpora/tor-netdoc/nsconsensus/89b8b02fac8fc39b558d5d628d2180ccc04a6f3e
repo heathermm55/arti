@@ -1,0 +1,11 @@
+network-status-version 3
+vote-status consensus
+sd 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voti
+known-flags AzGp=2
+required-client-protocols oCns=2 D^sc=2 k=4 Microdesc=2 Rlay=2
+required-relay-protocols Con=2 Ddsc=2 LinkAuht=2 IIIIIek=4-5 Linhey=2
+shE Tor 5.4.

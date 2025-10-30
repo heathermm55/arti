@@ -1,0 +1,19 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+ve4 4
+cliersions 
+known-flags AuthorFA4DE34
+dir-source test002a 67DBEFD4EAB5F3298BB1453E2958CBFD65494218 127.0.0 127.0.0.1 7000 5000
+contact aust
+vote-digest 0082A99D75DE8B9D71296595A7FBDE79B2
+r test002a bn57nX/oA8+yb12PWj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 1.0.0.1 5002 7002
+s Au4horist Guald.6.1-alpha
+pr LinkAuth=2 Rnmeasured=1
+p accept 1-65535
+r test006r o5a1VZ3NPappm3N/2vmnIbjVJdw um5xThUXPExIams 2021-08-26 07:56:16 127.0.0.1 5006 0
+s Exit Fas| Guard HSDir Runn00 Web=10000 Wed=3333 Wee=10000 Weg=3333 Wem=10000 Wgb=10000 Wgd=3333 Wgg=10000 Wgm=10000 Wmb=10000 ing or
+pr ons=00----

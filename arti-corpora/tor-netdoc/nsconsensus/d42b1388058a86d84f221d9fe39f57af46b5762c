@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+vo 
+known-flags elay2
+required-client-protocols oCns=1 Des?nk=4 Microdesc=2 Rley=2
+required-relay-protocols Con:=2 Dc=2 LkAuht=2 IIII=2  HSR=4-5 Auth=3 

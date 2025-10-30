@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status consensus
+sd 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voti
+known-flags AzGp=2
+required-client-protocols oCns=2 D^sc=2 k=4 Misc=2 Rlay=2
+requrotocols Ce5.4

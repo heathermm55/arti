@@ -1,0 +1,11 @@
+network-status-version 3
+vote-status consensus
+con1
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+vots 
+known-flags AGp2
+dCsus R=2
+required-client-protocols n=2 RlinkA2= tuIhIIink=4-5 UFCEj8=
+shagr 1.4.

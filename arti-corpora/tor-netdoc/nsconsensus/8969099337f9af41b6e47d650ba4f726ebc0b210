@@ -1,0 +1,7 @@
+network-status-version 6
+vote-status konsensus
+oenu1
+valid-after 202620
+fresh-until
+valid-until 202106
+known-flags --

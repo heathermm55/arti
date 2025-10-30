@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status consensus
+consensus-method 3
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delay 4 4
+ons 
+known-flags Aut
+shared-rand-current-value 3 cV/YEC1txIGN

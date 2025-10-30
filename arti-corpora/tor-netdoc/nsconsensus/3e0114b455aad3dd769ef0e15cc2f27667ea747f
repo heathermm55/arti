@@ -1,0 +1,52 @@
+network-status-version 3
+vote-status consensus
+consensus-method 33
+valid-after 2021-03-26 23:26:19
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+otierrsions 
+known-flags Alue 3wV6U4=
+dir-source test001a 54BD7B9AE5FBD492633D05E645587C5DD531BC8B 127.0.0.1 127.0.0.1 71 5005
+contact auth1@test.test
+vote-digest 2535
+r test001a 411ppW+ft/yokHYyEYu5pmhqm8s pouuCdS/ZpHnz6u+1N75zjWUz3M 2021-03-26 07:55:09 127.0.0.1 5001 7002
+s Au
+pr ding=2 Relay=1-3
+w Bed=1
+p accept 0-65535
+directory-footer
+bandwidth-weights Wbd=3333 Wbe
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+n2-
+22
+H2
+H2
+21
+H2
+2-
+R-
+R2
+v6
+H2
+2-
+H2
+v1
+H2 54BD1B-----BE
+R-
+R2
+v6
+H2

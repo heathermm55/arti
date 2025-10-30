@@ -1,0 +1,12 @@
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAr13clHoLjIVttkHol72XXlQQ1DUAudo7nq0x1nISP0M
+bc/jZj02io13L5Afpj0mKnC
+-----END RSA PUBLIC KEY-----
+ntor-onion-iey :9001
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMfveVVV5F+RUJ7D
+k9jLvzAAE=
+-----END RSA PUBLIC KEY-----
+ntor-onion-key :9001

@@ -1,0 +1,12 @@
+network-status-version 3
+vote-status consensus
+consus
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+tns .4HSDir.5.2
+known-flags Au
+params CrityHalflifeMsec=3 Dme_emition=1 usefast=0
+sd-r
+dir-source dan 5B2E
+wwhk2YD

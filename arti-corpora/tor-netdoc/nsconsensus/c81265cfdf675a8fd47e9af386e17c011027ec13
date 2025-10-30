@@ -1,0 +1,11 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+v6
+known-flags Ae
+dir-source bastet 37103BC123E7AF1D4741AE047F160C91ADC76B21 2.164.118 204.13.164.118 80 443
+contact stefhef
+vote-digest B88~7C91279΀΀ŀ20E93C35

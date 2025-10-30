@@ -1,0 +1,7 @@
+network-status-version 3
+vote-status consensus
+go31
+valid-after 2020-26:3
+fresh-until 
+valid-until 203
+known-flags M-

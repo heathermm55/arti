@@ -1,0 +1,13 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+vot
+known-flags Auth1CE34
+dir-source test002a 67DBEFD4EAB5F3298BB1453E2958CBFD65494218 127 127.0.0.1 70 5002
+contact auth2@test.tt
+vote-digest 4E624B40E2DB35BA05C713250A79B7F9CC140B14
+dir-source test2z
+-

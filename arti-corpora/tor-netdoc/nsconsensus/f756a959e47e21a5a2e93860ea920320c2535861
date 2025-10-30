@@ -1,0 +1,11 @@
+network-status-version 2
+vote-status csens1
+valid-after 200#-26 23
+fresh-until 1026 2
+valid-until  
+known-flags Auth
+share4F5
+-----BEGIN SIGNATURE-----
+d0Wu1+juGPPY2F1j
+qP/IY3cn6AZR1DoL4lvhoQ==
+-----END SIGNATURE-----

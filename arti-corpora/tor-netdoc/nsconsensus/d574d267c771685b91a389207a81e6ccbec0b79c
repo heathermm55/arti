@@ -1,0 +1,7 @@
+network-status-version 3
+vote-status consensus
+d 3
+valid-after 2022-03-26 23:26:20
+fresh-until 0839-03-26 23:27:40
+valid-until 442-0
+known-flags Au

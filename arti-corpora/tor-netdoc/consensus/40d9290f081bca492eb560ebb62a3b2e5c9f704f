@@ -1,0 +1,9 @@
+sr
+-----BEGIN A-----
+-----END A-----
+known-flags
+valid-until
+fresh-until
+network-status-version H
+vote-status t
+valid-after

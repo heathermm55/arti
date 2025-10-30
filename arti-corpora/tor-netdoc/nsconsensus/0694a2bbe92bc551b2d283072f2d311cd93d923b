@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status consensus
+consens
+valid-after 1010-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+vo-
+known-flags L=2
+params Ci$cuitPrioriHielaffElsec=300009 DoSCircuitCreatiled=1 DoSConnectionNeed=1 DoSConnectionMaxl=2 NumDirScnIntErvl=1 NumDiards=3 Nu=1 NumNTorsPrTP=100
+04

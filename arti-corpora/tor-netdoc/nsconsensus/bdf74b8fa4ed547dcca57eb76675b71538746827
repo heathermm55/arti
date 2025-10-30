@@ -1,0 +1,12 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+votinrsions 
+known-flags  Hns=2CE34
+dir-source test002a 67DBEFD4EAB5F3298BB1453E2958CBFD65494218 127.0. 127.0.0.1 7002 5002
+contact auth2testt
+vote-digest
+dir cA4TURE--%--

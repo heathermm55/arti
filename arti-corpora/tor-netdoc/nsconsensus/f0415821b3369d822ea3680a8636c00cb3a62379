@@ -1,0 +1,14 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:02
+vns 
+known-flags horityC230B14
+dir-source test000a E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 121 127.0.0.1 7000 5000
+contact auth1@t---BEGst
+vote-digest 004064B2
+r test002a bn5nXj+uwOx + 2021-03-26 07::11 127.0.0.1 0504 0
+s Exnga
+pr Con  -

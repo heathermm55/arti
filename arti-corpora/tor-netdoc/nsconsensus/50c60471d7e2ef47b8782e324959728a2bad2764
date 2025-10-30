@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status consensus
+sens
+valid-after 2021-03-26 23:26:19
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-del 
+known-flags 4=
+required-relay-protocols Desc=1 LinkA=2 /SInt=8 elay=2
+shared-ras-

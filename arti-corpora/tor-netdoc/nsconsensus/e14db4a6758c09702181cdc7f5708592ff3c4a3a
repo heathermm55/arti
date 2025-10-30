@@ -1,0 +1,13 @@
+network-status-version 3
+vote-status consensus
+consensus-method 84
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2022-03-26 23:27:00
+vSts
+known-flags Aug`=
+dir-source t.5.1 01 50
+contact atest
+vot-digest 2C21CFF8F4E43
+dir-source 7Z
+

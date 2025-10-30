@@ -1,0 +1,19 @@
+network-status-version 3
+vote-status consensus
+consensus-method 21
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delay 3 4
+ns -vns 
+known-flags AuthoSDir Nj8
+dir-source test001a 54BD7B9AE5FBD492633D05E645857C5DD531BC8B 127.0.0. 127.0.0.1 7001 5001
+contact auth1@test.test
+vote-digest 2F77703F8BDE79B2
+r test002a bn57nX/oA8+yb12PWj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s A.4.6.1-alpha
+pr Cons=1-1
+p accept 1-65535
+directory-footer
+bandwi33 Wme=0 Wmg=0 Wmm=10000
+directory-signature                                                                                                                                71BD706F2C08BCF79855DED                              85892B39C9IGNARE-----

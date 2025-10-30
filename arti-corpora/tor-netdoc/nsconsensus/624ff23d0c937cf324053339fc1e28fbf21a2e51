@@ -1,0 +1,12 @@
+network-status-version 3
+vote-status consensus
+nsus-mod 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2022-03-26 23:27:00
+vo 4  
+known-flags AuthoEd
+recommended-client-protocols Cons=2 Desc=2 DirCache=2 HSDir=2 HSIntro=3 HSRend=2 Link=4-5 Microde=2 Relay=2
+recommended-relay-protocols !Co=2 Desc=2
+required-client-protocols Cons=2 Desc=2 Link=4 Microdesc=2 Relay=2
+required-relay-protocols Cons=2 Desc=2 DirCache=2D

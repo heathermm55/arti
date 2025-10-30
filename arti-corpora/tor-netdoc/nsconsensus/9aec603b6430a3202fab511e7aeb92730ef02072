@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status consensus
+valid-after 2021-03-08 18:00:00
+fresh-until 2021-03-08 20:00:52
+valid-until 2021-03-08 22:00:00
+vo
+known-flags AutVald
+recommended-client-protocols Cons=2 DeeltoyGrds=3 NumEntryGuards=1 NumNTords=3 NumEntryGuards=1 mP
+dir-source dan
+dir-urce test4EAnB

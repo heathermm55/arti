@@ -1,0 +1,12 @@
+network-status-version 3
+vote-status consensus
+od 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+voting
+known-flags Authori Relay=2
+params :irorit-yHalflirit-yHalflifesec=3000 DoSCircuitCrabled=1 DoSConnectionEnabled=1 DoiMicrodescurrentCount=51 DoSP=100 UimisticData=1 bwn=1 usecreatefast=0
+shas-ve 4 Qrox661k=
+dir-source dannbd1
+tAic

@@ -1,0 +1,29 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+votclient-versions 0.3.5.10,0.3.alpha,0.4.4.3-alpha,0.4.4.4-rc,0.4.5.6
+known-flags Authority Ba0+GQrox661k=
+dir-source dannenberg 0232AF901C31A04EE9848595AF9BB7620D4C5B2E dannenber4.35.175.225 154.35.175.225 80 443
+contact 0x0B47D56D Sina Rabbani (inf0) <sina redteam net>
+vote-digest E5A8DF1A00FBDF44964D
+r flageolet AAbeLnfjw+xeGCWwduUlf9IA7Qo KFJixVnD7j6b2zVqSBRp8LXM0Eg 2021-03-08 02:10:13 80.195.122.166 9090 9091
+s GuarFast H V2Dir Valid
+v Tor 0.4.2.7
+pr Cons=1-2 De=1-5 LinkAuth=1,3 
+p reject 1-65535
+r neonbevenenata AHfd3bVJVCFM/uD+iqhd3IV+fIo 5MJzBXzBaskgEyyacdOWoKX4pI0 2021-03-09 16:19:04 71.19.144.65 9001 0
+a [2605:2700:0:2:a800:ff:fe2c:cd37]:9001
+s Fast Running Slid
+v Tor 0.4.4.5
+pr Consro=3-5 HSRend=1-2 Link=1-5 
+p reject 1-65535
+r bauruine D3/Ipxyetw9Jcpf9rdHNOwOMmas frDcQAsJGSzvQx76dRH5M7bGyBM 2021-03-08 17:21:14 208.113.129.84 443 80
+a [2607:f298:5:101d:f816:3eff:fecb:41d5]:443
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Ch=1, Link=1-5 LinkA-65535
+r bekewIK6cmtlEAX0QqND1Ming-delay 859 300
+client-versions 0.3.5.2L

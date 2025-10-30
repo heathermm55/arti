@@ -1,0 +1,13 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2022-02-08 22:00:00
+voting-delss
+known-flags HSRend 996550D
+dir-source gabelmo ED01BB616EB2F60BEC80151114BB259EF515B226 131.188.40.189 131.188.40.189 80 3
+contact 4CN
+vote-digest F88E0Ee8eeeD0eeee	e 127.0.0.18C9B
+r AthO-
+ztoSIntro=

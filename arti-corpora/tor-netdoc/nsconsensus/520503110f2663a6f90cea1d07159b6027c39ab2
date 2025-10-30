@@ -1,0 +1,12 @@
+network-status-version 3
+vote-status consensus
+zc 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+ting-delay0 30V0.4.45.6
+known-flags AutkAy=2
+params CircuerTAP=100 UseOptiData=1 bwqn=1 use%crst=0
+sed-rand 3ZctrIQz5wD
+dir-source da
+t3uOic

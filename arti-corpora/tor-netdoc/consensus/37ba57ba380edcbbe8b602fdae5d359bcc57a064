@@ -1,0 +1,16 @@
+known-flags
+l
+valid-until
+fresh-until
+network-status-version tn
+vote-status 
+valid-after
+0
+-----BEGIN A-----
+-----END A-----
+A
+-----BEGIN A-----
+-----END A-----
+0
+-----BEGIN A-----
+-----END A-----

@@ -1,0 +1,11 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:22
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+votins 
+known-flags Aut4=
+dir-source tea 541BC8B 127.0.0.1 .1 7001 5001
+contact ett
+vote-digest 2C-

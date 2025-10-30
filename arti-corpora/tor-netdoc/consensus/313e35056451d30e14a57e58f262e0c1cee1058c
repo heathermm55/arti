@@ -1,0 +1,8 @@
+opt network-status-version 3
+known-flags
+valid-until	+5167-03-22 19:12:32
+pava
+voting-delay 0 51
+fresh-until 3025-04-22 14:52:31
+vote-status consensus
+valid-after +3023-02-22 19:52:13

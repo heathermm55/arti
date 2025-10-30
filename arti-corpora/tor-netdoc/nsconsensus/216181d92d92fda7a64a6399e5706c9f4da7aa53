@@ -1,0 +1,5 @@
+network-status-version 3
+vote-status cnnsus 3
+valid-after  2
+fresh-until 202126 20
+valid-until 42lags --

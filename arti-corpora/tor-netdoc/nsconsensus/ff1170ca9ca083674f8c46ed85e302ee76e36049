@@ -1,0 +1,14 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-07-08 22:00:00
+v300 300.3-alpha,06,0.
+known-flags Authority BadEcols Cons=2 Desc=2 DirCox6k=
+dir-source dannenberg 0232AF901C31A04EE9848595AF9BB7620D4C5B2E dannenberg.torauth.de 193.23.244.244 80 443
+contact Abanin>
+vote-digest E50A1ED273BE4700FBDF44964D
+r flageolet AAbeLnfjw+xeGCWwduUlf9IA7Qo KF1a4tCEDCtM 2021-07-08 11:54:51 71.19.252.25 443 8443
+s Fa4.4.5
+pr Cons=1Desc=1-25

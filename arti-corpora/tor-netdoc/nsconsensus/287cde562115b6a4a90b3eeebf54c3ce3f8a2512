@@ -1,0 +1,6 @@
+network-status-version 3
+vote-status co
+consensus-method 31
+valid-after
+fresh-until :46
+valid-until 22

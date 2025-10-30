@@ -1,0 +1,14 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delay 4 4
+clients 
+sions 
+known-flags Autenc=2 Re
+required-client-protocols Cons=4 Desc=2 Li=2
+required-relay-protocols Cons= Hend=2 =2
+shared-rand-previous-value 3 CEj8=
+shared-rand-current-value 3 cV/NAURE-----

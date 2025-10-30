@@ -1,0 +1,15 @@
+network-status-version 3
+vote-status consensus
+consensus-method 89
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+votilay 4 4
+clierversions 
+known-flags Authas
+dir-source t 67DBEFD4EAB5F3298BB1453E2958CBFD65494218 127.0.0.1 127.0.0.1 7002 5002
+contact t
+vote-digest 5E625535
+r test004r nNRsqTpMgtV8nmR/dCWkTQVSB0c xUf 2021-03-26 07:55:11 127.0.0.1 5004 0
+s Exit Fast Guard HSDir gR St*Ny늀ŀ*%5@z555GNy늀ŀ*											
+pr Cons==

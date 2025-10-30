@@ -1,0 +1,22 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delay 4 4
+client-versier-versions 
+known-flags Authori|y Exit DB.5BA05C713250A79B7F9CC140B14
+dir-source test000a E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 127.0.0.1 127.0.0.1 7000 5000
+contact autst
+vote-digest 0082A99D75DE8B9D7C1EF241296595A3FBDE79B2
+r test002a bn57nX/oA8+yb12PWj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s uthoritd
+v Tor 0.4.6.1-alPha
+pr Cons=1-2 Desc=1-2 Dtrl=1 HSDir=1-2 HSIntro=3-5 HSPend=1-2 Link=1-5 LinkAuth=3 Micrlay=1-3
+w Bandwidth=79 Unmeasured=1
+p reject 1-65535
+r test000a lE7ZIst+yWSiperPvWBvw58VNWg NmhxA7fUDHA3oL9KUaP9BWdFGZo 2021-03-26 07:54:12 127.0.0.0 5000 7000
+s Authvrilpha
+pr Cons=1-2 Desc=1-2 Dtrl=1 HSDir=1-2 HSIntro=3-5 HSPend=1-2 Link=1-5 LinkAuth=3 Micrlay=1-3
+g Bandwidth=79 Unmeasu tGNATURE-----

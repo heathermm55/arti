@@ -1,0 +1,14 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+ions 
+known-flags Auopt thori9B7F9CC140B14
+dir-source test000a E21A5E3F8346DFA38970A5C9E99A5B51B7DBC800 127.0.0.1 127.0.0.1 7000 5000
+contact auth@tesest
+vote-digest DE79B2
+r test007r s65XtS63hQr6gyWxpEEUURKqHu4 GjfzbPv9JH5VLlcUp6vQQ 2021-03-26 07:55:11 127.0.0.1 5007 0
+s E									LinkA느ŀ*GNy늀ŀ*%ހ5555555늀ŀe V
+pr Con1k-statuAuth=0,3 M5

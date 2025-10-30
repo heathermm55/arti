@@ -1,0 +1,121 @@
+@----
+@ p 
+-----BEGIN 2B-----
+=
+-----END 2B-----
+GIN O-
+@ p 
+-----BEGIN 2B-----
+=
+-----END 2B-----
+t
+
+@ p 
+-----BEGIN 2B-----
+=
+-----END 2B-----
+w
+O-
+@
+@ p 
+-----BEGI---BEG p 
+-----BEGIN O-
+@ p 
+-----BEGIN 2B-----
+=
+-----END 2B-----
+t
+
+@ p 
+-----BEGIN 2B-----
+
+=
+-----END 2B-----
+GIN O-
+@ p 
+-----BEGIN 2B-----
+=
+-----END 2B-----
+t
+
+@ p 
+-----BEGIN 2B-----
+=
+-----END 2B-----
+w
+O-
+@
+@ p 
+-----BEGI---BEG p 
+-----BEGIN O-
+@ p 
+-----BEGIN 2B-----
+=
+-----END 2B-----
+t
+
+@ p 
+-----BEGIN 2B-----
+=
+-----END 2B-----
+w
+O-
+@ p 
+-----BEGIN 2B-----
+=
+-----END 2B-----
+t
+
+@ p 
+-----BEG-----
+t
+
+@GIN O-
+@ p 
+-----BEGIN 2B-----
+=
+-----END 2B-----
+t
+
+@ p 
+-----BEGIN 2B-----
+=
+-----END 2B-----
+w
+O-
+@
+@ p 
+-----BEGI---BEG p 
+-----BEGIN O-
+@ p 
+-----BEGIN 2B-----
+=
+-----END 2B-----
+t
+
+@ p 
+-----BEGIN 2B-----
+=
+-----END 2B-----
+w
+O-
+@ p 
+-----BEGIN 2B-----
+=
+-----END 2B-----
+t
+
+@ p---
+t
+
+@ -
+=
+-----END, 2B-----
+w
+O-
+@ p 
+-----BEGIN 2B-----
+=
+-----END 2B-----
+Pp
+@0t0

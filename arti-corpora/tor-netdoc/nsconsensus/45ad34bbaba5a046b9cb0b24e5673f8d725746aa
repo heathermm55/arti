@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status c31
+valid-after 333-6:20
+fresh-until 2021-026
+valid-until 2021s 
+known-flags  Wm0
+6
+-----BEGIN SIGNATURE-----
+WrUC0FR/8PIyPGL4oQ==
+-----END SIGNATURE-----

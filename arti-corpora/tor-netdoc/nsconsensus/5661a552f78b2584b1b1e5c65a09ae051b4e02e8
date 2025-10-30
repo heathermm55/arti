@@ -1,0 +1,23 @@
+network-status-version 3
+vote-status consensus
+consensus-method 60
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+v6
+known-flags Authority
+dir-source dizum E8A9C45EDE6D711294FADF8E7951F4DE6CA56B58 45.66. 45.66.33.45 80 443
+contact FD790065EBBD5E7AE6D0baet>
+vote-digest E50A1ED273BF44964D
+r f6e D/nnFHjps1IW2S9zpUlphT222Ok VH93Hdgh8dczmEjKp+ehuLjJR9w 2021-03-07 20:00:28 94.140.114.62 443 0
+s Fast Running StaleDesc V2Dir Valid
+v Tor 0.4.2.7
+pr ConnkAuth=1,3 Miding=2 Reley=1-2
+w Bandwidth=4900
+1-65564D
+r f6e D/nnFHjps1IW2S9zpUlphT611Ok vH93Hdgh8dczmEjKp+ehuLjJR9w 2021-03-07 20:00:27 94.14 443 0
+s Fast Runninglid
+Tor 0.4.2.7
+pr ConnkAuct 1-6553z5
+r p re 22,25
+r 01LuebkeIO EJBausjix7.

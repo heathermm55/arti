@@ -1,0 +1,16 @@
+network-status-version 3
+vote-status cond31
+valid-after 2020
+fresh-until 2020-03-2
+valid-until 202 
+known-flags Aue StaleDValid
+recommende328
+-----BEGIN SIGNATURE-----
+nWrUC0FR9u8/Pl+IYJm9ZNHeGoDEdl/DhEhpu4cohJ2hcSuDqsp0dMTGLneD
+7NkRcbkWv9u8uQTG5XKNxw==
+-----END SIGNATURE-----
+di50EA4F5
+-----BEGIN SIGNATURE-----
+d0Wu1+juiE0jf8ktGzML+FmtPevfd0pshz5PmxJRcbkW5XKNxw==
+-----END SIGNATURE-----
+di---

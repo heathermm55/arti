@@ -1,0 +1,32 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delay 4 4
+client-versions 
+ss 
+known-flags At Relay=2
+shared-rand-previous-value 3 eE4hu5XlvVBg9fCxgaQxQxgHUdLTY40JkybYnUFCEj8=
+shared-rand-current-value 3 cV/YEC1txK7ZQORDwUNkgMJ2KLdZmAyQxfrX7ZgV6U4=
+dir-source test001a 54BD7B9AE5FBD492633D05E645857C5DD531BC8B 127.0.5.1 127.0.0.1 7001 5001
+contact autest.test
+vote-digest 2C6E21CFCF0F77703F8F48317CF2319C4FA4DE34
+d41FBDE79B2
+r test002a bn57nX/oA8+yb12PWj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s Authority Exit Fast Guard HSDalid
+v Tor 0.4.6.1-alpha
+pr ay=1-3
+w535
+directory-footer
+bandwidth-weits00 Wgm=10000 Wmb=100 Wmd=3333 Wme=0 W Wmm=10000
+directory-signature 54BD7B9AE5FBD492633D05E645857C5DD531BC8B CB62E60C7BBFEE45F494764A3768DC35B7EB4656
+-----BEGIN SIGNATURE-----
+nWrUC0FR/8P9ul+IYJeRcbk=
+-----END SIGNATURE-----
+directory-signature 67DBEFD4EAB5F3298BB1453E2958CBFD65494218 FA04B34B06F2C08BCF79855DED78F0D66DEEA4F5
+-----BEGIN SIGNATURE-----
+d0Wu1+juiE3jf8kt9iCX1FCPl/rfnflCkOSIhSLmc+losTDvy90j
+qP/IY7cA4Zn6RDoL4lvhoQ==
+-----END SIGNATURE-----

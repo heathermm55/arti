@@ -1,0 +1,42 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:01:00
+known-flags A
+dir-source rg 0232AF901C0
+00ttttttt
+020U
+0
+00
+0
+0
+0
+0
+0
+0
+0
+0
+tttttt
+0
+0
+0ttt
+0
+0 0
+4
+0
+0
+t
+0
+0
+0
+0
+0
+0
+0
+ttttttt
+0
+tt0
+0
+050,519Au

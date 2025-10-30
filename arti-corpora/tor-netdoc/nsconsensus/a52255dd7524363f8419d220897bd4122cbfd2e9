@@ -1,0 +1,46 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-G3-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until er-versions 
+known-flags Authority ExiUFCEj8=
+sBCF79855DE6DEEA4F5
+-----BEGIN SIGNATURE-----
+d0Wu1+juiE3jf8kA/4UUDEuRXG0dVgLEvv8pRK+q
+Kw5EZJ48tnGrCZX9p7JkXMRe+i5InUVCs2kNoP82hY4ifKwe5iNJv5DlzgPKVRcn
+o1zyZps8pQE9E5hofJ15BMX3xoZrss1h+/laZdXC
+508ZtGzrzZL3llEA02bRmi9s9lEKrL5zanLQO1yQnr/0hb++LiUkOzXQmDrCSFw5
+SVxEjY28BWUXVVp8d3qi8w==
+-----END SIGNATURE-----
+direc5ure E21A5E gmW64A3768DC35B7EB4656
+-----BEGIN SIGNATURE-----
+nWrUC0FR/8P9ul+C1/UK
+GCyplX3H2rvqGnxroa9Q4c6rOOcZUy/wPmulLCFJNyIDlmYEjQSP1RLWY+u+/jnJ
+zBhtSaDGXr9DfsxVb47hlhuW+rAuPFWrxrmBsqvoteAwF6zyUFmY1dvfd06pfSsjtPmx
+kA7ole4p4j96eKnwozgG7Gxoaqk3hz5ijHJiPxnfa5ykV2ufXNkERXMfAIyfPG2c
+h7eA2bNSYJM8uQTG5XKifKwe5iNJv5DlzgPKVRcn
+o1zyZps8pQE9E5hofJ15BMX3xoZrss1h+/laZdXC
+508ZtGzrzZL3llEA02bRmi9s9lEKrL5zanLQO1yQnr/0hb++LiUkOzXQmDrCSFw5
+SVxEjY28BWUXVVp8d3qi8w==
+-----END SIGNATURE-----
+direc5ure E21A5E gmW64A3768DC35B7EB4656
+-----BEGIN SIGNATURE-----
+nWrUC0FR/8P9ul+C1/UK
+GCyplX3H2rxroa9Q4c6rOOcZUy/wPmulLCFJNyIDlmYEjQSP1RLWY+u+/jnJ
+zBhtSaDGXr9DfsxVb47hlhuW+rAuPFWrxrmBsqAwF6zyUFmY1dvfd06pfSsjtPmx
+kA7ole4p4j96eKnwozgG7Gxoaqk3hz5ijHJiPxnfa5ykV2ufXNkERXMfAIyfPG2c
+h7eA2bNSYJMNxw==
+-----END SIGNATURE-----
+diture06B06F2C08BCF79855DED78F0D66DEEA4F5
+-----BEGIN SIGNATURE-----
+d0Wu1+juiE3jf8ktGzML+FmtPeuywOJRt0eCAahRTw7LqPPY1F1NKWVj04GLfA9i
+hU42bzSwaQ8O7RO8RnjhRBGjCo8yZps8pQE9E6hofJ15BMX3xoZrss1h+/laZdXC
+508Z8w==
+-----END SIGNATURE-----
+di20
+-----BEGIN SIGNATURE-----
+IP9ySKZXa4uA7sKvGG6DQip6
+RDflWFhkYzht8oqLmp6JWHJ4nxyU9i0j
+qP/IY7cA4Zn6RDoL4lvhoQ==
+-----END SIGNATURE-----

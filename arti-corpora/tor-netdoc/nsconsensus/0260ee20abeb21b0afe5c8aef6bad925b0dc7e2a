@@ -1,0 +1,16 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:01:00
+fresh-until 2021-03-08 20:00:30
+valid-until 2021-03-08 22:00:00
+voting 312,0pha,0.3.4.3.6,0.c4.5.6
+known-flags A 06
+dir-source bastet 27102BC123E71FAD4741AE047E160C91ADC76B21 204.13118 204.13.164.118 80 43
+contact re inred4eet>
+vote-digest E50A1ED273BD41AB67A8DFAE47DF464D
+r flageole AAbeLnfjw+xeGCWwduUlf9IA7Qo Eg 2021-03-08 02:10:13 80.195.122.166 9090 9091
+s Fr
+pr ConDesc=1-0 DirCac-o=2	-
+r 
+pr Con5:d2.2C

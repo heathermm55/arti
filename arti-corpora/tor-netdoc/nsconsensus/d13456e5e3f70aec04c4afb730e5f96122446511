@@ -1,0 +1,26 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2026-03-26 23:27:00
+votit-vens 
+known-flags Asc Sy4=
+dir-source tast001a 54BD7B9AE5FBD492633D05E645857C5DD531BC8B 127.0.0.1 127.0.0.1 7001 5001
+contact at.test
+vote-digest 2C68317CF2319C4FA4DE34
+dopt 2
+opt2
+opt 2
+opt 3
+opt 2
+opt o
+opt 1
+opt 3
+opt 3
+opt 3
+opt 3
+opt 3
+opt 2
+t 3
+o3

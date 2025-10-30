@@ -1,0 +1,8 @@
+network-status-version 3
+known-flags
+5 5
+valid-until
+fresh-until
+o
+vote-status consensus
+valid-after 4337-03-22 88:88:93

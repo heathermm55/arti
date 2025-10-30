@@ -1,0 +1,17 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+votelay 4 4
+ver-versions 
+known-flags A 4E60B14
+dir-source test000a E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 127.0.0.1 127.0.0.1 7000 5000
+contact auth0@test.test
+vote-digest 0080
+directory-D7A7FBDE79B2
+r test002a bn57nX/oA8+yb12PGj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ4{{k{{{{{{{{{{1JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s Authoir lpha
+pr crodesc=1-2 Padding=2 Relay=
+w0 -signatE-----

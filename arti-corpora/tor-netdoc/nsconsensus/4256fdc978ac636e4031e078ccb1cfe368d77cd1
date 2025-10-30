@@ -1,0 +1,9 @@
+network-status-version 3
+vote-status consensus
+c
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 00:00:00
+valid-until 2026
+known-flags Au1k=
+dir-source rg 030
+&519Au

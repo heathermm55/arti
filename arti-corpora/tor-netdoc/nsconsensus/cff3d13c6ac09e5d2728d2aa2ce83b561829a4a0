@@ -1,0 +1,9 @@
+network-status-version 3
+vote-status consensus
+co0 
+valid-after 2021-04-08 19:00:00
+fresh-until -2065-03-08 20:00:00
+valid-until -202103,,,pha6
+known-flags =157
+dir-source din-BE
+01:ZsRA24 4

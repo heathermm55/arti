@@ -1,0 +1,13 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-belarver-versions 
+known-flags Authority t Fast Guard HSDir NoEdCd=2 Link=4-5ls Cons=2 Desc=2 DirCache=2 HSDir=2 HSIntE34
+dir-source test002a 67DBEFD5EAB5F329%BB1453E2958CBFD65494218 127.0.0.1 127.0.0.1 7002 5002
+contact st.test
+vote-digest 4E6245535
+r test003r xpuYVtTzwll8wfGD/VKugXqgm=10000 Wmb=10000 Wmd=3333 Wme=0 Wmg=0 Wmm=10000
+directory-signature 60BD7B9AE5FuthRE-----

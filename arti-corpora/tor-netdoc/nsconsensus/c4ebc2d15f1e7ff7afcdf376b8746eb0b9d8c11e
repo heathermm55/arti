@@ -1,0 +1,19 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voserver-versions 
+known-flags Authority
+shared-rand-current-value 3 cV/YEC1txK7ZQORDwUNkmAyQxfr07ZgV6U4=
+dir-source tast001a 54BD7B9AE5FBD492633D05E645857C5DD531BC8B 11 127.0.0.1 7001 5001
+contact auth1@tetest
+vote-digest 2C6E2CCF1F0F77703F8F48315182
+r test0 xpuYVtTzwll8wfGD/VKwgXq2x5I 1+cpFiUsbsxrSTnhdTvs3SDEt64 2021-03-26 07:55:11 127.0.0.1 5003 0
+s alpha
+pr C=1-2 Paddinged=1
+pept 1-;5535
+directory-footer
+bandwidth-wei0 W=0 Wmm=10000
+directory-signature 58BCF79855DE    Dct6iNfHng=0 Relay=--

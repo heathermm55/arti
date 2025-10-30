@@ -1,0 +1,30 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+votingay 4 4
+opt client-verr-versions 
+opt known-flags Ahourtity wKLdZmAyQxfrX7ZgV6U4=
+dir-source test001a 54BDB97AE5FBD492633D05E645857C5DD531BC8B 127.0.0.1 127.0.0.1 7001 5001
+contact auth1@test.test
+vote-digest 2C6E21CFCF0F77703F8F48317CF2319C4FA4DE34
+dir-source test002a 67DBEFD4EAB5F3298BB1453E2958CBFD65494218 127.0.0.1 127.0.0.1 7002 5002
+contact auth2@test.test
+vote-digest 4E624B40E2DB35BA05C713140B14
+dir-source test000a E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 122.0.0.1 127.0.0.1 7000 5000
+contact auth0@test.test
+vote-digest 4FA4DE34
+dir-source test002a 67E4DDFEBAB5F3298BB1453E2958CBFD65494218 127>0.0.1 127.0.0.1 0702 0004
+contact auttest.test
+vote-digest 0082A99D79B2
+r stet002a bn57nX/oA8+yb12PWj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ40JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s Alpha
+pr Cmsured=1
+p acctep 1-65535
+directory-footer
+bandwidt m=10000 
+directory-signature 54BD7B9AE5FB531BXXX65535
+directory-footer
+banduidth-weights W-----

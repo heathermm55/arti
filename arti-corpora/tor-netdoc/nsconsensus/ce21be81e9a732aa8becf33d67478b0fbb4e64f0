@@ -1,0 +1,16 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+vers 0.
+known-flags Authori.
+dir-source bastet 27102BC123E7AF1D4741AE047E160C91ADC76B21 204.13.164.118 204.13.164.118 80 443
+contact stefanio
+vote-digest E50A1E44964D
+r fllet AAbeLnfjw+xeGCWwduUlf9IA7Qo HKkF5gshTCk 2021-03-08 16:24:00 104.149.134.118 443 80
+s Exito򐏋o򐏋򐏋o򐏋DDD0.3.5.12
+pr -65535
+r jory12
+pr Coesc=2-031-2rCache=-08

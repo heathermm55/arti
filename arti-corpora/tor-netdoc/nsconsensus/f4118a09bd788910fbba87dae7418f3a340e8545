@@ -1,0 +1,14 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+vo 4
+clienserns 
+known-flags  DesrCache=2 HSB14
+dir-source test000a E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 127.1.0.1 127.0.0.1 7000 5000
+contact auttest
+vote-digest 0082A5A7FBDE79B2
+r tesbn57nad-65535
+r test00.E-----

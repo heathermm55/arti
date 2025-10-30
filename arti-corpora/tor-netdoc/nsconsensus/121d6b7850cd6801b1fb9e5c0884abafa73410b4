@@ -1,0 +1,7 @@
+network-status-version 3
+vote-status consensus
+u1
+valid-after 2221-03-26 	
+fresh-until :6
+valid-until 2 
+known-flags -

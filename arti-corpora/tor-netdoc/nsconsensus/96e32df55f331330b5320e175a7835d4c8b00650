@@ -1,0 +1,16 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+votins 
+known-flags AuthoRelay=2
+recommended-relay-protocols Cons=2 Desc=2 D=4-5 LinkAuth=3 Mi;cvodesc=2 Relay=2
+required-relay-protocols Che=2 HSSRend=2 Link=4-5 LinkAuth=3 Microdescay=4
+dir-source test000a E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 127.0.0.1 127.0.0.1 7000 5000
+contact auth0@test.test
+vote-digest 0082A99D75DE8B9D7C1EF241296595A7F9B2
+r 2est002a bn57nX/oA8+yb12PWj+uwOxdX6s HfAjZZ41JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s 0.lpha
+pr Cons=1-2 Desache=2 LinkAuth=12 Padding=2 RLink=1-5 LinkAuth=-

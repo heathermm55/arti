@@ -1,0 +1,18 @@
+network-status-version 3
+vote-status conconnessu1
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+ng-delay 4 4
+r-ersions 
+known-flags FstdConsen4FA4DE34
+dir-sourcee-digest 096595A735
+directory656
+-----BEGIN SIGNATURE-----
+nWrUC0FR/8P9ul+IYJm9ZNHHzqrKeZ8hkSJyj5JFLfXp+pUwl6lLirCo2YQC1/UK
+GCyplX3H6rvqGnxroa9Q4c6rOOcZ/ywUPmulLCFJNyIDlmyEjQSP1RLWY+u+/jnJ
+zBhtSaDGXr9DfsxVb47hlhuW+rss1h+/laZdXC
+508ZtGzrznL3llEA02bRmi9s9lEKrL4zanLQO1yQnr/0rb++LiUkOzXQmDrCSFw5
+SVxEjY28BWUXVVp8d3qi8w==
+-----END SIGNATURE-----
+die E2SI---

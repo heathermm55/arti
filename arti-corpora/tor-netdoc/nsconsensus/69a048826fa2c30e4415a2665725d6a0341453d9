@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status consensus
+co
+valid-after 0505-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+vongvrs-vios 
+known-flags  ay=2
+recommended-relay-protocols Cons=2 Des2=2 DirCacha=2 H= 2Intro=4 'HSR=2 )ink=4 LinkAth=3 elay=2
+ired-re--

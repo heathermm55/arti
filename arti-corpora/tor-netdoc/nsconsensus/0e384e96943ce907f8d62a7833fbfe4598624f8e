@@ -1,0 +1,9 @@
+network-status-version 3
+vote-status co
+valid-after 101
+fresh-until 2-0800
+valid-until 20:00
+voting-delay 300 300
+client-versions
+dir-source 6
+p 

@@ -1,0 +1,19 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+cli opt .40.6
+known-flags =
+dir-source dannenberOg 02DE danorauth.de 44 80 44d1
+contact Andrhner
+vote-digest 2CEF8A2
+bO
+-----BEGIN A-----
+0
+uuuuO2
+-----END A-----
+0572F
+dir-source tid
+v2 -2

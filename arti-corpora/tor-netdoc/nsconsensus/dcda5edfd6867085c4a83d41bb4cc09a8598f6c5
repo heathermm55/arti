@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status consensus
+o0
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-18 22:00:06
+known-flags y=2
+params =2 =3 Sx61
+dir-source dnn38000
+s Fas

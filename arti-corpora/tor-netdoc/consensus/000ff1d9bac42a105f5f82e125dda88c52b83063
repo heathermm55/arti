@@ -1,0 +1,13 @@
+known-flags
+valid-until
+fresh-until
+network-status-version 3
+vote-status 
+valid-after
+A
+-----BEGIN A-----
+CC
+
+
+=C
+-----END A-----

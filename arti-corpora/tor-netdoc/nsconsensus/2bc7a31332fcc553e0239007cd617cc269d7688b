@@ -1,0 +1,7 @@
+network-status-version 3
+vote-status consensus
+cons1
+valid-after 2021-04-26 23:26:20
+fresh-until 20 23:20
+valid-until 2024 
+known-flags ry-si--/

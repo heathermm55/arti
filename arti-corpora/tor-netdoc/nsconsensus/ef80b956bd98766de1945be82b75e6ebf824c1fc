@@ -1,0 +1,912 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+voting-delay 300 300
+client-versions 0.3.5.10,0.3.5.11,0.3.5.12,0.3.5.13,0.4.3.3-alpha,0.4.3.4-rc,0.4.3.5,0.4.3.6,0.4.3.7,0.4.3.8,0.4.4.1-alpha,0.4.4.2-alpha,0.4.4.3-alpha,0.4.4.4-rc,0.4.4.5,0.4.4.6,0.4.4.7,0.4.5.1-alpha,0.4.5.2-alpha,0.4.5.3-rc,0.4.5.4-rc,0.4.5.5-rc,0.4.5.6
+server-versions 0.3.5.10,0.3.5.11,0.3.5.12,0.3.5.13,0.4.3.3-alpha,0.4.3.4-rc,0.4.3.5,0.4.3.6,0.4.3.7,0.4.3.8,0.4.4.1-alpha,0.4.4.2-alpha,0.4.4.3-alpha,0.4.4.4-rc,0.4.4.5,0.4.4.6,0.4.4.7,0.4.5.1-alpha,0.4.5.2-alpha,0.4.5.3-rc,0.4.5.4-rc,0.4.5.5-rc,0.4.5.6
+known-flags Authority BadExit Exit Fast Guard HSDir NoEdConsensus Running Stable StaleDesc V2Dir Valid
+recommended-client-protocols Cons=2 Desc=2 DirCache=2 HSDir=2 HSIntro=4 HSRend=2 Link=4-5 Microdesc=2 Relay=2
+recommended-relay-protocols Cons=2 Desc=2 DirCache=2 HSDir=2 HSIntro=4 HSRend=2 Link=4-5 LinkAuth=3 Microdesc=2 Relay=2
+required-client-protocols Cons=2 Desc=2 Link=4 Microdesc=2 Relay=2
+required-relay-protocols Cons=2 Desc=2 DirCache=2 HSDir=2 HSIntro=4 HSRend=2 Link=4-5 LinkAuth=3 Microdesc=2 Relay=2
+params CircuitPriorityHalflifeMsec=30000 DoSCircuitCreationEnabled=1 DoSConnectionEnabled=1 DoSConnectionMaxConcurrentCount=50 DoSRefuseSingleHopClientRendezvous=1 ExtendByEd25519ID=1 KISTSchedRunInterval=2 NumDirectoryGuards=3 NumEntryGuards=1 NumNTorsPerTAP=100 UseOptimisticData=1 bwauthpid=1 cbttestfreq=10 hs_service_max_rdv_failures=1 hsdir_spread_store=4 pb_disablepct=0 sendme_emit_min_version=1 usecreatefast=0
+shared-rand-previous-value 9 lnDCNzWHQQvTQj6Nd6behacfd5MHR596KqBYrJtOMrw=
+shared-rand-current-value 9 3ZctrIQu5wyKukB8D/mpDc6haIljleFd0+GQrox661k=
+dir-source dannenberg 0232AF901C31A04EE9848595AF9BB7620D4C5B2E dannenberg.torauth.de 193.23.244.244 80 443
+contact Andreas Lehner
+vote-digest 1CEF8D8CA28F3A81D50A1ED273BD41AB67A8DF1AAE4700FBDF44964D
+r flageolet AAbeLnfjw+xeGCWwduUlf9IA7Qo KFJixVnD7j6b2zVqSBRp8LXM0Eg 2021-03-08 02:10:13 80.195.122.166 9090 9091
+s Fast HSDir Running Stabable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=10200
+p reject 1-65535
+r batonga Cfc7dNfKCf5VPyPiQ/4q4gu6cSM Lb36H9t6gPPkt10rnwB7CnBsB+M 2021-03-08 10:20:38 212.149.211.5 443 80
+a [2001:14ba:1500:0:8ca2:298f:a4f3:338f]:443
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=2310
+p reject 1-65535
+r El CgBx6I+HbkSx3OhI/a0RXmWVTKo Hwq9heLp/V658blusgtZlPsxLPk 2021-03-08 06:20:52 186.50.118.215 9001 9030
+s Running V2Dir Valid
+v Tor 0.3.5.12
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=22
+p reject 1-65535
+r portnoy CgwB3QBE5wMY2ePaXxJaCQacV8E XNjDraORtYUe+U8ctQmPZhzZU0I 2021-03-08 01:23:45 185.198.26.149 9001 0
+a [2a04:bdc7:100:16::ab2d]:9001
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.5
+pr GuarCons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=2130
+p reject 1-65535
+r pusith CheNMCk28gmvPad8zE48TV2+Eek VG74lMNQ6/XkFBkfaYUF2gLwV0c 2021-03-08 01:31:58 178.63.172.14 443 80
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=8600
+p reject 1-65535
+r madonion ChwUni+2nbD09LlHBLkwZFg4FEo MzZ0vMAKcOjXd30RvkmEgqsdhWk 2021-03-08 04:11:48 92.116.157.102 143 0
+s Fast Running V2Dir Valid
+v Tor 0.4.4.7
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=4830
+p reject 1-65535
+r Tor4tahfahce CiFRwEkrihf9A+1AWYYnpwJ645s fIYCDRfnpm0OCcOOU5jNONzB5FU 2021-03-08 08:58:40 63.227.116.162 443 444
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=6070
+p reject 1-65535
+r Digitalcourage4ipca CiNmmAooQtdw744Tan2hSHY2BEc RBUWo0SMqwGo3JvZODC03RwXzas 2021-03-08 14:36:57 185.220.102.242 443 80
+a [2a0b:f4c1:2::242]:443
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=50000
+p accept 20-22,43,53,79-81,194,220,389,443,465,531,543-544,554,563,587,636,706,853,873,902-904,981,989-995,1194,1220,1293,1500,1533,1677,1723,1755,1863,2082-2083,2086-2087,2095-2096,2102-2104,3128,3690,4321,4643,5050,5190,5222-5223,5228,5900,6660-6669,6679,6697,8000,8008,8074,8080,8082,8087-8088,8332-8333,8443,8888,9418,9999-10000,11371,19294,19638,50002,64738
+r Quetzalcoatl CjqvUwdH1wNNv4jFGAM6IoJ+PEY LBGNntLZP81UjYhyKjkTPoEzzpY 2021-03-08 18:48:27 198.98.51.151 9100 9101
+a [2605:6400:10:b94:b92a:235b:fa25:b116]:9100
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=3670
+p accept 20-22,43,53,79-81,194,220,389,443,531,543-544,554,563,636,706,853,873,902-904,981,989-995,1194,1220,1293,1500,1533,1677,1723,1755,1863,2082-2083,2086-2087,2095-2096,2102-2104,3128,3690,4321,4643,5050,5190,5222-5223,5228,5900,6679,8000,8008,8074,8080,8082,8087-8088,8332-8333,8443,8888,9418,9999-10000,11371,19294,19638,50002,64738
+r relayon0322 Ck7Ux0AgdAqQTzqZNgMLekxhcLs wTO7FAiuhSbB3PwY1to35N/5stM 2021-03-08 12:54:30 185.220.101.212 10212 20212
+a [2a0b:f4c2:2::212]:10212
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=48000
+p reject 25
+r FlashEel ClAA5f8pd+DSNrn1tHWQ2IiElN8 2lTh6aNXEHQBPLUvQNOkKKen26A 2021-03-08 18:08:26 130.61.125.241 9001 9030
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.3.5.13
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=5600
+p reject 1-65535
+r Sturmvogel Clks6KU67N+RMNNyRcZGCyOHKN8 EHws+x/ijKhNfPzZyhNxi/1ERdw 2021-03-08 05:06:28 77.50.84.6 443 9030
+s Fast Guard Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=9200
+p reject 1-65535
+r arighttosurf CmABseOp9TZb08KYi9abuOrXEok uBr3yiWbjzHqpuE9se03BP+OOcQ 2021-03-08 14:24:46 82.161.50.30 9002 9031
+a [2001:982:8fa4:1::face]:9002
+s Fast HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=930
+p reject 1-65535
+r Unnamed CmJ4M3f5JzoyvUx+DV49xdxlEFE N+2fTHF9Y1ZTB0DSYdiApc956ZA 2021-03-08 02:01:51 78.47.86.168 443 8443
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=42000
+p reject 1-65535
+r Unnamed Cn3kz1/kngA0VT1xb8q7mtXteSQ FZizTp7Tv7o91k+ogkYUxbizQ5k 2021-03-08 16:44:56 23.94.220.202 9001 0
+s Fast Running V2Dir Valid
+v Tor 0.3.5.12
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=4600
+p reject 1-65535
+r Unnamed CoQyRYYqBeb/sfQWpulvbxLuRqs 2rpLGsAIdpjFmMDa3mLoivn6OeU 2021-03-08 00:56:06 185.186.79.159 443 0
+s Fast Running Stable Valid
+v Tor 0.4.3.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=20400
+p reject 1-65535
+r fiedlerRelay07 CqOfQysud4ysBvgNpEl1OFNHzdk qspdaweW45DqRynNlmmoHoBD8VY 2021-03-08 05:03:01 185.233.107.110 9001 0
+a [2a03:4000:24:829::2]:9001
+s Fast Guard Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=5470
+p reject 1-65535
+r merrall CrBfxjz5rHBwwdibsaEYnDGeGpI 1yV6stdEn5zltdDwo1xNuH0ZI8w 2021-03-08 00:51:06 185.227.82.56 443 80
+s Fast Guard Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=6140
+p reject 1-65535
+r CypherpunkLabsExit CrfmFhSfrRh/m1Ykc5VPhNo2UiQ cy/mglSHFv6uNSvEH0N6oBk6VFA 2021-03-08 15:14:39 135.148.33.74 9001 80
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=4590
+p reject 1-65535
+r ATZv5 Es9ttNrhBiBtbGsJmI6GXAUJhDs aiq2rg9jmZkYM9A2EF5Q8DF9TfA 2021-03-08 16:04:08 159.69.114.110 9001 9030
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=41000
+p reject 1-65535
+r TOR2DFNrelA EtVS6K96orcbIYtbv2pf76bya6A M8KYheGyI2wN6lqh6amEgZdJbKk 2021-03-08 15:47:00 217.182.196.67 443 80
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=100000
+p reject 1-65535
+r shortmax Etl4wqTLSsF5QP6I+Jm2eg/5uq0 yng+toTaearBD/t/SbAjn0QDKt0 2021-03-08 16:05:52 95.216.141.19 9001 0
+a [2a01:4f9:c010:513::1]:9001
+s Fast Runnkng Stable Valid
+v Tor 0.4.3.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2 Padding=2 FlowCtrl=1
+w Bandwidth=48000
+p reject 1-65535
+r TorRelayMPC EtnaU59HpVkf1T2Supvd+IiWiew qE+hUQ/ht3I7wmF2XOlSzfhy49o 2021-03-08 02:14:51 151.80.44.177 49001 49030
+a [2001:41d0:e:11b1::1]:49001
+s Fast Running Stable V2Dir Valid
+v Tor 0.4.6.0-alpha-dev
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=66
+p reject 1-65535
+r ridcully EviHmN1Lm/slppeNqD8ILvHVBRo K8Fj/KKTkoZwwTWz/U6Foyu0n/c 2021-03-08 08:00:00 188.40.99.69 9001 0
+a [2a01:4f8:221:1901::12]:9001
+s Fast Running Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=1900
+p reject 1-65535
+r TeivosRelay EvjlgxDPB+s/Lpqtb3i81QZdOTA 1kHMMuaIr+lmrUgJsw+qEcRrl4Y 2021-03-08 07:25:46 94.66.115.122 9001 0
+s Fast HSDir Running Stable V2Dir Valid
+v Tor 0.4.2.7
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2 Padding=2 FlowCtrl=1
+w Bandwidth=337
+p reject 1-65535
+r thanatosCZ Ev1iTuc87zcTfJDTiyQGpm9o+qI U8XY76jO7O/uH2dI9OgyVTXC4ro 2021-03-08 18:06:56 37.157.195.87 443 8030
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.3.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2 Padding=2 FlowCtrl=1
+w Bandwidth=4030
+p reject 1-65535
+r funkturm Ew5p6PeD3vJW51f6eBVLfcKjng4 Kmd2luDDFAdOnCmbPiwMUARSoHM 2021-03-08 01:40:02 185.72.247.145 9001 9030
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=4200
+p reject 1-65535
+r JassMischer ExNc+W9K1Es31FTNGF0vWITvkBk kKkDE7uOwSOX94X3ZRDK7k+G1HA 2021-03-08 09:10:40 212.51.151.250 9001 9030
+a [2a02:168:5214::15]:9001
+s Fast HSDir Running Stable V2Dir Valid
+v Tor 0.3.5.10
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=702
+p reject 1-65535
+r apollo ExwuRvR94nSFffVcdWFhqjKgjX0 JbU744cQYWbxLNGLOM36VqAGqrw 2021-03-08 17:18:28 74.83.2.146 9001 9030
+s Fast Running V2Dir Valid
+v Tor 0.4.3.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2 Padding=2 FlowCtrl=1
+w Bandwidth=7640
+p reject 1-65535
+r CCrelay1337 Ex+8ij1LRN6bJYrcWGdAgrHgbSw MQrAYhdRJQdr4XGee8bqAAo/7X4 2021-03-08 08:01:19 188.40.238.144 9001 9030
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.5-rc
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=24000
+p reject 1-65535
+r Unnamed EyLZDqbtqFs6hWbywE8tjFx8HvE 4Rfjma4a4th6LcRFEc1mWCEhf/Y 2021-03-08 03:24:04 176.126.242.49 443 80
+a [2a04:ad80:1:8a::31]:443
+s Fast HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=15400
+p reject 1-65535
+r Maraz EzP1F/bFGMqbT31oMClAtMVqOSk d52fSb4DYkq/69zGF9eoYWdx8ao 2021-03-08 17:01:00 45.63.126.247 109 0
+a [2401:c080:1000:4fe4:5400:2ff:feb2:8c10]:109
+s Fast Running Valid
+v Tor 0.4.5.5-rc
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdescodesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=3010
+p reject 1-65535
+r relay9282910384 GTftk8e4Udn7q7VXvmpqcqE0tek 5BIAc4jozD9pfHO5MQAjXNTcGaU 2021-03-08 14:52:51 52.54.150.194 443 0
+s Fast Running Stable Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=2240
+p reject 1-65535
+r Unnamed GUAgG23jaCAiiynV9Gkk1E/0DIo cA4VgoGN/SIA6VYpwHALB3z4xeg 2021-03-08 13:26:06 217.197.162.238 41246 0
+s Fast Running V2Dir Valid
+v Tor 0.4.2.7
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2 Padding=2 FlowCtrl=1
+w Bandwidth=11000
+p reject 1-65535
+r Hydra26 GUA5gVnDxXGTk2Pd6ARPPbi5c5Q 6ADtNV1lqs/p075rc0XTA/TazV8 2021-03-08 10:29:46 104.244.73.46 9001 80
+s Exit Fast Guard Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=17800
+p accept 53,80,123,443,853,1194
+r Thrones GUTzpHPLd7Er2049FZY6JN9Y5Oc lHLdhlci+31xn6SjW4gCL/5RBEY 2021-03-08 14:47:33 146.185.189.197 443 8080
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=11000
+p reject 1-65535
+r badabim GUj+9SiX9qJeRWt9ucLTfvtyUME NHVrjnI5h+Fom9Yx2jGL7ehJFYM 2021-03-08 05:30:28 193.77.153.221 9001 0
+s Fast Guard Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=2340
+p reject 1-65535
+r artikel5ev3b GVcS6W/RwbGNFNCenk56ZBbiOyw fZBB4wjZUw7zAR8naxuh9GhrFpo 2021-03-08 12:12:37 87.118.122.51 443 9030
+a [2001:1b60:3:239:1003:106:0:1]:443
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.5-rc
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=4630
+p accept 43,53,79-81,88,110,143,194,220,389,443,464-465,531,543-544,554,563,587,636,706,749,873,902-904,981,989-995,1194,1220,1293,1500,1533,1677,1723,1755,1863,2082-2083,2086-2087,2095-2096,2102-2104,3128,3389,3690,4321,4643,5050,5190,5222-5223,5228,5900,6660-6669,6679,6697,8000,8008,8074,8080,8082,8087-8088,8332-8333,8443,8888,9418,9999-10000,11371,19294,19638,50002,64738
+r habo01 GWq6acBWUg4EH64m77MplAqxEK8 0EjwNxMxIAh/p5AwhlajDIeS0IA 2021-03-08 16:23:11 109.202.212.1 9001 0
+s Fast Running V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=20 Unmeasured=1
+p reject 1-65535
+r MakeTorGreatAgain GY8S4t775r7rw4sv7dYVrss42no qgaqFdeko3HpC8PMdWer5eLGy1M 2021-03-08 07:56:48 212.227.200.133 9001 9030
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.3.5.8
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=43000
+p reject 1-65535
+r T0rly Gb3tbUvq0b1TNDzubZsj+yiChJI LuGs++eP3doeFKenko3lfH8V6oA 2021-03-08 02:06:58 80.31.195.129 9001 9030
+s Fast Running Stable V2Dir Valid
+v Tor 0.3.5.10
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=261
+p reject 1-65535
+r Unnamed Gb7xd7i2UzpJLoUNZBPXqEoYD1Y pXiu7RoSwEdubkO+oIAd6/IwPgQ 2021-03-08 16:35:07 198.100.148.140 443 8443
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=14300
+p reject 1-65535
+r deFTL Gd6iuLvTYTxQyiTJbE3gw62vSj4 Njgl0CfF7aY1Ga8f5XLkJ9lxvCo 2021-03-08 15:29:13 49.12.10.39 9001 0
+a [2a01:4f8:c17:31c::1]:9001
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=8670
+p reject 1-65535
+r TouchMyData GeEK8VEWCRZeGTMKxJzP7OYBjkg GPWibWQPD9rmRdi1o+UnttOwsbU 2021-03-08 13:54:35 75.75.102.102 9001 9030
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.53333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=2900
+p reject 1-65535
+r Noaccess GfkDE7LA6wPvw0dwbyc16Bh22EY joRZ0z98mEjwcD4/41QHR9qISps 2021-03-08 04:15:33 80.219.136.216 9030 0
+s Fast HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=845
+p reject 1-65535
+r Unnamed Gf/wTEtESKmT9ckIyZcEiB3NR2c O2TxJkcbgKId3IPJJv5wn2SGB6E 2021-03-08 08:40:17 87.103.241.202 9001 0
+s Fast HSDir Running Stable V2Dir Valid
+v Tor 0.3.5.12
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=355
+p reject 1-65535
+r Avalon2 GgArbhY9UC8jOBORcY4RpWiXZAM ZL04+TZ/0YIvHl2HCQJW61bUSPY 2021-03-08 15:39:41 62.141.51.90 1443 8050
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=7100
+p reject 1-65535
+r ABCVG GgIKQU2Ksl9UQVyMHnWlViqd2aY Zfym+bn+ZIJRurH0DWyy+JMehBo 2021-03-08 09:36:10 37.187.103.54 443 0
+s Fast Guard Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=10000
+p reject 1-65535
+r bias GhD24rpFykpeuqbvdZ/L9Oiv7qg G/nbPA7CFddOsewEAWp0WUGYQyo 2021-03-08 05:56:48 95.217.15.17 443 80
+a [2a01:4f9:c010:7066::1]:443
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=13400
+p reject 1-65535
+r idideditheconfig GhcVT0w2plnc0wNEIJ+vgz3Mmdg SwyEv0AN3qKbpFxvh/fxfl+cFxI 2021-03-08 06:40:26 167.86.100.59 9001 9030
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.7
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=14000
+p reject 1-65535
+r Quetzalcoatl GiQ9pvY5qcmbQ5EVjg4U6JwpdUw p8HXQMApAeJTrP4qVN9whrsvKJE 2021-03-08 17:46:03 104.244.73.205 9000 80
+a [2605:6400:30:f745:8bcb:6613:d6cc:6dbc]:9000
+s Exit Fast Running V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=7700
+p accept 20-22,43,53,79-81,194,220,389,443,531,543-5435
+r Nomorewhipe Git3rQp0LNgEud10fi3Y440GyRU ehfTlxjnNMul0ztKfhp0KaOTq8M 2021-03-08 05:33:40 51.68.230.173 9001 9030
+s Fast Guard Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=21600
+p reject 1-65535
+r MYTORExit01 Gi7uRkp9pQCoaaunpbx3LP4ZhTQ VvspkS7UY6xlIMvOwswYEwv5pA0 2021-03-07 23:31:26 103.75.190.11 9001 0
+s Exit Running Stable StaleDesc Valid
+v Tor 0.4.3.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2 Padding=2 FlowCtrl=1
+w Bandwidth=1
+p accept 20-21,43,53,80,110,143,220,443,873,989-993,995,1194,1293,3690,4321,5222-5223,5228,9418,11371,64738
+r tauroh GjL+U4tuUYRk/Ep1uijZ7SfJgFo DSmGaZEeig9inLKmnNeNlsHbpRs 2021-03-08 16:08:49 159.69.85.220 9001 0
+s Fast Running Stable Valid
+v Tor 0.4.4.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=71000
+p reject 1-65535
+r AutoNoMe GjrBG/hc44bhmGP1zfd2m6MOSgY WVVYIxzGVW3V7pvquTWfkD42bWo 2021-03-08 03:32:48 185.212.149.125 9001 9030
+a [2a0c:f040::1084:d5ff:fe08:f960]:9001
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=9390
+p reject 1-65535
+r moomoomeadows Gj7SOE5/kpYWntA77tU2zdHz3EQ gPN3VjPdVfLqOMOV0kw91YrepyQ 2021-03-08 03:26:17 82.7.36.200 9101 0
+s Running Stable V2Dir Valid
+v Tor 0.4.4.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=8
+p reject 1-65535
+r ohrelay GkJa9n1FXaZS40OlOuYUPkL6uKo WzxOGvL3YNE4ns2Sor5xMcIhcJY 2021-03-08 15:05:43 51.15.8.63 9001 9030
+s Fast Guard Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=9950
+p reject 1-65535
+r Unnamed GkNYi74SOeqJbdBsItqyDAxeaO8 JWH/tBRKIF/7aT4HvKWWsZPGH+A 2021-03-08 02:08:37 185.113.140.178 443 0
+s Fast Running Stable Valid
+v Tor 0.4.4.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=5830
+p reject 1-65535
+r clicker2 GkjKzDD8BkJxA86zjEEyhzGH59s KdU1bJu3xs57hbNY75EzNM292N0 2021-03-08 08:59:34 94.16.116.137 443 0
+a [2a03:4000:29:91:2549:9:f370:a1]:443
+s Fast Guard Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=1200
+p reject 1-65535
+r Unnamed Gk0pyBInis+ZuSO4dWQE6q/0vec Ee7bFetTfJH/UZ9u6+URwpY+rkk 2021-03-08 08:11:34 45.66.156.104 443 8443
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=6800
+p reject 1-65535
+r torquera GlG9O0vHUtF1zFEj6DwJnyoNUAQ rS+bhUPtOOw26KVtosqcleDQDLI 2021-03-08 08:18:00 82.67.212.33 9001 9030
+s Fast Running Stable V2Dir Valid
+v Tor 0.3.5.12
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=2,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=1710
+p reject 1-65535
+r just746436456 GlLh6pXqHAXmo7ZDqprB6H/HlvM 2MKdLfHKZlRSbzVoxeGLm7EkMWs 2021-03-08 11:26:26 37.221.195.19 9001 0
+s Fast Running Stable Valid
+v Tor 0.3.5.12
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=2560
+p reject 1-65535
+r pjahra GlNwC9Hz579suxtvyz9Ksy+IyRU OjI0Sb4cSGVGWRaJjgpDindJYsY 2021-03-08 07:20:09 84.118.161.63 9001 9030
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=3300
+p reject 1-65535
+r IceMaiden GmzUp4vFpPGc8vJ8SrMuRMiyB2k ZCjcRy5pskUAxxwx5O3tR3sgHxk 2021-03-08 10:28:59 82.221.105.198 443 80
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.2.7
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2 Padding=2 FlowCtrl=1
+w Bandwidth=2500
+p reject 1-65535
+r rinderwahnRelay28L GnolFqlh8oOPf5R4aogRvoL5z/4 FrPlsNqZzkDNp3tXIJfKIzfEQcU 2021-03-08 05:00:35 31.207.89.49 443 80
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=17700
+p reject 1-65535
+r LIVIDnet Gn8d2i5MQe6JT2EWjoDMtquE0Y0 h1xofVx6TB/9QAxBTQuQ2+0/mlQ 2021-03-08 11:25:44 94.64.92.110 1337 1338
+s Fast HSDir Running Stable V2Dir Valid
+v Tor 0.4.2.7
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2 Padding=2 FlowCtrl=1
+w Bandwidth=194
+p reject 1-65535
+r seth0r Gofg5LM1SE/ruky4Yh0H2eIUPKU HTEHOXHU3e6VcLKWeqqdBb8qz7o 2021-03-08 01:52:14 94.16.122.222 9001 9030
+s Fast Running Stable V2Dir Valid
+v Tor 0.4.5.5-rc
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=800
+p reject 1-65535
+r Covid19th GpC5wkqvlWTSN2GXfklqEGbgrWc 3r5ifDnngWGH/u9VLYPyaslolEA 2021-03-08 06:49:46 170.239.87.139 9001 0
+s Fast HSDir Running Stable V2Dir Valid
+v Tor 0.3.5.10
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=350
+p reject 1-65535
+r mimer2 GqBCqoATt8eFPOKniFN99VhJhRA MqpdKOS3blywAIu0Amkx9hbKbBg 2021-03-08 12:26:03 130.225.244.90 443 80
+a [2001:878:346:1cf9:446a:c4eb:4548:7071]:443
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=24800
+p reject 1-65535
+r TorOrDie4privacyNET GqwZ2JL4SRCrlMRQkiQaujz8TIk YqGgiUSc4E8xB420PEmKOjG525g 2021-03-08 10:20:10 91.194.84.89 9001 9030
+a [2001:4ba0:ffff:1ce::2]:9001
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=30000
+p reject 1-65535
+r Unnamed Gq0BX02IVBOivODlgVkRaQEjbEk FkmHaltw3qeC7sri6DVFNKE+idw 2021-03-08 12:39:53 51.75.143.145 9001 9030
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.3.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2 Padding=2 FlowCtrl=1
+w Bandwidth=18000
+p reject 1-65535
+r rhabarber GrXleoNWyUgDuRmf1KmEWFTmoKw Zw7UGgd5oBX46n9NPugCyWzKWvM 2021-03-08 06:34:17 109.70.100.30 443 80
+a [2a03:e600:100::30]:443
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=66900
+p accept 43,80,443,853,873,993,995,1194,2086,3128,5222-5223,5269,8000,8008,8080,8232-8233,8443,8888,9418,11371
+r Comet GrbMVRWIpVZ+MQC0eo61AG6NG5c mTQxHct31imOf87bi5JIoHTbHXk 2021-03-08 06:46:15 41.215.240.118 443 80
+s Fast Running V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=20 Unmeasured=1
+p reject 1-65535
+r marsvillsvin Gr1IQS8UWpPHDfZkoqMaGEAe1ms Cre5Ctx66NEI9DfmPo1AbQBvrS4 2021-03-08 02:14:23 51.174.15.18 9001 0
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=4890
+p reject 1-65535
+r pochath GsNrxpcCl440kSiKLOpMyNIyyuM d0BsgMTm+XX7mB0W7CjrP7guaO8 2021-03-08 17:22:06 37.120.146.42 443 80
+s Fast Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=6770
+p reject 1-65535
+r 948794crazy GsstAFGRtri+LibAIesLoWR6WrM Jz+cGIZmzraj6jPIiGgRLYpHvNg 2021-03-08 07:15:14 128.199.213.157 9001 0
+s Exit Fast Running Stable Valid
+v Tor 0.4.3.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2 Padding=2 FlowCtrl=1
+w Bandwidth=502
+p accept 20-23,43,53,79-81,88,110,143,194,220,389,443,464-465,531,543-544,554,563,587,636,706,749,873,902-904,981,989-995,1194,1220,1293,1500,1533,1677,1723,1755,1863,2082-2083,2086-2087,2095-2096,2102-2104,3128,3389,3690,4321,4643,5050,5190,5222-5223,5228,5900,6660-6669,6679,6697,8000,8008,8074,8080,8082,8087-8088,8332-8333,8443,8888,9418,9999-10000,11371,19294,19638,50002,64738
+r Shebangs GsyflVD23WrD/ovJsvHPQsloCZw LIeFocO63pa0VVfV9+MDWpi1uZo 2021-03-08 08:20:04 134.195.89.27 10000 0
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.3.5.12
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=2700
+p reject 1-65535
+r PoopyTheChinchilla GtTCfNxmgKape2V8puJ5OmN2ZF0 hLVX7Mm4Zt8kAINESgVQeOhNNhQ 2021-03-08 16:15:22 95.109.122.52 143 0
+s Fast Running Stable Valid
+v Tor 0.4.4.7
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=120
+p reject 1-65535
+r Ichotolot60 GuA57gsR23nktLKcup91KGSgJZ4 AXsbI2TKNQ4GkTa/lbzMCYLXTNc 2021-03-08 10:00:57 81.7.14.253 443 9001
+a [2a02:180:6:1::1fa]:443
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinjAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=5500
+p reject 1-65535
+r Yossarian GuGAJQ2AppIHfto1zI5zh6n98iA 0y09+oUlu6APRAitJ+tAIwf505I 2021-03-08 16:41:39 97.107.139.28 9001 9030
+s Fast HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=1670
+p reject 1-65535
+r Quintex36 GulJln+Cu+dTSj1rp3p+vhztQ2k Md9WzXEr4aTWfj29chFBxuzUlMQ 2021-03-08 05:12:15 199.249.230.85 443 80
+a [2620:7:6001::ffff:c759:e655]:80
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=6400
+p accept 43,53,80,443,991,1194,1293,3690,4321,5222-5223,5228,9418,11371,64738
+r relaynest Gu2lpTeeWKgd4FtJQdkVxFcRCGM +bhynrlQKd+DTULEp7JtJvP/OCc 2021-03-08 01:20:11 195.133.131.119 8080 0
+s Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=28
+p reject 1-65535
+r BlackBox Gv9Z+bJXnXgoTvcXOhg/NAhtS1Y AysInfta7rwsdr3lWOVq+w+Hj+s 2021-03-08 01:05:10 217.182.76.66 9001 9030
+a [2001:41d0:601:1100::1646]:9001
+s Fast Guard Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=14000
+p reject 1-65535
+r tunkkiRelay Gxxc5q1vWXrXVwebrapI7uM3k8M EByuP3RgN24SuHkxOcHMiwdS7y0 2021-03-08 14:53:41 46.165.214.65 9001 0
+a [2a00:c98:2050:a003:4::4]:9001
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.5-rc
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=17000
+p reject 1-65535
+r TheBestRelayNick3 Gz5I115/fmHRubviS6FaOLRUOA0 8ceY5GfjwTUzUutG8UNTOpejyWw 2021-03-08 17:15:57 142.114.30.67 9001 9030
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=24000
+p reject 1-65535
+r relayon0341 G2BbJ1EnmxUsoJjtdrHrzJrcojk We23ttgKWPhgb1IcbPcxsYoaCUc 2021-03-08 06:52:42 185.220.101.213 30213 40213
+a [2a0b:f4c2:2::213]:20213
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=54000
+p reject 25
+r ryanfragdev G2s3uuJgfitsgWhaI1Vut8+5lhw 8pqEa3w7RLDaVHKdO4ixaIir0fk 2021-03-08 01:26:18 144.217.87.28 9001 0
+a [2607:5300:201:3100::24c0]:9001
+s Fast Running Stable Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=470
+p reject 1-65535
+r aemrelay G22f71wvnGtb88n6qRMdabcKNbA ilqOvNQSTrY6jjXQsjtM4qqnj74 2021-03-08 17:57:20 31.17.188.83 9001 9030
+s Running V2Dir Valid
+v Tor 0.3.5.12
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=50
+p reject 1-65535
+r SunsTORm9618 G25U3RBz/rVQxxVkfvkZhaxQfGg DM7nJ6VfHyln4qhAoMQHT59hgAM 2021-03-08 01:38:16 139.99.135.22 9001 0
+s Exit Fast HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 Di$rCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=249
+p reject 25,119,135-139,445,563,1214,4661-4666,6346-6429,6699,6881-6999
+r Unnamed G3huoY3z1/Gsk/gPp/iJeASN2LQ w8i1lpCTbXcCce6LNLutClZnGgo 2021-03-08 02:40:26 139.162.2.231 443 0
+s Fast Running Stable Valid
+v Tor 0.4.4.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=500
+p reject 1-65535
+r torproxy04 G4+u39QoxUap3MnsFeE8BVAiLUQ jnDjS28PybC4MsH20OVmYqM2jLw 2021-03-08 04:40:05 193.169.145.202 443 80
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.3.5.12
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=11000
+p accept 20-21,43,53,80,443,873,989-990,992,1194,1293,4321,5222-5223,5228,11371,64738
+r zlangtor1 G5A5WCf3SZo3xz8JvFqgIlgI9vw RXLJEOVtqiFaVPWXwoVJggNTCUY 2021-03-08 01:08:44 163.172.129.238 9001 9030
+a [2001:bc8:600:1a0f::1]:9001
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.5-rc
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=40000
+p reject 1-65535
+r relayon0336 G5I1ZWUD6A6RPpyaE5rYnTbi3/0 WTF1ldBzukqjzlkg7VkDH6Ma0mU 2021-03-08 12:54:43 185.220.101.197 10197 20197
+a [2a0b:f4c2:2::197]:10197
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=33400
+p reject 25
+r sqrrm G5wmwdqxkOrT6623CRTglJrcJYg cnjyyHkPyV5i5M5FTCnIYs+AbDI 2021-03-08 18:32:18 185.25.50.199 9000 9001
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=6360
+p reject 1-65535
+r CalyxInstitute07 G5+s8l4X0m4wfqfPp9RVsUSwMuU SwOC3fjxuOcTTUQrw9fSKdb4jv0 2021-03-08 14:43:22 82.94.251.227 443 80
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=17500
+p reject 1-65535
+r Assange017hu G6L5Q2wAGKS1JiXQcbcvZIUit0g +KXHV+/x4mSlWMR8mSpL52bRyIw 2021-03-08 07:02:53 87.229.115.23 9001 9011
+a [2001:470:1f1b:1f4:250:56ff:fe00:17]:9001
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=10900
+p reject 1-65535
+r jullima G6d4LYqfIc255qa2gg1d3ZaF0AE hVGdki2fyXpvQu5jHJgA0DYKYkQ 2021-03-08 11:56:06 144.2.67.132 9001 9030
+s Fast Running V2Dir Valid
+v Tor 0.4.2.7
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2 Padding=2 FlowCtrl=1
+w Bandwidth=5810
+p reject 1-65535
+r ggggg2 G7mLb268thbQvZSF6ktvp6dQHXQ PZFAY/MPD9QdXtMOjfHT3Dps80Q 2021-03-08 05:59:32 46.4.174.52 443 0
+a [2a01:4f8:222:26c1:46:4:174:52]:443
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.3.5.10
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=9900
+p reject 1-65535
+r Quintex77 G7yut2PKRt61ZaclH6pqx5o4it0 n8jUT5AKkA6LVGWAZf+B43YHozg 2021-03-08 06:01:53 199.249.230.166 443 80
+a [2620:7:6001::166]:80
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=3100
+p accept 43,53,80,443,991,1194,1293,3690,4321,5222-5223,5228,9418,11371,64738
+r lecirque G71xa0lz2W5XDTNKV3aXi/9+Dl0 uGG8kU2y0/n3UtwsefSmURB3F6c 2021-03-08 10:50:17 151.237.185.134 9001 9030
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSng=2 Relay=1-2
+w Bandwidth=4600
+p accept 993-995,1194,1220,1293,1500,15331723,1755,1863,2082-2083,2086-2087,2095-2096,2102-2104,3128,3389,3690,4321,4643,5050,5190,5222-5223,5228,5900,6660-6669,6679,6697,8000,8008,8074,8080,8082,8087-8088,8232-8233,8332-8333,8443,8888,9418,9999-10000,11371,19294,19638,50002,64738
+r Unnamed G8eN8wiAfd1vPAZIi9iK8rBLqcc PPprF413H4WXcpoZX4dU3KBxOrU 2021-03-08 05:28:26 135.181.28.170 443 0
+s Fast Running Stable Valid
+v Tor 0.4.4.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=14200
+p reject 1-65535
+r DigiGesTor3e3 G9vpwPcDTmeJqb977YK+IEXw9bc YevaX1SO0TYYQ/eZGIWsB3W2NJc 2021-03-08 17:19:06 94.230.208.148 443 80
+a [2a02:418:6017::148]:443
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=43100
+p accept 20-21,23,43,53,79-81,88,110,143,194,220,389,443,464,531,543-544,554,563,636,706,749,873,902-904,981,989-995,1194,1220,1293,1500,1533,1677,1723,1755,1863,2082-2083,2086-2087,2095-20,19294,19638,23456,33033,64738
+r VotezCommuniste G+3ekpYMQGuUmECGQH3njcozMDY hzjwQ9usWpE+ncpH0v/dynwjUlw 2021-03-08 01:19:30 80.241.217.52 21 0
+s Fast Running V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=4000
+p reject 1-65535
+r idideditheconfig HAEUuXSvVHIJHkfvBLstVoWeh64 8ITKGQ1FZ9qYFNedAyzwQspyICg 2021-03-08 10:37:25 135.19.115.63 9001 9030
+s Running Stable V2Dir Valid
+v Tor 0.3.5.10
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=38
+p reject 1-65535
+r FreedomFries2 HAc2zzdEo7h8LSJpuL0ziMfmBVI D7uGI8RIlUcPQa1to8T3rvp5zWQ 2021-03-08 07:25:48 94.130.246.106 9001 9030
+a [2a01:4f8:10b:3344:106::106]:9001
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.5-rc
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=96400
+p reject 1-65535
+r SpongeBob HA0K8/8FzLuktu0mIZakxadhAuY shgm/EcRqscXl3Jx4IyLyMRdx0E 2021-03-08 14:16:24 104.244.76.13 443 80
+s Exit Fast HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=52000
+p reject 22,25,119,135-139,445,465,563,587,1214,4661-4666,6346-6429,6660-6667,6697,6699,6881-6999
+r Patty HBSVLlxHIEQElmshv5B5N/eYAo8 /gRM+zaZxaBFwTuv2wC6bygBjEU 2021-03-08 07:27:39 90.146.80.38 443 8001
+s Running V2Dir Valid
+v Tor 0.3.5.12
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=1
+p reject 1-65535
+r jpfnzov2 HBwnW46fjQgkQk3fq8pIi6JHVrA RO6ZOYmFBHf4g180IeaTI7tmjyY 2021-03-08 16:57:42 95.165.143.112 2115 2116
+s Running Stable V2Dir Valid
+v Tor 0.4.2.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2 Padding=2 FlowCtrl=1
+w Bandwidth=5
+p reject 1-65535
+r Unnamed HBxcQSI15c4LTurWFpWDIx/BTlc Tn4y3AYdfuUIHIKLWGpBtDl0eu8 2021-03-08 02:37:51 142.4.209.202 443 8443
+s Fast Guard HSDirir Valid
+v Tor 0.4.4.7
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=0 Unmeasured=1
+p accept 43,53,79-81,88,110,143,194,220,389,443,464,531,543-544,554,563,636,706,749,853,873,902-904,981,989-995,1194,1220,1293,1500,1533,1677,1723,1755,1863,2082-2083,2086-2087,2095-2096,2102-2104,3128,3389,3690,4321,4643,5050,5190,5222-5223,5228,5900,6660-6669,6679,6697,8000,8008,8074,8080,8082,8087-8088,8232-8233,8332-8333,8443,8888,9418,9999-10000,11371,19294,19638,50002,64738
+r SanSaba HG2SrRImFRFd2+gJF4ewWHQLPEc ewX7IRUu3aRvXZsm8s6qIbBgo4c 2021-03-08 06:06:14 51.79.51.39 443 9030
+a [2607:5300:205:200::127c]:443
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 Ling=2 Relay=1-3
+w Bandwidth=1400
+p reject 1-65535
+r Unnamed KN0AaZkst1RTFIbGwkah62/rqdg et682AybpUnhEOWw6ogDaYhf3aw 2021-03-08 12:01:19 88.218.92.147 443 0
+s Fast Running Stable Valid
+v Tor 0.4.4.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=14200
+p reject 1-65535
+r Unnamed KN8c5AjS4LpVYYjoHsdJnfkLWDo xF3z0BIESn6+oJ+k0SL/sRGm5bc 2021-03-08 17:33:22 185.108.129.78 443 0
+s Fast Running Stable Valid
+v Tor 0.4.4.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=17800
+p reject 1-65535
+r relayon0229 KPTzkvjxnj+94JYW2duBQ6Hi3dM uJIuUxL+VOepEHbQin6YRSR21pg 2021-03-08 18:23:42 185.220.101.137 10137 20137
+a [2a0b:f4c2:1::137]:10137
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=51200
+p reject 22,25
+r Unnamed KP3MI36DxO+DN2M225YNEdSfp1Y EnV/CwblJR60eL3tJ/t7zGI/rJ4 2021-03-08 14:43:01 109.92.182.91 9001 9030
+s Fast Running Stable V2Dir Valid
+v Tor 0.4.3.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2 Padding=2 FlowCtrl=1
+w Bandwidth=125
+p reject 1-65535
+r DETL0002 KTJ707BS9y3a+1U6nYsTx2wpQvU gepiE6G3dNHN1mrfOGWrL36MzBQ 2021-03-08 06:30:42 89.247.207.130 9002 9031
+s Fast Running V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=619
+p reject 1-65535
+r MediumSlesmn KTXg8DtxvkT28mX++XboELqtb04 WZG7ML4Slgid4aEdf26LMImcm8Q 2021-03-08 08:44:14 144.202.63.243 9001 9030
+s Fast Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=57400
+p reject 1-65535
+r treebark KUgRowVTDdgGMcKuD0h1OoNmmKA eMwhBBxB+oq+9xR9eWQuX5gwiZo 2021-03-08 08:52:25 208.97.141.8 9001 0
+a [2607:f298:5:101d:f816:3eff:fe2f:277e]:9001
+s Running Stable V2Dir Valid
+v Tor 0.4.4.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=11
+p reject 1-65535
+r iiyatsu KV8Fq1HLftR6xtbmaQuBiDrR9+o TMCktwnAKQbCnhk8pq0mgZmZt4A 2021-03-08 01:08:27 159.65.16.134 9001 0
+s Fast Running Stable Valid
+v Tor 0.3.5.10
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=564
+p reject 1-65535
+r BlueDucks KW3WjJAXv3/HzsmstDpvqpQkCP8 /8kxWb7p39c5kEvqtfiCR+VH4ZU 2021-03-08 09:27:43 51.81.32.241 443 0
+a [2604:2dc0:101:200::4a4]:443
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=26000
+p reject 1-65535
+r yukari KXZIzRcViXyi3d79GBLhCTZzaTs Pgj/RBqn9zvvcdNkiTL9pP9a244 2021-03-08 08:28:15 141.193.21.99 9001 0
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.3.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2 Padding=2 FlowCtrl=1
+w Bandwidth=3900
+p reject 1-65535
+r Unnamed KZiVXIClxVdalgICr84NffYz9u8 HIVP9N+BIc/SN2kWb6x8JjC3XLA 2021-03-08 06:22:13 188.195.84.212 443 80
+s Fast Running V2Dir Valid
+v Tor 0.3.5.12
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=450
+p reject 1-65535
+r BorrisvCorbyn KaORRK0UEkJDbQeQH3qLkfdRamY 0ObaDkSDixjvl60w4EPfjb5VWRg 2021-03-08 05:38:49 176.31.116.155 8443 9001
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.3.7
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2 Padding=2 FlowCtrl=1
+w Bandwidth=46600
+p reject 1-65535
+r Backplane2 KbvYChcCx/3vZVfEkvROnrqyhUo zuorN9rb1hZHYDNPeQoG3FozwNQ 2021-03-08 18:29:15 172.98.193.62 81 80
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=16900
+p accept 53,80,443
+r Unnamed Kb+ghtnUguFBLgdYyPaGIJlkS2Q no/KRcl507zMhdarRzAZ4b6cemg 2021-03-08 05:54:13 185.90.61.220 443 8443
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=29500
+p reject 1-65535
+r KhaosArmyRelay KdjK+6xSUEucKZxTQ+SIzrrT6qw RcwYWT6Kwnv5ZRbTZXsdUVWgaxQ 2021-03-08 04:00:28 176.152.45.213 9001 9030
+s Exit Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=3
+p accept 1-65535
+r MikeDiaTellsLies KdwVIN1bJQs/y++IcGFhIw3qtXE IjPmSInskRWfwGzwkiIi1p17lx4 2021-03-08 01:09:05 34.242.250.246 8080 0
+a [2a05:d018:744:5900:2f6a:c061:27ff:3bca]:8080
+s Fast Running V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=2
+p reject 1-65535
+r corona Kd3SXIOD/aVZ1ODoj4IKuIwmISo jlgj72yT2XlwO46BcGPIt6VI2RM 2021-03-08 17:26:56 116.203.234.246 443 0
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.3.5.8
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=9200
+p reject 1-65535
+r DKRelay Kd5+4IZtT0NArgz9cq3DUZ9lRho GjbqtTa0FrrYzVo8n3oHMC3LE9Y 2021-03-08 09:23:03 168.70.110.165 9001 9030
+s Fast HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=329
+p reject 1-65535
+r Unnamed KeFWoJ4VGvIw1oI4LHI8d9NRYNA Qmpy7GX8z/+jyJ5UfeaC3SLfSPY 2021-03-08 03:30:25 173.255.250.203 443 0
+s Fast Running Stable Valid
+v Tor 0.4.4.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=10600
+p reject 1-65535
+r Lunarfire KedLpY5YMVCqZ5jnQMVq/TIdwmY Y6USkAoINF+qjBPXbOx5LeMSuno 2021-03-08 09:05:13 92.208.221.244 443 0
+s Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=7
+p reject 1-65535
+r nati Kf+nqIGrrcpO7t0WEoU3uwKNUVM qL2Fnn9ZBuDLZLOS9NtQaWGYWOg 2021-03-08 18:32:11 92.223.72.168 443 80
+s Fast Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=268
+p reject 1-65535
+r HassoBarks Kg+tPKehkMQ9jteJZye9Qm6MLvo FS2w5bV2swTZa3JmkVTHjD7fgrQ 2021-03-08 07:20:56 217.160.13.173 6574 6547
+s Fast Guard Running Stable V2Dir Valid
+v Tor 0.4.2.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2 Padding=2 FlowCtrl=1
+w Bandwidth=2500
+p reject 1-65535
+r Unnamed KhJMpMXyQ7f3/uQOgKOTSOXni6E olJL1V831NhyXXJUK1zjnl/69mc 2021-03-08 13:21:14 198.98.49.32 9001 0
+s Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=52
+p reject 1-65535
+r hellokitty KiAi04aJTTyzQ4dSl3wnp69Quvo L0OV41Y9Vs3/DJo9HjELPFDJ+Yc 2021-03-08 00:50:43 203.186.69.98 9001 9030
+s Fast HSDir Running Stable V2Dir Valid
+v Tor 0.3.5.13
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=355
+p reject 1-65535
+r relayon0127 KiMaXKevkQKbdHVRHX0W34XskiE yY70F1fyCCRxeG/G4Kyp5/lBQxQ 2021-03-08 05:08:39 185.220.101.11 30011 40011
+a [2a0b:f4c2::11]:20011
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=20300
+p accept 80,443
+r askatasuna64 KiTgt/fWS4CNcPvpLmQcnW/Zmz0 KwmZ4kC71O5YXt+s0fqfBEGIPVo 2021-03-08 13:50:10 163.172.41.228 9001 9030
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.6
+pr Cons=1-2 Desc=1-2 DirCache=1-2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-2
+w Bandwidth=6300
+p accept 20-21,43,53,79-81,88,110,143,220,389,443,464,531,543-544,554,636,706,749,873,902-904,981,989-993,995,1194,1220,1293,1500,1533,1677,1723,1755,1863,2082-2083,2086-2087,2095-2096,2102-2104,3690,4321,4643,5050,5190,5222-5223,5228,8008,8074,8082,8087-8088,8232-8233,8332-8333,8443,8888,9418,10000,11371,19294,19638,50002,64738
+r Angband KjYAWoEci0IPOA1nxKnWMGVfCQA hv5/pPgJZl6IHCJrYqmUvNdPQS8 2021-03-08 03:51:33 178.17.171.102 9001 9030
+a [2a00:1dc0:caff:138::94d2]:9001
+s Exit Fast Guard Running Stable V2Dir Valid
+v Tor 0.3.5.13
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=3930
+p reject 22,25,119,135-139,445,563,1214,4661-4666,6346-6429,6699,6881-6999
+r johannan KjmV16etp9vZv1eSuxVqsqSbsro A8hZga/FEsUy6X/+wJqhjegnrW0 2021-03-08 17:18:01 37.204.20.190 9001 9030
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.3.5.13
+pr Cons=1-2 D*sc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=14000
+p reject 1-65535
+r Unnamed KkiomDaWCjHnAXqEEYvDfQ4WfNA Y0v9arZS2ZfsCanJJ3hI/DZnUbQ 2021-03-08 15:53:16 38.145.200.112 443 8443
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.4.5
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=3800
+p reject 1-65535
+r Challenger KldGv/MqNjzTqtBRlsDxDnFDu7Y gZXlBDiefIM3iJufZPspGKcuCp8 2021-03-08 02:21:10 54.38.36.44 443 80
+s Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.3.5.10
+pr Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+w Bandwidth=14000
+p reject 1-65535
+r PowerBullseye Kl30oP3VKGjiXywzvCMq/9Gbi/M nb5eIm6OayrtvTwnQN+RzpDPJHc 2021-03-08 10:58:24 93.56.117.22 443 80
+s Fast HSDir Running Stable V2Dir Valid
+v Tor 0.4.5.6
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay44.72.36 9000 80
+a [2605:6400:30:f5ae:a9f5:e691:13c3:98aa]:9000
+s Exit Fast Running V2Dir Valid
+v Tor 0.4.5.6
+pr Cty Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.6.1-08,8074,8080,8082,8087-8088,8332-8333,8443,8888,9alpha
+p418,9999-10000,r 

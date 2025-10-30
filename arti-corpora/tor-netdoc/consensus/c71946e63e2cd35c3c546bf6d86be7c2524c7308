@@ -1,0 +1,381 @@
+known-flags
+valid-until
+fresh-until
+network-status-version A-----
+o
+vali1	
+9	
+N	
+t	
+-----BEGIN A-----
+
+YYYYcYcYcccccccccYYYYYcccccccccccccccccccfccffnC
+-----END A-----
+o
+vali1	
+9	
+N	
+t	d-until
+f
+-----BEGIN A-----
+
+YYYYcYcYcccccccccccccfccfffffffC
+-----END A-----
+va
+freshus-version ---
+n-fags
+v-
+-----BEGIN A-----
+
+YYYYYYcccccccccccccccccccfccffnC
+-----END A-----
+o
+vali1	
+9	
+N	
+t	d-until
+f
+-----BEGIN A-----
+
+YYYccccccccccfccfffffffC
+-----END A-----
+va
+fr-
+-----BEGIN A-----
+
+YYYYYYcccccccccccccccccccfccffnC
+-----END A-----
+o
+vali1	
+9	
+N	
+t	d-until
+f
+-----BEGIN A-----
+
+YYYYcYcYcccccccccccccfccfffffffC
+-----END A-----
+va
+freflags
+v-d-until
+f
+-----BEGIN A-----
+
+YYYYcYcYcccccccccYYYYYcccccccccccccccccccfccffnC
+-----END A-----
+o
+vali1	
+9	
+N	
+t	d-until
+f
+-----BEGIN A-----
+
+YYYYcYcYcccccccccccccfccfffffffC
+-----END A-----
+va
+freshus-version ----
+-----BEGIN A-----
+
+YYYYYYcccccccccc
+-----END A-----
+A-----
+o
+vali1	
+9	
+N	
+t	d-until
+f
+-----BEGIN A-----
+
+YYYYcYcYcccccccccccccfccfffffffC
+-----END A-----
+va
+freshus-version ---
+n-fags
+v-
+-----BEGIN A-----
+
+YYYYYYcccccccccccfccfffffffC
+-----END A-----
+va
+freshus-version ---
+n-fags
+v-
+-----BEGIN A-----
+
+YYYYYYcccccccccccccccccccfccffnC
+-----END A-----
+o
+vali1	
+9	
+N	
+t	d-until
+f
+-----BEGIN A-----
+
+YYYccccccccccfccfffffffC
+-----END A-----
+va
+fr-
+-----BEGIN A-----
+
+YYYYYYcccccccccccccccccccfccffnC
+-----END A-----
+o
+vali1	
+9	
+N	
+-----BEGIN A-----
+
+YYYYcYcYcccccccccccccfccfffffffC
+-----END A-----
+va
+freshus-version ---
+n-fags
+v-
+-----BEGIN A-----
+
+YYYYYYcccccccccccccccccccfccffnC
+-----END A-----
+o
+vali0	
+9	
+N	
+t	d-until
+f
+-----BEGIN A-----
+
+YYYccccccccccfccfffffffC
+-----END A-----
+va
+fr-
+-----BEGIN A-----
+
+YYYYYYcccccccccccccccccccfccffnC
+-----END A-----
+o
+vali1	
+9	
+N	
+t	d-until
+f
+-----BEGIN A-----
+
+YYYYcYcYcccccccccccccfccfffffffC
+-----END A-----
+A-----
+o
+vali1	
+9	
+N	
+t	d-until
+f
+-----BEGIN A-----
+
+YYYYcYcYcccccccccccccfccfffffffC
+-----END A-----
+t	d-until
+f
+-----BEGIN A-----
+
+YYYYcYcYcccccccccccccfccfffffffC
+-----END A-----
+va
+freflags
+vva
+freflags
+v-
+-----BEGIN A-----
+
+YYYYYYcccccccccccccccccccfccffnC
+-----END A-----
+va
+fr-
+-----BEGIN A-----
+
+YYYYYYcccccccccccccccccccfccffnC
+-----END A-----
+o
+vali1	
+9	
+N	
+t	d-until
+f
+-----BEGIN A-----
+
+YYYYcYcYcccccccccccccfccfffffffC
+-----END A-----
+A-----
+o
+vali1	
+9	
+N	
+t	d-until
+f
+-----BEGIN A-----
+
+YYYYcYcYcccccccccccccfccfffffffC
+-----END A-----
+va
+freshus-version ---
+n-fags
+v-
+-----BEGIN A-----
+
+YYYYYYcccccccccccccccccccfccffnC
+-----END A-----
+o
+vali1	
+9	
+N	
+t	d-until
+f
+-----BEGIN A-----
+
+YYYccccccccccfccfffffffC
+-----END A-----
+va
+fr-
+-----BEGIN A-----
+
+YYYYYYcccccccccccccccccccfccffnC
+-----END A-----
+o
+vali1	
+9	
+N	
+t	d-until
+f
+-----BEGIN A-----
+
+YYYYcYcYcccccccccccccfccfffffffC
+-----END A-----
+va
+freflags
+v-d-until
+f
+-----BEGIN A-----
+
+YYYYcYcYcccccccccYYYYYcccccccccccccccccccfccffnC
+-----END A-----
+o
+vali1	
+9	
+N	
+t	d-until
+f
+-----BEGIN A-----
+
+YYYYcYcYcccccccccccccfccfffffffC
+-----END A-----
+va
+freshus-version ---
+n-fa	
+t	d-until
+f
+-----BEGIN A-----
+
+YYYYcYcYcccccccccccccfccfffffffC
+-----END A-----
+va
+freshus-version ---
+n-fags
+v-
+-----BEGIN A-----
+
+YYYYYYcccccccccccccccccccfccffnC
+-----END A-----
+o
+vali1	
+9	
+N	
+t	d-until
+f
+-----BEGIN A-----
+
+YYYccccccccccfccfffffffC
+-----END A-----
+va
+fr-
+-----BEGIN A-----
+
+YYYYYYcccccccccccccccccccfccffnC
+-----END A-----
+o
+vali1	
+9	
+N	
+-----BEGIN A-----
+
+YYYYcYcYcccccccccccccfccfffffffC
+-----END A-----
+va
+freshus-version ---
+n-fags
+v-
+-----BEGIN A-----
+
+YYYYYYcccccccccccccccccccfccffnC
+-----END A-----
+o
+vali0	
+9	
+N	
+t	d-until
+f
+-----BEGIN A-----
+
+YYYccccccccccfccfffffffC
+-----END A-----
+va
+fr-
+-----BEGIN A-----
+
+YYYYYYcccccccccccccccccccfccffnC
+-----END A-----
+o
+vali1	
+9	
+N	
+t	d-until
+f
+-----BEGIN A-----
+
+YYYYcYcYcccccccccccccfccfffffffC
+-----END A-----
+A-----
+o
+vali1	
+9	
+N	
+t	d-until
+f
+-----BEGIN A-----
+
+YYYYcYcYcccccccccccccfccfffffffC
+-----END A-----
+t	d-until
+f
+-----BEGIN A-----
+
+YYYYcYcYcccccccccccccfccfffffffC
+-----END A-----
+va
+freflags
+vva
+freflags
+v-
+-----BEGIN A-----
+
+YYYYYYcccccccccccccccccccfccffnC
+-----END A-----
+o
+v5
+vote-status 
+valid-after
+A
+-----BEGIN A-----
+=C
+C
+-----END A-----

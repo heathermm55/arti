@@ -1,0 +1,6 @@
+network-status-version 3
+vote-status consensus
+valid-after 2030-12-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2
+known-flags -

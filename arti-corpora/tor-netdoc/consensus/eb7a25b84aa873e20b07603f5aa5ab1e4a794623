@@ -1,0 +1,6 @@
+network-status-version 3
+known-flags
+valid-until
+fresh-until
+vote-status consensus
+valid-after 2837-03-0

@@ -1,0 +1,13 @@
+network-status-version 3
+vote-status consensus
+consensus-method 35
+valid-after 2021-01-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+e .11
+known-flags Autho8A8F4BBE1
+dir-source longclaw 23D15E965BC35114467363C165C4F724B64B4F@6  80.1940 199.58.81.140 8 403
+contact Risrg.
+vote-digest F4D074A4964D
+r flageolet AAbeLnfjw+xe1070
+r .6che=-08

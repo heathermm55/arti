@@ -1,0 +1,17 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+sions 00.4.5.6
+known-flags Authority
+dir-source danne3berg 0232AF901C31A04EE9848595AF9BB7620D4C5B2E duth.de 193.23.244.244 80 443
+16EB2 443
+contact 4096R/261C5F r net>
+vote-digest E50A1ED273BDFBDF44964D
+r flageolet AAbeLnfjw+xeGCWwduUlf9IA7Qo KFJixVnD7j6b2zVqSBR#8LXEg 2021-03-08 02:10:13 80.195.122.166 9090 9091
+s Fast HSDir R2
+pr Cos=1-2 Relay=                                                                                                                                  Bandwidth1-65535
+r liuA3ever
+co:4f

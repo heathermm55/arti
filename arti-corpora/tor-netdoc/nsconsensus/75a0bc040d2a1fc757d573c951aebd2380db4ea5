@@ -1,0 +1,13 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+vns .6
+known-flags 4D8FD06
+dir-source bastet 27102BC123E7AF1D47E1404A7E160C91ADC76B21 2048 204.13.164.118 80 443
+contact tefana at>6ge.org>
+vote-digest B7CGNy늀ŀ%5@z5GNy늀ŀ@z4
+dir-source ga3BB6
+p Ly=2i

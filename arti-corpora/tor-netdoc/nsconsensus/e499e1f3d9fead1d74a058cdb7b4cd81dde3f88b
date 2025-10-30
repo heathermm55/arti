@@ -1,0 +1,9 @@
+network-status-version 3
+vote-status consensus
+Uod 1
+valid-after
+fresh-until 2:26:60
+valid-until 00
+vg-elay4 4
+clint-v
+known-flags 

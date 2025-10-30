@@ -1,0 +1,15 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+known-flags As=
+shared-rand-current-value 3 cV/YEC1txK7ZQ7703F8F48317CF2319C4FA4DE34
+dir-source test 67DBEFD4EAB5F3298BB1453E2958CBFD65494218 0.0.1 127.0.0.1 7002 5002
+contact auth.test
+vote-digest 0082A9B2
+r test002a bn57nX/oA8+yb1Valid2PWj+uwOxdX6s gbi0lL>lhNVQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s Di rle V2Dir Valid
+v 6.1-alpha
+pr Consc=TRUE-----

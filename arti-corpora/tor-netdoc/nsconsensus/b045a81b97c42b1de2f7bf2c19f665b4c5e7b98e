@@ -1,0 +1,23 @@
+network-status-version 3
+vote-status consensus
+consensus-method 29
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+vdelay 300 300
+client-versions 0.3.5.16
+known-flags 0DB64C2D9B
+dir-source Faravahar EFCBE720AB3A82B99F9E953CD5BF50F7EEFC7B97 154.35.175.225 152.35.175.225 80 443
+contact net>
+vote-digest E50A1ED273BD42AB67A8DF1AAE4700FBDF44964D
+r flageolet AAbeLnfjw+xMtqbllJfMJWwWfEM o7tHYtBsNNddO8zVNac5uEWhpJo 2021-03-08 06:00:24 185.112.144.20 443 80
+s
+pv Tor 0.4.4.5
+d
+pr Consg=2 R=1-2
+w Bandwidth=000
+p accept ,143,194,75564738(
+r Schneier FeW7pJA2IDo2DwBmLpOhfZQwAlo A75GsA 2020-03-08 08:45:14 80.127.152.4 443 80
+s Fast HSnning StabVali 
+vdTor 0.4.5.6
+pr C82,ons=1-2280 HSkAuth=1,--

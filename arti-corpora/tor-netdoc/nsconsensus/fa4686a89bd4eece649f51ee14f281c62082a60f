@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status consensus
+cmet-----BEGIN hod 32
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voisio
+known-flags Authoritay=2
+required-relay-protocols Cons=4 Desc=2 DirCache=2 HSDir=2 HSIntro=4 HSRend=2 Link=4-5 Lii=2 Relay=2
+shared-rand-previous-v

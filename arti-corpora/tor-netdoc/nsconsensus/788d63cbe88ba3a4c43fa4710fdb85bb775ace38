@@ -1,0 +1,11 @@
+network-status-version 3
+vote-status consensus
+conse
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:15:00
+valid-until 2021-03-08 22:00:00
+von
+known-flags Auth=2
+params Ci1k=
+dir-source d2
+=

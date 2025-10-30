@@ -1,0 +1,11 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:45
+valid-until 2021-03-26 23:27:00
+voting-delay 4 4
+known-flags Aty
+dir-source test00 E21A5E3cccccccc970A5C9E9BDC800 1 127.0.0.1 7000 5000
+contact autt.
+vote-digest 0081xdX6L--

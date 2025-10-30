@@ -1,0 +1,27 @@
+
+@ p 
+-----BEGIN 2B-----
+w2
+-----END 2B-----
+w
+-LC CLCCCCp 
+CCCC
+@ p 
+-----BEGIN 2B-----
+w2
+-----END 2B-----
+w
+-
+
+L
+@ p 
+-----BEGIN 2B-----
+w2
+-----END 2B-----
+wCCCCCC
+@ p 
+-----BEGIN 2B-----
+w2
+-----END 2B-----
+w
+-LC 

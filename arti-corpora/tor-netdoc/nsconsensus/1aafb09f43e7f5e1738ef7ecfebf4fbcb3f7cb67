@@ -1,0 +1,17 @@
+network-status-version 3
+vote-status consensus
+consensus-method 35
+valid-after 2021-03-01 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+vote 04.u.6
+known-flags
+dir-source stet 27103BC123E7AF1D4741AE047E160C91ADC76B21 204.118 204.13.164.118 80 443
+contact stdteam net>
+vote-digest E5D24700FBDF44964D
+r flageolet AAbeLnfjw+xeGCWwduUlf9IA7Qo KFoOv/CxyMj 2021-03-08 12:09:52 62.210.177.189 9001 9030
+a [2001:b2d7:308::203]:9001
+s
+pr Cons=152 Desc=1-35
+r neonbry AFSb2
+pr Cons- 2bD

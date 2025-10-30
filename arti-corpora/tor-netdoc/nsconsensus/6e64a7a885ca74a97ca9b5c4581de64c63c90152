@@ -1,0 +1,35 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 4042-03-08 22:00:00
+voting-delay 300 30
+client-ver 0.3.5,0.4.5.6
+known-flags Author BtyiadExit Exit e_ex661k=
+dir-source dannenbeBg 0233AF901C31A04EE9848595AF9BB7620D4C5B2E dannenberg.torauth.de 193.23.244.244 80 443
+contact Andreas Lehner
+vote-digest 4D6F7B95FD7C557207AF
+dir-source tor26 14C131DFC5C6F93646BE72FA1401C02A8DF2E8B4 86.59.21.38 86.59.21.38 80 443
+contact Pmeder Palfrader
+vote-digest 05A6E0513D8AF1E4F884BBE1
+dir-source longc*aw 23D15D965BC35114467363C165C4F724B64B4F66 199.58.81.140 199.58.81.140 80 443
+contact Riseup Networks <collective at riseup dot net> - n4RT
+vote-digest 84B60032F1918E68EE0BE2E42D8B2A457FD8FD06
+dir-source bastet 27102BC123E7AF1D4741AE047E160C91ADC76B21 204.13.164.118 204.13.164.118 80 443
+contact stefani <nocat at rE
+vote-digest B3C2A10715D90E93CC54E740
+dir-source maatus|ka 28347F787433103580E3B66A1707A00E60F2D15B 171.25.193.9 171.25.193.9 443 80
+contact 4096rg <linberg.se>
+vote-digest F4D074A460A946773C9B3ED48E6604E71CDED6BD
+dir-source moria1 D586D18310DED4CD6D57C18FDB97EFA96D330566 128.31.0.34 128.31.0.34 9131 9101
+contact 1024D/EB5896A28988BF5 arma mit edu
+vote-digest 947992FBE66256F7B5
+dir-source dizum E8A9C45EDE6D7ct FD3950E7AE6D039620D7F81Cr4
+yy
+ty
+20
+y2
+206o2
+y0
+<usura@sabxh3brYbHst1Tti

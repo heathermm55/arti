@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status consensus
+1
+valid-after 1010-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+ersions 
+known-flags  Syb2
+recommended-relay-protocols Cons=2 Des2=2 Dire=2 HS= 0Intro=4 'HSRend=2 )ink=4-5 c=2 LinkV2&1-a=4 Microdesc=2 Reay=2
+required-relay-protocols Co-%--

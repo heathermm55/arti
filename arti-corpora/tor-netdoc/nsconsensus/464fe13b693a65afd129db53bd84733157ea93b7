@@ -1,0 +1,13 @@
+network-status-version 3
+vote-status consensus
+consensus-method 61
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+voting-delons 00
+known-flags Authi4
+dir-source gabelmoo ED03BB616EB2F6B99F9E953CD5BF50F7EEFC2B97 154.35.175.225 154.35.175.225 80 443
+contact
+vote-digest B7C04EEC28FA9F9306A511B7996549DB64
+dir-source ga'616CDED6D
+dir-s1.01kbD

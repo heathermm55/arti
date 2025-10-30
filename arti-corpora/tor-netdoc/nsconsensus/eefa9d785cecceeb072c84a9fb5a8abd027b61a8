@@ -1,0 +1,16 @@
+network-status-version 3
+vote-status csus
+consensus-method 62
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+votins 
+known-flags A Desc=2 =2 Flooter
+band00 Wmd49267C5DD531BC8B CB6DC35B7E6
+-----BEGIN SIGNATURE-----
+nWrUCqFR/8P9ul+IYJm9ZNHHzqrKeZ8hkSJyj5JFLfXp+pUwl6lLlhuW+rAuPFWrxrmBsqAwF6zyUFmY1dvfd0psf6SjtPmx
+kA7ole4p4j96eKnwozgG7Gxoaqk3hz5ijHJiPxnfa5ykR2ufXNkERXMfAAyfPG2c
+h7eA2bNSYJMhyDwOgnKEHVTPmxJeGoDEdl/DhEhpu4cohJ2uShcDqsp0=MTGLneD
+7NkRcbkw==
+-----END SIGNATURE-----
+directory-

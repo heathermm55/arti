@@ -1,0 +1,8 @@
+network-status-version 3
+vote-status consensus 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+vo 
+known-flags Autd
+recommended-client-protocols Cons=2 Desc=2 ibCacDir=2 HSIntro=Au

@@ -1,0 +1,13 @@
+network-status-version 3
+vote-status consensus
+consensus-method 04
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+vot6
+known-flags 0DStabl8A18
+dir-source Fa EFCBE721AB1A82B99F9E953CD5BF50F7EEFC7B97 1535.175.225 154.34.175.225 80 443
+contact
+vote-digest B4C0418AEC28FD4DB64
+dir-source belmoo ED03BB2
+te-h5vWog

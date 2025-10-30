@@ -1,0 +1,11 @@
+network-status-version 3
+vote-status consensus
+consensus-method 21
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+vn 
+known-flags Aut 
+dir-source test0a5C9E                   0 121.02107 ..1 7000 5000
+contact est.test
+vote-digest 8--

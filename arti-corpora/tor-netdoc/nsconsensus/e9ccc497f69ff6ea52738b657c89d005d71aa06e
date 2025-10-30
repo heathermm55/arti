@@ -1,0 +1,18 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+voting-delay 300 300
+client-versions 0.3.5.10,0.-rrc,06
+known-flags AFD7C557207AF
+dir-source tor26 14C131DFC5C6F93646BE72FA1401C02A8DF2E8B4 86.59.21.38 86.59.21.38 80 443
+contact P (inm net>
+vote-digest E5064D
+r flageolet AAbnwLfej+xeGCWwduUf9lIA7Qo KFJixVnD7j6b2zVqp8LXM0Eg 2021-03-08 02:10:13 80.195.122.166 9090 9091
+s Fast HS2.7
+pr 
+w Baneject 1-65535
+r nodvr[2620:18c:0:1*92::212]:443
+Tor hbD

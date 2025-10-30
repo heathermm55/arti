@@ -1,0 +1,32 @@
+known-flags
+l
+valid-until
+fresh-until
+network-status-version n
+vote-status 
+valid-after
+A
+-----BEGIN A-----
+-----END A-----
+0
+-----BEGIN A-----
+-----END A-----
+A
+-----BEGIN A-----
+-----END A-----
+0
+-----BEGIN A-----
+-----END A-----
+ter
+A
+-----BEGIN A-----
+-----END A-----
+0
+-----BEGIN A-----
+-----END A-----
+A
+-----BEGIN A-----
+-----END A-----
+0
+-----BEGIN A-----
+-----END A-----

@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status consensus
+6
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-09-08 22:00:05
+opt del0 10,006
+known-flags Auramox662k=
+dir-source da00
+0suard RuDi

@@ -1,0 +1,16 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+votns 
+known-flags Authortd6CF2319C4FA4DE34
+dir-source test002a 67DBEFD4EAB5F3241BB9853E2958CBFD65494218 127.0.0.1 127.0.0.1 7002 5002
+0
+contact auest.test
+vote-digest 0164A99D75DE8B9D7C1535
+r t1 5004 0
+s EGuard Di
+pr 2 535
+r 

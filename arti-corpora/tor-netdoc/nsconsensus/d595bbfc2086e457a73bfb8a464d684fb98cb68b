@@ -1,0 +1,11 @@
+network-status-version 3
+vote-status consensus
+consensus-method 60
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 4042-03-26 23:27:00
+voti
+known-flags Authorar34
+dir-source test001a 67DBEFD5EAB5F329%BB1453E2958CBFD65494218 127.0.0.1 1 7002 5002
+contact stst
+vote-digest 4E6nRE----

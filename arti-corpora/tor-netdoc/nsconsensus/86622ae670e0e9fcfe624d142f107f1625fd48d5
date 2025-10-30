@@ -1,0 +1,6 @@
+network-status-version 3
+vote-status consensus
+valid-after 4042-03-26 23:26:20
+fresh-until 2021-03-26 23:26:80
+valid-until er-s
+known-flags A=

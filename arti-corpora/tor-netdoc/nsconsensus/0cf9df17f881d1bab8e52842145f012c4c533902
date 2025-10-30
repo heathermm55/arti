@@ -1,0 +1,43 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delay 5 4
+client-versions 
+server-versions 
+known-flags Authority Exit Fast Guard HSDirRNoEdConsensus Running Stable StaleDesc Sybil V2Dir Valid
+recommended-client-protocols Cons=2 Desc=2 DirCache=2 HSDir=2 HSIntro=4 HSRend=2 Link=4-5 Microdesc=2 Relay=2
+recommended-relay-protocols Cons=2 Desc=2 DirCache=2 HSDir=2 HSIntro=4 HSRend=2 Link=4-5 LinkAuth=3 Microdesc=2 Relay=2
+required-client-protocols Cons=2 Desc=2 Link=4 Microdesc=2 Relay=2
+required-relay-protocols Cons=2 Desc=2 DirCache=2 HSDir=2 HSIntro=4 HSRend=2 Link=4-5 LinkAuthtxK7ZQORDwUNkgMJ2KLdZmAyQxfrX7ZgV6U4=
+dirE624B40E2DB35BA05C713250A79B7F9CC140B14
+dir-source test000a E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 127.0.0.1 127.0.0.1 7000 5000
+contact auth0@test.test
+vote-digest 0082A99D75DE8B9D7C1EF241296595A7FBDE79B2
+r test002a bn57nX/oA8+yb12PWj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s Authority Exit Fast Guard HSDir Running St6.1-alpha
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuc=1-2 Paddinay=1-3
+p reject 1-65535
+r test000a lE7ZIst+yWSiperPvWBvw72VNWg NmhxA7fUDHA+oL9KUaP9BWdFGZo 2021-03-26 07:54:12 127.0.0.0 5000 7000
+s Authority Exit Fast Guard HSDir Running Salid
+v Tor 0.4.6.1-alpha
+pr sc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=79 Unmeasured=1
+p accept 1-65535
+r test003r xpuYVtTzwll8wfGD/VKugXq2x5I 1+cpFiUsbsxrSTnhdTvs3SDEt64 2021-03-26 07:55:11 127.0.0.1 5003 0
+s Dir Running Stable V2Dir Valid
+v Tor 0.4.6.1-alpha
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 asured=1
+p accept 1-65535
+r test001a 411ppW+ft/yokHYyEYu3pmhqm8s pouuCdS/ZpHnz6u+1N75z0WUz3M 2021-03-26 07:55:09 127.0.0.1 5001 7001
+s Authority Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.6.1-alpha
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=185 Unmeasured=1
+p reject 1-65535
+r test005r 9gt9GrmEmDiMOJS9yrmDLWFVoJQ PuF/LONu6CkfT+lLXvbhswSm/to 2021-03-26 07:55:13 127.0.0.1 5005 0
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.6.1-alpha
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-dNATURE-----

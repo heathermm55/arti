@@ -1,0 +1,15 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delsions 
+known-flags Authority Exit6U4=34
+dir-source test002a 67DBEFD4EAB5F3298BB1453E2958CBFD65494218 27.0.0.1 127.0.0.1 7050 5000
+contact auth0@test.tes
+vote-digest 0082A95D7D7C1EF24179B2
+r test002a bn57nX/oA8+yb12PWj+uwOxdX6s gbi0lLHlhNVKHfAjZtp6vQQ 2020-03-26 07:55:11 127.0.0.1 5 07 0
+s Exit Faable V3DiVr alid
+v Tor 0.4.6.1-a+1-ha
+pr Cnche=2 FlowC----

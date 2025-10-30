@@ -1,0 +1,17 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:15:00
+voting-delersions 0.5.4
+known-flags Authorittac7854D
+dir-source dizum E8A9C45EDE6D711294FADF815E497FDE6CA56B58 45.67.33.45 45.66.33.45 79 443
+contact FD790065AE6D039amD net>
+vote-digest E50A1EDF44964D
+r flageolet AAbeLnfjw+xeGCWwduUlf4IA7Qo Ks 2021-03-08 04:15:33 80.219.136.216 4515 0
+s Fad
+v
+pr CoFl 1-65535
+r lothl Cons=2-iii2 Desc-may=1-2
+w Bandwidt88,9o32

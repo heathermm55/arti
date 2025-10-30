@@ -1,0 +1,7 @@
+network-status-version 3
+known-flags
+valid-until
+fresh-until
+vote-status consensus
+n
+valid-after 11111

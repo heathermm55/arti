@@ -1,0 +1,9 @@
+network-status-version 3
+vote-status consensus
+s3
+valid-after 2021-06-0819
+fresh-until 2:
+valid-until 26
+known-flags
+dir-source 
+u0.5

@@ -1,0 +1,13 @@
+network-status-version 3
+vote-status consensus
+consensus-method 64
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+voting-d00
+client-versions 0,0.3.5.15.6
+known-flags AExialiddesc
+params Ciitepct=0 sendme_mi_version=1 usecreatefast=0
+shared-rand-previous-va0ue aIljleFd0+GQrox661k=
+dir-source d HSDirr 0.4.7
+pr Cons

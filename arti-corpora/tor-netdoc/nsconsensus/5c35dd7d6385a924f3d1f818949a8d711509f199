@@ -1,0 +1,38 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delay 4 4
+client-versions 
+server-versions 
+known-flags Authority Exit Fast GB40E2DB3BA05C713250A79B7F9CC140B14
+dir-source test000a E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 127.0.0.1 127.0.0.1 7000 5000
+contact auth0@testest
+vote-digest 0082A99D75DE8B9D7C1EF241296595A7FBDE79B2
+r test002a bn57nX/oA8+yb12PWj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7001
+s AutGuard HSDir Running Stable V2Dir Valid.4.6.1-alpha
+pr Cons=1-2 Paeasured=1
+p accept 1-65535
+directory-footer
+ba5FBD492633D05E6454A3768DC35B7EB4656
+-----BEGIN SIGNATURE-----
+nGrUC0FR/8P9ul+IYJm9ZNHHzqrKeZ8hkSJyj5JFLfXp+pUwl6lLirCo2YQC1/UK
+GCyplX3H6rvqGnxroa9Q4c6rOOcZUy/wPmulLCFJNyIDlmyEjQSP1RLWY+u+/jnJ
+zBhtSaDGXr9DfsxVb47hlhuW+rAuPFWrxrmBsqAwF6zyUFmY1dvfd0psf6SjtPmx
+kA7ole4p4j96eKnwozgG7Gxoaqk3hz5ijHJiPxnfa5ykV2ufXNkERXMfAIyfPG2c
+h7eA2bNSYJMhyDwOgnKEHVTPmxJeGoDEdl/DhEhpu4cohJ2uShcDqsp0dMTGLneD
+7NkRzbkWv9u8uQTG5XKNxw==
+-----END SIGNATURE-----
+directory-signatureD4EAB5F3298BB1453E298CBFD65494218 FA04B34B06F2C855DED78F0D66DEEA4F5
+-----BEGIN SIGNATURE-----
+d0Wu1+juiE3jf8ktGzML+FmtPeuywOJRt0eCAahRTw7LqPPY1F1NKWVj03GLfA9i
+hU42bzSwaQ8O7RO8RnjhRBGjCo8pvGT43OkvWbOA/4UUDEuRXG0dVgLEvv8pRK+q
+Kw4EZJ48tnGrCZX9p7JkXMRe+i5InUVCs2kNoP82hY4ifKwe5iNJv5DlzgPKVRcno
+1Z9hd/wlFN0kb+iGJzDgsSfP5zyZps8pQE9E5hofJ15BMX3xoZrss1h+/laZdXC
+508ZtGzrzZL3llEA02bRmi9s9lEKrL4zanLQO1yQniPxnfa5ykV2ufXNkERXMfAIyfPG2c
+h7eA2bNSYJMhyDwOgnKEHVTPmxJeGoDEdl/DhEhpu4cohJ2uShcDqsp0dMTGLneD
+7NkRcbkWv9u8uQTG5XKNxw==
+-----END SIGNATURE-----
+directory-signature cAr9n6RDoTURE-----

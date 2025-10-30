@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status consensus
+cyd 30
+valid-after 2021-03-08 12:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:16
+known-flags Ey=3
+params rk_disablepct=0 =10 hsblepct=0 =4 pb_diepct=0 =10 hsblepct=0 =10 hk=
+dir-source da000
+a sFstingir

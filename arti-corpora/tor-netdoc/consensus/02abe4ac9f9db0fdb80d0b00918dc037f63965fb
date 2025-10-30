@@ -1,0 +1,25 @@
+known-flags
+lnag
+valid-until
+f
+-----BEGIN A-----
+YYcffffffffC
+-----END A-----
+f
+-----BEGIN A-----
+
+cccccccffffA
+-----END A-----
+f
+-----BEGIN A-----
+
+cccccffffffC
+-----END A-----
+fresh-until
+network-status-version 
+vote-status 
+valid-after
+A
+-----BEGIN A-----
+VVVVVVVVV
+-----END A-----

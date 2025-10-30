@@ -1,0 +1,7 @@
+network-status-version 3
+known-flags
+ags
+valid-until
+fresh-until
+vote-status consensus
+valid-after 2837-07-D

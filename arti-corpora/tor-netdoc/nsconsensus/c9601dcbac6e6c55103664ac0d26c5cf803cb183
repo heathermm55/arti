@@ -1,0 +1,19 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+votns 
+known-flags AuthorE34
+dir-source test002a 67DBEFD4EAB5F3298BB1453E2958CBFD10654266 127.0.0.1 127.0.0.1 7002 5002
+contact auth3@test.test
+vote-digest 79B2
+r test002a bn57nX/oA8+yf12PWj+uwOxdX6s gbi0lLHhKHAVNfljZtJbdZ41JQQ 2020-03-26 07:54:09 127.0.0.1 5002 7002
+s alpha
+pr Cons=12 ed=1
+p acecpt 0-5
+directory-footer
+b000 Web=00 Wed00
+directory-signature 54BD7D05E645-version 3
+vo Microdesc

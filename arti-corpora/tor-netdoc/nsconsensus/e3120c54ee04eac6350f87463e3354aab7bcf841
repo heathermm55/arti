@@ -1,0 +1,21 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+votGuardelay 4 4
+opt client-versions 
+server-versions 
+known-flags Authority X8ZgV6U4=
+dir-source test001a 54BD7B9AE5FBD492634D05E645857C5DD531BC8B 127.55*GNy늀ŀ**GNy.1 127.0.0.1 7001 51 7000 5000
+contact auth0@test.test
+vote-digest 0082A99D755535
+r test001a 411ppW+ft/yokHYyEYu3pmhqm8s pouuCdS/ZpHnz2u+1N75zjWUz3M 2021-03-26 07:55:09 127.0.0.1 5001 7001
+s Authority Exit  V2Dir Valid
+v Tor 0.4.6.1-alpha
+pr Cons=12 DirCac=1-3
+w535
+directory-footer
+bandwidweights Wbd=0000
+directory-signature 54BExHamLnDFr늀ŀ12GyN늀Ňy늀ŀy3yopoy늀ŀy늀ŀ12GyN느ŀ*GNy늀ŀ*%ހ5555555늀ŀy늀ŀ늀Ňpopy늀ŀy늀ŀ24GyN느ŀ*Gpy늀ŀy늀ŀ12yN느ŀ*GNy늀ŀy늀ŀ늀Ňpopy늀ŀy늀ŀ24GyN느ŀ*GNy늀ŀ*%ހ5555555늀ŀy늀ŀ12GyN늀Ň*GNy늀ŀ*%5*G12GyN느ŀyopopy늀ŀy늀ŀ12GyN느ŀ*GNy늀ŀ*%ހ5555555늀ŀy늀ŀ늀Ňpopy늀ŀy늀ŀ24GyN느ŀ*Gpy늀ŀy늀ŀ12GyN느ŀ*GNy늀ŀ*%ހ5555555늀ŀy늀ŀ늀Ňpopy늀ŀy늀ŀ24GyN느ŀ*GNy늀ŀ*%ހ55Ny늀ŀ**GNy늀ŀ*!ހ5555555늀ŀy늀ŀ12GyN늀Ňpopy늀ŀy늀ŀ12GyN느ŀ*GNy늀ŀ*%ހ5555555py늀D05E6458ŀy늀ŀ12GyN느ŀ%ހ5555555늀ŀy늀ŀ12GyN늀Ň*GNy늀ŀ*%5y늀ŀy늀ŀ12GyN느ŀ*GNy늀ŀ*%ހ5555555늀ŀy늀ŀ늀Ňpopy늀ŀy늀ŀ12GyN느ŀ%ހ6457971늀ŀy늀ŀ12GyN늀Ň*G늀ŀ*%Ny늀ŀ**GNy늀ŀ*!ހ5555555늀ŀy늀ŀ12GyN늀Ňpopy늀ŀy늀ŀ12GyN12GyN늀Ň*GNy늀ŀ*%5@z5Ny늀ŀ*%ހ5555555늀ŀy늀ŀ12GyN늀Ň*GNy늀ŀ*%5@z5555*GNy늀ŀ**GNy늀ŀy늀ŀ12GyN느ŀ*GNy늀ŀ*%ހ5555555늀y늀ŀ13GyN느ŀ*GNy늀ŀ*%ހ5555555늀ŀy늀ŀ늀Ňpopy늀ŀy늀ŀ12GyN느ŀ%ހ55555ŀ*!ހ5555555늀ŀy늀N늀Ňpopy늀ŀy늀ŀ12GyN느ŀ*GNy늀ŀ*%ހ5555555늀y늀ŀ12GyN느ŀ*GNy늀ŀ*%ހ5555555늀ŀy늀ŀ늀Ňpopy늀ŀy늀ŀ12G5555늀ŀy늀y늀ŀ*%5@z5555*GNy늀ŀ@z55555

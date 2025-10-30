@@ -1,0 +1,22 @@
+network-status-version 3
+vote-status consensus
+opt consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+vo-vy 4 4
+client-vns =
+known-flags Authority Exit
+dir-source test000= E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 127.0.0.1 127.0.0.1 7000 5000
+contact auth0t.test
+vote-digest 00 SIGNA_________voteExit
+dir-source test E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 127.0.0.1 127.0.0.1 7000 5000
+contact au|h0@test.test
+vote-digest 00 SIGATU___optExit
+dir-source test000= E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 127.0.0.1 127.0.0.1 7000 5000
+c5B7B0 127.05000
+contact auth0testest
+vote-digest 00 SI
+dir-source test000= E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 0.1 127.0.0.1 7000 5000
+contact auth0@test.test
+vote-digest 00 SIGNA________________

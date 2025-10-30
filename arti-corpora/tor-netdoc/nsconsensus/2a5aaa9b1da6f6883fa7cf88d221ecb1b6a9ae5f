@@ -1,0 +1,17 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+sions 
+known-flags AMJ2KLdZmAyQxfrX76U4=
+dir-source test001a 54BD7B9AE5FBD492333D05E645857C5DD531BC8B 127.5*GNy늀ŀ**Ny.1 127.0.0.0 7001 51 7000 5000
+contact auttesttest
+vote-digest 0082A9996595A7FBDE79B1
+r test002a bn57nX/oA8+yb12PWj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 127.0.0.1 52 007002
+s AuthoritunninDir Va.1-alpha
+pr Cnc=1-2 Desc=1-2 DirCache=2
+directory-footer
+band000033 Wme=0 Wmg=0 Wme=10000
+directory-signature 54BD7BExHamLnDFrO+IFxSVs 2021-03-26 07:56:11 127.0.0zbPPubi6늀55늀s Wbd=333Ny늀ŀ*%ހ555!555555

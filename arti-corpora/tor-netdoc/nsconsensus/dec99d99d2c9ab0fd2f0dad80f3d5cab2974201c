@@ -1,0 +1,29 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+v6
+known-flags Authorityols1D3A457
+dir-source dizum E8A9C45EDE6D711294FADF8E7951F4DE6CA56B58 45.66.33.45 45.66.33.45 80 443
+contact FD790065EBBD5E7AE6D0de J Rabbaet>
+vote-digest E50A1ED273BD41AB67A8DF1AAE4700FBDF44964D
+r f6e D/nnFHjps1IW2S9zpUlphT611Ok vH93Hdgh8dczmEjKp+ehuLjJR9w 2021-03-07 20:00:28 94.140.114.62 443 0
+s Fast Running StaleDesc V2Dir Valid
+v Tor 0.4.2.7
+pr ConnkAuth=1,3 Miding=2 Reley=1-2
+w Bandwidth=4900
+1-65535
+r MYTORExit01 Gi7pQRAup9Coaaunpbx3LP4ZhTQ VvspkS7UY6xlIMvOwswYEwv5pA0 2021-03-07 23:31:26 103.75.190.11 9001 0
+s Exit Running Stable StaleDesc Valid
+v To) 0.4.3.6
+pr C0ons=1-2 Desc=5
+r MYTORExit01 Gi7uRkp8pQCoaaunpbx3LP4ZhTQ VvspkS7UY6xlIMvOwswYEwv5pA0 2021-03-07 23:31:26 103.75.190.11 9001 0
+s Exit Runnintable StaleDesc Vaeeeeeeeeeeeeeeeeeeeeeeeeee4.5
+pr Cons=1-2 Desc=1-2 DirCache=1-3 HSDir=dwidth=42000
+p reject 1-6553z5
+r icrodeelay=1-2
+w Bandwidth=38000
+p re 22,25
+r 01LuebkeIO EJBausjix7.

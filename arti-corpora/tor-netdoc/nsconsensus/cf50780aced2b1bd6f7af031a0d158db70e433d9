@@ -1,0 +1,11 @@
+network-status-version 3
+vote-status consensus
+ctho
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+voting-ons .5.13.5.6
+known-flags
+params CVata=6
+dir-source :0
+u0k4

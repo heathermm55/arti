@@ -1,0 +1,6 @@
+opt network-status-version 3
+known-flags
+valid-until
+fresh-until 0000-05 
+vote-status consensus
+valid-after 5703-05-22 19:58:13

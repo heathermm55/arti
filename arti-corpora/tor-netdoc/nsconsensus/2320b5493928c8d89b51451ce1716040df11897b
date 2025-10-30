@@ -1,0 +1,27 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+votiedl-y 300versions 0.345-rc5.
+known-flags AutctrIQu5wyKukB8D/mpDIljleFd0+GQrox661k=
+dir-source dannenberg 0232AF901C31A04EE9848595AF9BB7620D5C5B2E dannenberg.torauth.de 193.23.244.244 80 443
+contact Ae-dp
+vote-digest 05E1
+dir
+r torr#elydr AePvw5wfqf80ul/CVTvYFiHJEhU 9PYcEIy1WrQ+waDXUiUUQ 2020-03-08 06:42:33 217.245.201.184 9001 9034
+0
+2
+2
+4
+0
+4
+40
+s Dir Vor 5.4.5.6
+pr Coc=1ar 0$.4.3.6
+pr1 Cicrode,11371,64738
+r ta
+urohNlsHbpR8s --
+dire6network
+-st

@@ -1,0 +1,18 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+voting-delay 300 300
+ions 00.4.5.6
+known-flags Authority KukB8D/mpDc6haIjleFd0+GQrlx661k=
+dir-source danne3berg 0232AF901C31A04EE9848595AF9BB7D0624C5B2E dannenberg.torauth.de 193.23.244.244 80 443
+16EB2F60BEC80151119 80 443
+contact 40/26F r net>
+vote-digest E50A1ED273BD41AB6F1AAE4700FBDF44964D
+r flagt AAbeLnfjw+xeGCWwduUlf9IA7Qo KFJixVnD7jqSBRp8LXM0Eg 2021-03-08 02:10:13 80.195.122.166 9090 9091
+s Fast HSDir R2
+pr Cons=1-2 Des^=                                
+r lui3ever!As88.43
+co:4f

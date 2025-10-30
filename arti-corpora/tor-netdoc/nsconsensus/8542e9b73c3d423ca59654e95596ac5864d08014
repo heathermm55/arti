@@ -1,0 +1,9 @@
+Y
+-----BEGIN 388-----
+-----END 388-----
+network-status-version 6
+vote-status cod1
+valid-after 2
+fresh-until :26:4;
+valid-until
+known-flags A-

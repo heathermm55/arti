@@ -1,0 +1,14 @@
+known-flags
+valid-until
+f
+-----BEGIN A-----
+YYYYYYYC
+-----END A-----
+fresh-until
+network-status-version 
+vote-status 
+valid-after
+A
+-----BEGIN A-----
+YYYYYYYC
+-----END A-----

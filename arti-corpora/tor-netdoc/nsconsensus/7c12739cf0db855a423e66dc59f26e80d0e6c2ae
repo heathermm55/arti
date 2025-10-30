@@ -1,0 +1,15 @@
+network-status-version 3
+vote-status consensd 31
+valid-after 2326:20
+fresh-until 23-26 23:26:40
+valid-until t-vions 
+known-flags lay=2
+r7EB4656
+-----BEGIN SIGNATURE-----
+zNEPXYHYu6cAkBLDttttttttttttttttB/qwdb/BLX
+2PpskQgEsWES5hQCepUO1Go9Hr7XTA3HFIriYV6FoebDqBcZwr4rdCx9Wo4Jifm/
+q9NPvobrWHUWc5OX8AsxuHYaBvl+11s2su92vwKkNeCBa6HG6DQip6
+RDflWFhkYzhttto4qLmpWA6HJJ4nxyU9iCX1FCPl/rft
+nflCkOSIhSLmc+losTDvy90j
+qP/IY7cA4Zn6RDoL4lvhoQ==
+-----END SIGNATURE-----

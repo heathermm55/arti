@@ -1,0 +1,8 @@
+network-status-version 3
+vote-status consensus
+consensus-method 50
+valid-after 202-0
+fresh-until 2023-240
+valid-until 20 23 
+server-versions 
+known-flags 

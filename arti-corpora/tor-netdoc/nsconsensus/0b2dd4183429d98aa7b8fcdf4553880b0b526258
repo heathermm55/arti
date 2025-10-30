@@ -1,0 +1,9 @@
+network-status-version 3
+vote-status consensus
+nsens3
+valid-after 2021-06-0819:02:00
+fresh-until 2021-03-080:
+valid-until 26
+known-flags
+dir-source -27:0
+u0kAAmm13 5.5

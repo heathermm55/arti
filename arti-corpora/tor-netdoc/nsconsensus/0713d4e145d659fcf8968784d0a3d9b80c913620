@@ -1,0 +1,17 @@
+network-status-version 3
+vote-status consensus
+consensus-method 80
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+known-flags ast Guard HSDD06
+dir-source bastet 27102BC123E7AF1D4741AE049A170CE61DC76B21 204.13.164.118 204.13.164.118 80 443
+contact stefamanualmit edu
+vote-digest 94792A60CC92FB44964D
+r flageole AAbeLnfjw+xeGCWwduUlf9IA7Qo KFJixVnb2zM0Eg 2021-03-08 02:10:13 80.195.122.166 9090 9091
+s Fng St5.12
+pr escntrelay=1-3
+w =33600
+8
+r BEGIN 4---- -20
+21-

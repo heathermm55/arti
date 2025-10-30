@@ -1,0 +1,19 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+voting-delay 300 300
+clientrsions 5.3.5.14.5.6
+known-flags AutyKFD7C557207AF
+dir-source tor26 14C131DFC5C6F93646BE72FA1401C02A8DF2E8B4 86.5.38 86.59.21.38 80 443
+contact PetRiseup Nxn4RT
+vote-digest 84B032F19E 818E-65535
+r Nako Di7sElpqyNXr9dc2t3aj2lUQ56A 0VU 2021-03-08 13:05:39 51.158.79.98 9001 9030
+a [20pqnvtRvA 443 80
+a [2a00:9fe0:0:4$43
+s Fast l4.5.6
+pr CowCt5
+r 2Dir Vald t
+2

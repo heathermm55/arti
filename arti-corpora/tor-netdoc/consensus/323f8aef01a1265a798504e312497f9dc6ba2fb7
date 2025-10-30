@@ -1,0 +1,17 @@
+known-flags
+l
+valid-until
+f
+-----BEGIN A-----
+
+YYYYYYcccccccccccccccccccfccfffffffC
+-----END A-----
+fresh-until
+network-status-version 1
+vote-status 
+valid-after
+A
+-----BEGIN A-----
+YYYYYYVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+C
+-----END A-----

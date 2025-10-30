@@ -1,0 +1,9 @@
+network-status-version ;
+vote-status ΀΀conses
+consensus-method 29
+valid-after 0
+fresh-until 20:4
+valid-until 6 230
+voting-delay 4 4
+cesin
+known-flags yp

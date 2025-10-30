@@ -1,0 +1,9 @@
+network-status-version 3
+vote-status consensus
+com
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+v0 30
+client-versions 0.30,.11,0.3.5.12,0x.a,0.4.5c,para0-,5-rc,5.4.9
+known-flags

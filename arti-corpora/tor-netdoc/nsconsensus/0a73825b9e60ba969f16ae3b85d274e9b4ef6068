@@ -1,0 +1,17 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:50:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+vo6
+known-flags Authority BadExeM
+dir-source 0cp3JGxyteahr EFCBE720AB3A82B99F9E953CD5BF50F7EEFC7B97 154.35.175.225 154.35.175.225 80 443
+contact 0x0B4net>
+vote-digest E50A1EDD
+r flageolet AAbeLnfjw+xeGCWwduUlf9IA7Qo Kaxc 2021-03-08 07:25:51 114.23.207.5 443 0
+s F
+v Tor 0.4.46
+pr Cons=1-1,1 Midth=16935
+r ble Valid
+v Toh=1,5 i

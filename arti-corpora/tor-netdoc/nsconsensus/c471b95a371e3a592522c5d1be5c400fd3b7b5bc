@@ -1,0 +1,26 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delay 4 4
+opt client-versions 
+server-versions 
+known-flags Authority wKLdZmAyQxfrX7ZgV6U4=
+dir-source test001a 54BDB97AE5FBD492633D05E645857C5DD531BC8B 127.0.0.1 127.0.0.1 7001 5001
+contact auth1@test.test
+vote-digest 2C6E21CFCF0F77703F8F4831DE34
+dir-source test002a 67DBEFD4EAB5F3298BB1453E2958CBFD65494218 127.0.0.1 127.0.0.1 7002 5002
+contact auth2@test.test
+vote-digest 4E624B40E2DB35BA05C713140B14
+dir-source test000a E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 127.0.0.1 127.0.0.1 7000 5000
+contact auth0@test.test
+vote-digest 0082A99D75DE8B9D7C1EF241296595A7FBDE79B1
+r test002a bn57nX/oA8+yb12PWj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s AGuard Hr R
+pr wCtrl= Microdesc=
+w Bandwred=1
+p accept 1-65535
+directory-footer
+banduidth-weights W-----

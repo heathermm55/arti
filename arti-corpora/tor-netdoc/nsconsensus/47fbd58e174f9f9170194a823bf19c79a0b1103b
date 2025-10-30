@@ -1,0 +1,8 @@
+network-status-version 3
+vote-status consensus
+consensus-method 32
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+client-versions 5.3.0.10,0.11,0..13,,.4.3.3-6
+known-flags ri

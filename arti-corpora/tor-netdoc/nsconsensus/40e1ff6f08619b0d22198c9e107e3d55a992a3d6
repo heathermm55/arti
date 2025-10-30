@@ -1,0 +1,14 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+vosc0
+cl 000.5.6
+known-flags l
+dir-source berg 2BE danne 1-08 9:00 80 443
+contact An
+digeader
+vote-digest 611
+04

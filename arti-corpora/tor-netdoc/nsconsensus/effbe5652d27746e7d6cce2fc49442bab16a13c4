@@ -1,0 +1,16 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delay 4 4
+ers
+known-flags AuthorityC140B14
+dir-source test000a E21A5E3F8346DFA38970A7C9E99A5B7B15BDC800 127.0.0.1 127.0.0.1 7000 5000
+contact auth0@tes--EGIN test
+vote-digest 0082A9DE8B9D7C1EF24129B2
+r a bn57nX/oA8+yb12PWj+uwOxdX6s +O4326lk 2021-03-26 07:55:11 127.0.0.1 5004 0
+s Exno Stablha
+pr nLikAuth=1,3 =1-3
+w                                                                                                                                 --

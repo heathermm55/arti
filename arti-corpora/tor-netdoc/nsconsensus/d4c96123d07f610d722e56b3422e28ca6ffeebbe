@@ -1,0 +1,18 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+voti6
+known-flags Auth?C2B7D9B
+dir-source Faravahar EFCBE720AB3A82B99F9E953CD5BF50F7EEFC7B97 154.35.175.225 154.35.175.225 80 443
+contact 0Di <=net>
+vote-digest E50A1ED27B67A8
+r flet AAbeLnfjw+xeGCWwduUlf9IA7Qo KFxVD7j6bLXMEg 2021-03-08 02:10:13 80.195.122.166 9090 9091
+s Faalid
+v Tor 0.4.2.7
+pr Sesc=1-2 DirbbbbbbbbbCache=1-2 HCtrl=1
+w      shar65535
+r lot-
+- nd=0-2

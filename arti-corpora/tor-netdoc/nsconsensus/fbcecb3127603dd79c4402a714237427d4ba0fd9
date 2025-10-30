@@ -1,0 +1,9 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+vot0
+client-versions 0.35.105.1+-ac,0.4c,0.45.5-rc,0.4.6
+known-flags Aut

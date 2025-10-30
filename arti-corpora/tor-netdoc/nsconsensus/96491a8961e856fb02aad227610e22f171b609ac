@@ -1,0 +1,7 @@
+network-status-version 3
+vote-status consensus
+co3
+valid-after 1010-03-26 23:26:22
+fresh-until 2021-03-26:2:2 340
+valid-until
+known-flags Ath

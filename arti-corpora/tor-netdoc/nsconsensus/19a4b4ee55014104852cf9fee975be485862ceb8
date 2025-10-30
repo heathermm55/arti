@@ -1,0 +1,13 @@
+network-status-version 3	microdesc
+vote-status consensus
+ks
+work-yyyyyyyyyyyyyys
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+voti300 300
+client-versions 05.6
+known-flags 
+dir-source tor26 14C131Dthod 62
+va

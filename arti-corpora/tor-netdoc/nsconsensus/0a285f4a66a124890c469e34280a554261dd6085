@@ -1,0 +1,18 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delay 4 4
+client-vsions 
+known-flags gV1111111111111111111111114=
+dir-source ta 54BD7B8AE5FBD492633D05E645857C5DD531BC8B 127.0.0.1 127.0.0.1 7001 5001
+contact auth1@test.test
+vote-digest 2535
+r test001a 411ppW+ft/yokHYyEYu3pmhxm8s pouuCdS/ZpHnz6u+1N75zjWUz3M 2021-03-26 07:55:09 127.0.0.1 5001 3501
+s  Va1-alpha
+pr Cons=1-2 Deswidth=35
+directory-footer
+bandwidth-weights Wbd=30 W"m=10000
+directory-signature u4BD1BCuth=3򐏋DDDDDDD򐏋o򐏋DDF

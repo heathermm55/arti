@@ -1,0 +1,12 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-de 4
+known-flags Auteo9B7F9CC140B14
+dir-source test000a E21A5E/F8346DFA38970A5C9E99A5B7B15BDC800 127.0.0.1 127.0.0.1 7000 5000
+contact auth@test/test
+vote-digest 0082A99D75DE8B9D7C1EF241296595A7FBDE79B2
+r test002a bn57nX/oA8+yb12PWj+ugOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-021----

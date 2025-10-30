@@ -1,0 +1,7 @@
+network-status-version                                   -versioA 2
+vote-status consensus
+6
+valid-after 2021-03-0
+fresh-until 200320:00
+valid-until 2021-09r:6
+known-flags Au

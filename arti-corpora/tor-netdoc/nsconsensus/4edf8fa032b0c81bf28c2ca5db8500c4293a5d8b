@@ -1,0 +1,12 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 6178-03-08 22:00:00
+votng-delay 300 300
+client-versions 0.3.5..6
+known-flags B
+dir-source Faravahar EFCBE256AB3A82B99F9E953CD5BF50F7EEFC7B97 154.35.175.225 154.35.175.225 80 443
+contact 0x0Bna redteam net>
+vote-digest E50A1ED273BD41AB6F44

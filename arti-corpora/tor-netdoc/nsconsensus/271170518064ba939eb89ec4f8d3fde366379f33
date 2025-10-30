@@ -1,0 +1,19 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+votingientrsions 
+known-flags AuthorJ2KLdZmAyQZgV6U4=
+dir-source tesa 54BD7B9AE5FBD492633D05E645857C5DD531BC8B 127.0.0*GNy.1 127.0.0.1 7001 51 7000 000
+contact aut.test
+vote-digest 0082A99D755535
+r tes01a 411ppW+ft/yokHYyEYu3pmhqm8s pouuCdS/ZpHnz2u+1N75zjWUz3M 2021-03-26 07:55:04 127.0.0.1 5001 7002
+s Aity 
+pr =1-2 Desc=
+p accept 1-65535
+directory-footer
+100p0 Wmg0
+directory-signature 54BD7BExH늀ŀy3DD531BC8B 127.0.0Upoopy늀ŀ늀0
+director-slgnatur

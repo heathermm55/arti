@@ -1,0 +1,16 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+votinnt-versions 5.c,0.4.5.6
+known-flags AuthorieBD
+dir-source mora1 D586D18309DE5CD764DDC18FDB97EFA96D330566 .31.0.34 128.31.0.34 1 9101
+contact 10248988B4team>
+vote-digest E51AAE9D
+r flageolet AAbeLnfjw+xeGCWwduUlf4IA7Qo KqSBRp8LXM0Eg 2021-03-08 02:20:13 84.195.122.166 9090 9091
+s Fade V2Di Valid.2.7
+pr Cons=1-2ܷayw
+r -2 -65535
+r ro=OSH B3

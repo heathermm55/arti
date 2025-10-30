@@ -1,0 +1,9 @@
+network-status-version 3
+vote-status consensus
+cus-od 
+valid-after 2021-00-3					0080
+fresh-until 20:000
+valid-until 2008 
+known-flags
+dir-source diz80
+G

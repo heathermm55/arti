@@ -1,0 +1,8 @@
+opt network-status-version 3
+known-flags
+valid-until	+5168-03-22 19:12:32
+params  -
+client-versions	N
+fresh-until 3025-04-22 14:52:32
+vote-status consensus
+valid-after +3023-02-22 19:52:13

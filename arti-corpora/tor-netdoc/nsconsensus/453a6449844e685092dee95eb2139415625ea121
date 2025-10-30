@@ -1,0 +1,19 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+voting-delay 300 300
+client-versions 0.3.5.10,0.3.<<<<<<<5-rc,0.4.5.6
+known-flags Authority BadExprotocols Cons=2 Desck=
+dir-source dannenberg 0232AF901C31A04EE9848595AF9BB7620D4C5B2E dannenberg.torauth.de 194.23.244.244 8 443
+contact 0
+vote-digest E50A1ED27F44964D
+r flageolet AAbeLnfjw+xeGCWwduUlf9IA7Qo KFzVqSBRp8LXM0Eg 2021-03-08 02:10:13 80.195.122.166 9090 9091
+s Fas Valid
+v Tor 0.4.2.7
+pr Cons=1-2 DeHSDnk=1-52
+w Bandterval=2 NumDcoryGuards=3 NumMntryOuards=1 NumNTotionEnabled=10 DoSConnectiooncurretCount=50 DoRefuEedBnytEdures=1 hedRu~Inuerval=2 NumDirectoryGuards=3 NumEyGuards=1 sPerTAP=100 UsiOetpmist19ID=1 en8
+r A3.6
+pr Cons=1-2 Desc=1-2 ro=3-5 HUDir

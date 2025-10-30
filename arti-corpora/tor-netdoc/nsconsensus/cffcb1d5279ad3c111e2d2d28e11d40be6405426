@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status c
+valid-after 0333-20
+fresh-until 226
+valid-until 2021s 
+known-flags  Wm0
+dir56
+-----BEGIN SIGNATURE-----
+nWrL4lvhoQ==
+-----END SIGNATURE-----

@@ -1,0 +1,26 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delay 4 4
+cliener-ns 
+known-flags Authorit FCC140B14
+dir-source test000a E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 127.0.0.1 127.0.0.1 7000 5000
+contact auth0@test.test
+vote-digest 0082A99E79B2
+r test bn57nX/oA8+yb12PWj+uwOxdX6s gbi1lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 12:54:09 127.0.0.1 5002 7002
+s Authority Exit Fast G Valid
+v To0.4.6.1-alpha
+pr Cons=1-2 Desc=1-2 DirCacred=1
+p accept 1-65535
+directory-footer
+bandwi6DB94218B34B06F2C08BCF79855DEF0D66DEEA4F5
+-----BEGIN SIGNATURE-----
+d0mtPevfd0kRcbkWhJ2uShcDqsp0dMTGLneD
+7NkRcbkWv9u8uQTG5XKNxw==
+-----END SIGNATURE-----
+directory-signature 67DBEFD4EAB5F3298BB1453E2958CBFD65494218 FA04B34B06F2C08BCF79855DED78F0D46DEEA4F5
+-----BEGIN SIGNATURE-----
+-----END SIGNATURE-----

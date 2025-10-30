@@ -1,0 +1,9 @@
+network-status-version 3
+vote-status consensus
+comet
+valid-after 2021-03-08 19:00:00
+fresh-until 2023-10-08 20:00:00
+valid-until 202
+known-flags 0d8EB43D6A188C2BD9B
+dir-source FaravC1A0
+D

@@ -1,0 +1,7 @@
+opt network-status-version 3
+known-flags
+valid-until 6047-05-23 19:52:32
+ti
+fresh-until 6047-05-22 19:52:32
+vote-status consensus
+valid-after 6047-05-22 19:52:13

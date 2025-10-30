@@ -1,0 +1,7 @@
+network-status-version 3
+vote-status consensus
+eo 5
+valid-after 223:20
+fresh-until 0
+valid-until 23 
+known-flags a

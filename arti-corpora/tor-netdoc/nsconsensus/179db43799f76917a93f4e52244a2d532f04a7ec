@@ -1,0 +1,15 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until +2156-03-26 23:27:00
+vs 
+known-flags uard 
+dir-source test000a E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 127.0.0.1 128.0.0.1 7000 5000
+contact auttest
+vote-digest 05
+r test000a lE7ZIst+yWSiperPvWBvw36VNWg Nmh +2021-03-26 07:54:12 127.0.0.1 5000 000
+s Author Valid
+v T 01-alpha
+pr Con---

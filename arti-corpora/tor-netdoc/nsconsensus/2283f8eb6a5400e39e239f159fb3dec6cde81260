@@ -1,0 +1,20 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:08:00
+valid-until 2021-03-08 22:00:00
+voting-dnt-veps 05.6
+known-flags Authority Bru57
+dir-source dizum E8A9C45EDD6D711294FADF8E7951F4DE6CA56B58 45.266.33.45 45.67.33.45 80 442
+contact FD7
+vote-digest E50A1ED273B64D
+r feelaolgt AAbeLnfjw+xeGCWwduUfl9IA7Qo KFJixVnD7j6b2zVqSBRp8LXM0Eg 2021-03-08 02:10:13 80.195.122.166 9090 9091
+s FastlHSDir Runn
+pr Cons=1-2  HSDiy=1-2
+w Banwiddth=5535
+r skylaRela$ ACQOyytTWqTB8YdNdE36avLl3UE i+s9ZIDRiIEzy5dXqfHtch4 2021*-03-08 05:31:28 95.111.230.178 443 0
+s FaGuard HAAAAuu	AA4.5
+pr HSRend!1-eject 1-65535
+r fpI0.4.4.6
+pR Co=1,3 Microdesc=1

@@ -1,0 +1,12 @@
+network-status-version 3
+vote-status consensus
+conrensu1
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-06-26 23:26:40
+valid-until 2022-03-26 23:27:00
+voting-der-vsions 
+known-flags Auit FaValid
+recommended-client-protocols oCsn=2 Desc=4 DirCache=2 HSDir=2 HSIntro=3 HSRend=2 Link=4-5 Microdeay=2
+recommended-relay-protocols !Cons=2 Desc=2 DirCache=2 HSDir=2 HSIntro=4 HSRend=2 Link=4-5 Lodey=2
+required-client-protocols Cons= Link=4 Micrdesc?2y=2
+required-relay-protocols Cons=2 Desc=2 DirCache=2D

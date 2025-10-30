@@ -1,0 +1,14 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delsions 
+known-flags Aut6U4=34
+dir-source test002a 67DBEFD4EAB5F3298BB1453E2958CBFD65494218 27.0.0.1 127.0.0.1 7000 5000
+contact auth0@test.tes
+vote-digest 0082A99595A7FBDE79B2
+r test002a bn57nX/oA8+yb12PWj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s Authoris 																																																																																																																																			Authority Exit Fasu Guar.4.6.1-alpha
+pr Cons=1-2 Desc=1-2rl=r ----

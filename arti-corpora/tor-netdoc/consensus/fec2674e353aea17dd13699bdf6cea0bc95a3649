@@ -1,0 +1,7 @@
+opt network-status-version 3
+known-flags
+ag
+valid-until
+fresh-until
+vote-status consensus
+valid-after 4559-10

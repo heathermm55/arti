@@ -1,0 +1,15 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:41
+valid-until 2021-03-26 23:27:00
+voting-dons
+known-flags Au9C140B14
+dir-source te E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 127.0.0.1 128.0.0.1 7000 5000
+contact t.test
+vote-digest 0041A99D75DE412965B2
+r test002a bn57nX/oA8+yb10i q2x5I                 																															                          "                                                        +cxrSTnhdT4 20!!!.0.0.1 =003 0
+s Exitd
+v Tor 0.4.6.1-alpha
+pr CRE-----

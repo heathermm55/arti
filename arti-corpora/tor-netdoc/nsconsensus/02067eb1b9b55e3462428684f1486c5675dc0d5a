@@ -1,0 +1,14 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+vo 4
+clienserns 
+known-flags  V2Dir Valid
+recommended0client-protocols Cons=2 Desc=2 DirCache=2 HSDir=2 Link=4-5 MicroDesc=2 Relay=2
+recommended-relay-proto4B40E2DB34BA05C713250A79B7F9CC140B14
+dir-source test001a E21A5E3F8346DFA38970A5C9E99A5B7B5000
+contaest----BEGIN -65535
+r test00.E-----

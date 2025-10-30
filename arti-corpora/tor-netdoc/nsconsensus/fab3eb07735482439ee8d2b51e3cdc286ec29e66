@@ -1,0 +1,16 @@
+network-status-version 3
+vote-status consesen1
+valid-after
+fresh-until 79-26 23::40
+valid-until dens 
+known-flags uth=3 rola
+rC8B6
+-----BEGIN SIGNATURE-----
+zNEPXYX
+2PpskQgEsWES5hQCepUO1Go9Hr7XTA3HFIriYV6FoebDqBcZwr4rdCx9Wo4Jifm/
+qUsT//8Uo+hWM1eRuHYaBvl+11s2su09//8UolhWM1eRuHYaBvl+11s2su92vwKuNeCBa6HG6DQip6
+RDflWFh3vwKkNeCBa6HG6DQip6
+RDflWFhkYzhttt4oqLmpW6HJJ4nxyU9iCX1FCPl/rft
+nflCkOSIhSLmc+losTDvy90j
+qP/IY8cA4Zn6RDoL4lvhoQ==
+-----END SIGNATURE-----

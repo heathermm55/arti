@@ -1,0 +1,10 @@
+network-status-version 3
+vote-status consensus
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:05
+voting
+known-flags Au
+params CircTAP=1                 dErox661k=
+dir-source d0r
+sr

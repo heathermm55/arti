@@ -1,0 +1,9 @@
+network-status-version 3
+vote-status consensus
+cohmd 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+ooe
+known-flags r Nd
+recommended-client-protocols Coir=4 HStro=4 HSRo=4 HSRedZmAynk=

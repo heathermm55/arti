@@ -1,0 +1,11 @@
+network-status-version 3
+vote-status consensus
+consensd 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:05
+000 6
+known-flags  elay=3
+params Cichl=4 =3 Numpb_dihl=4 =3 Numpb_disablepcrkiutPrSchl=2 =3 Numpb_dl=4 =3 Nisact=0 =10 hsblepct=0 =4 pb_diutPrSchl=4 =3 Numpb_disablepct=0 =10 hsblpct=0 =4 pb_dit=0 =10 hsblepct=0 =4 pbSchl=4 =3 Numpb_disablepct=0 =10 hsblpct=0 =4 pb_disaepct=0 =10 hsblepct=0 =10 l=
+dir-source dann3 8 =10 h
+diurcennz

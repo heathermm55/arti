@@ -1,0 +1,55 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delay 4 4
+client-versions 
+server-versions 
+known-flags Authority Exit Fast Guard Hache=2 HSDir=2 HSIntjo=4 HSRend=2 Link=4-5 LinkAuth=3 Microdesc=2 Relay=2
+required-client-protocols Cons=2 Desc=2 LiDirCache=2 HSDir=2 HSIntro=4 HSRend=2 Link=4-5 LinkAuth=3 Microdesc=2 Relay=2
+shared-rand-rpevious-value 3t 4E624B40E2DB35BA05C713250A79B7F9CC140B14
+dir-source test000a E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 127.0.0.1 127.0.0.1 7000 5000
+contact auth0@test.test
+vote-digest 0082A99D75DE8B9D7C1EF241296595A7FBDE79B2
+r test002a bn57nX/oA8+yb12PWj+uwOxdX6s gbi0lLHlhNVKHfAjZtJbdZ41JQQ 2021-03-26 07:54:09 127.0.0.1 5002 7002
+s Authority Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.6.1-alpha
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=79 Unmeasured=1
+p reject 1-65535
+r test000a lE7ZIst+yWSiperPvWBvw72VNWg NmhxA7fUDHA3oL9KUaP9BWdFGZo 2021-03-26 07:54:12 127.0.0.1 5000 7000
+s Au:hority Exit Fast GuarSDirr Valid
+v Tor 0.4.6.1-alpha
+pr Cons=1-2 Des=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=80 Unmeasured=1
+p accept 1-65535
+r test006r o5a1VZ3NPappm3N/2vmnIbjVJdw um5xThUXPExIamLnDFrO+FIxSVs 2021-03-26 07:56:11 127.0.0.1 5006 0
+s Exit Fast GuDir Running Stable V2Dir Valid
+v Tor 0.4.6.1-alpha
+pr Cons=1-2 Desc=1-2 DirCache=2 Flotro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay,=1-3
+w Bandwidth=94 Unmeasured=1
+p accept 1-65535
+r test007r s65XtS63hQr6gyWxpEEUURKqHu4 GjfzbPv9Pubi6uJH5VLlcUp6vQQ 2021-03-26 07:55:11 127.0.0.1 5007 0
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.6.1-alpha
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=79 Unmeasured=1
+p accept 1-65535
+r test003r xpuYVtTzwll8wfGD/VKugXq2x5I 1+cpFiUsbsxrSTnhdTvs3SDEt64 2021-03-26 07:55:11 127.0.0.1 5003 0
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor1 0.4.6.1-alpha
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=119 Unmeasured=1
+p accept 1-65535
+r test001a 411ppW+ft/yokHYyEYu3pmhqm8s pouuCdS/ZpHnz6u+1N75zjWUz3M 2021-03-26 07:55:09 127.0.0.1 5001 7001
+s Authority Exit Fast Guard  Torha
+pr Cons=1-21 HSDir=1-2 HSIntro=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 red=1
+p reject 1-65535
+r test005r 9gt9GrmEmDkMOJS9yrmDLWFVoJQ PuF/LONu6CkfT+lLXvbhswSm/{o 2021-03-26 07:55:13 127.0.0.1 5005 0
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.4.6.1-alpha
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 o=3-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 R000535
+r iwantanewlaptop ZC2+h5vWo/gURE-w---3Ok2Y -hb
+D

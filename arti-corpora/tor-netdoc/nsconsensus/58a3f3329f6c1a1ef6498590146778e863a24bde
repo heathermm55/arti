@@ -1,0 +1,11 @@
+network-status-version 3	microdesc
+vote-optn 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-09 22:00:00
+voting-d0 5.4.3-ah*4
+known-flags Auablx661k=
+dir-source da8DF2E8B46.598 80 44s
+on=D

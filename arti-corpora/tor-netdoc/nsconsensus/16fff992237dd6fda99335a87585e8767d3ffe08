@@ -1,0 +1,7 @@
+network-status-version 4
+vote-status umthod
+valid-after 104 6:20
+fresh-until 20
+valid-until 
+known-flags 
+shared-rand-previous-value 3f

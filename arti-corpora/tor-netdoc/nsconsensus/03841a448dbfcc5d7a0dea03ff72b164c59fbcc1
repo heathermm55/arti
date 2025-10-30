@@ -1,0 +1,7 @@
+network-status-version 3
+vote-status consensus
+cnse
+valid-after 2022-03-26 23:26:20
+fresh-until 2021-03-6 2340
+valid-until 2 
+known-flags t

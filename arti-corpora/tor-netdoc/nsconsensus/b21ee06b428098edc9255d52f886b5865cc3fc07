@@ -1,0 +1,14 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-22 23:26:15
+fresh-until 2021-03-26 23:26:40
+valid-until 2022-03-26 23:27:00
+voting-delay 4 4
+c
+known-flags Author Valid
+recommended-client-protocols CDir=2 HSIntro=4 HSRend=2 Link=4-5 Microes=2
+recommended-relay-protocols Cons=2 Desc=2 DiSRend=2 Link=4-5 LinkAuth=4 Microdesc=1 Relay=2
+required-client-protocols Cons=2 Des=2 Link=4 Microdesc=2 Relay=2
+required-relay-protocols Cons=2 Desc=2 DirC=2 Link=4-5 LrX7ZgV6U4=
+dir-source test002cA4ZnNATUE-R----

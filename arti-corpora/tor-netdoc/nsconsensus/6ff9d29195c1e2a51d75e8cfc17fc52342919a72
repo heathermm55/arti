@@ -1,0 +1,12 @@
+network-status-version 3
+vote-status consensus
+consensus-method 31
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:39
+valid-until 2021-03-26 23:27:00
+vot 
+server-versions 
+known-flags 0ut
+dir-source test000a E21A5E3F8346DFA38970A5C9E99A5B7B15BDC800 127.10..0 127.0.0.1 7000 5001
+contact auth0@tes.test
+vote-digest 0082--

@@ -1,0 +1,11 @@
+network-status-version 3
+vote-status consensus
+con
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:05
+voting
+known-flags Au
+params rcuititylflifeMsec=300 STrTAP=1           Erk
+dir-source d0r
+s tair

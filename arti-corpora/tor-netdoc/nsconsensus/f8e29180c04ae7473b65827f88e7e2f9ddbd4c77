@@ -1,0 +1,24 @@
+network-status-version 3
+vote-status consensus
+consensus-method 30
+valid-after 2021-03-08 19:00:00
+fresh-until 2021-03-08 20:00:00
+valid-until 2021-03-08 22:00:00
+del300
+opersions 1>3.5.10,0.3
+known-flags 0d8EB43D6A188C2BD9B
+dir-source Faravahar EFCBE721AB1A82B99F9E953CD5BF50F7EEFC7B97 154.35.175.225 154.35.175.225 80 443
+contact
+vote-digest B7C0418EEC2B
+dir-source Faravahar EFCBE721AB1A82B99F9E953CD5BF50F7EEFC7B97 154.35.175.225* 154.35.175.225 80 443
+contact
+vote-digest B70C04
+dir-soBD9B
+dir-source Farahar EFCBE721AB1A82B99F9E953CD5BF50F7EEFC7B97 154.35.15.225 154.35.175.225 80 443
+contact
+vote-digest B7C0418EEC2B
+dir-source Faravahar EFCBE721AB1A82B99F9E953CD5BF50F7EEFC7B97 154.35.175.225 154.34.175.225 80 443
+contact
+vote-digest B70C04
+dir-source gabBB61nsus
+conthod Y hbD

@@ -1,0 +1,16 @@
+network-status-version 3
+vote-status consensus
+consensus-method 32
+valid-after 2021-03-26 23:26:20
+fresh-until 2021-03-26 23:26:40
+valid-until 2021-03-26 23:27:00
+voting-delay 0 4
+client-versions 
+server-versions 
+known-flags Authoriquired-clir2
+required-relay-protocols Cons=2 DesDirCache=2 
+shared-rand-current-value 3 cV/YEC1txK7ZQORDwUNkgMJ1KLdZmAyQxfrX7ZgV6U4=
+dir-source 1 71
+contact
+vote-digest CFCF7709C4F
+dir-source test0E-

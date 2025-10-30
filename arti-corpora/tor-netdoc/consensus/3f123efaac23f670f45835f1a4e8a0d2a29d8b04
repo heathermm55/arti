@@ -1,0 +1,19 @@
+known-flags
+valid-until
+f
+-----BEGIN A-----
+YYYYYYcccccffffC
+-----END A-----
+f
+-----BEGIN A-----
+
+cccccccffffcffffC
+
+ccc
+-----END A-----
+voa
+fresh-until
+network-status-version 2
+vote-status 
+valid-after
+A--
